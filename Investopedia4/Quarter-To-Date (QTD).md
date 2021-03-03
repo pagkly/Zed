@@ -3,31 +3,31 @@ alias: [Quarter-To-Date, QTD]
 created: 2021-03-02T23:03:03 (UTC +11:00)
 tags: [Quarter-To-Date (QTD) Definition, Quarter-To-Date (QTD)]
 source: https://www.investopedia.com/terms/q/qtd.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Quarter-To-Date (QTD) Definition
+# [[Quarter-To-Date (QTD)]] Definition
 
 > ## Excerpt
 > Quarter-to-date is a time interval that captures all relevant company activity between the start of the current quarter and when the data is gathered.
 
 ---
 
-Quarter-To-Date (QTD)
-## What Is Quarter-To-Date (QTD)?
+[[Quarter-To-Date (QTD)]]
+## What Is [[Quarter-To-Date (QTD)]]?
 
-Quarter-to-date (QTD) is a time interval that captures all relevant company activity that occurred between the beginning of the current [[quarter]](https://www.investopedia.com/terms/q/quarter.asp) and the point at which the data was gathered later in the quarter. Quarter-to-date information is typically gathered in situations when the entire quarterly period has not yet ended, and it can allow management to see how the quarter is shaping up.
+[[Quarter-To-Date (QTD)|Quarter-to-date (QTD)]] is a time interval that captures all relevant company activity that occurred between the beginning of the current [[quarter]](https://www.investopedia.com/terms/q/quarter.asp) and the point at which the data was gathered later in the quarter. Quarter-to-date information is typically gathered in situations when the entire quarterly period has not yet ended, and it can allow management to see how the quarter is shaping up.
 
 ### Key Takeaways
 
--   Quarter-to-date (QTD) is a time interval that captures a company's financial information from the start of a quarter to a point later in the quarter.
+-   [[Quarter-To-Date (QTD)|Quarter-to-date (QTD)]] is a time interval that captures a company's financial information from the start of a quarter to a point later in the quarter.
 -   The information for a quarter-to-date analysis is requested before a quarter has ended in order to gauge if a company is on track to meet quarterly results.
 -   Quarter-to-date information allows management to correct course if they are not on track to meet financial targets.
 -   A quarter-to-date analysis is most useful later in the quarter when there has been enough time to collect meaningful data.
 -   Needed changes based on quarter-to-date data, however, are more impactful earlier on in the quarter.
 -   Quarter-to-date information is primarily for internal use rather than external use.
 
-## Understanding Quarter-To-Date (QTD)
+## Understanding [[Quarter-To-Date (QTD)]]
 
 In financial parlance, a quarter refers to a three-month period during a [[fiscal year]](https://www.investopedia.com/terms/f/fiscalyear.asp). Because there are 12 months in a year, there are four quarters: first quarter (Q1), second quarter (Q2), third quarter (Q3), and fourth quarter (Q4).
 
@@ -49,4 +49,4 @@ A QTD analysis is typically only for internal use rather than for external use b
 
 As such, there are not many QTD comparisons between companies because management may pull information at different times within a quarter. That being said, final quarterly results are very much comparable between companies.
 
-When comparing quarterly results, it's important to note that not all company's use the calendar year as their fiscal year. Ensuring that you are comparing the exact same time period between companies, and therefore avoiding [[seasonal]](https://www.investopedia.com/terms/s/seasonality.asp) factors, will allow for an apples to apples comparison.
+When comparing quarterly results, it's important to note that not all company's use the calendar year as their fiscal year. Ensuring that you are comparing the exact same time period between companies, and therefore avoiding [[seasonal]](https://www.investopedia.com/terms/s/[[Seasonality|seasonality]].asp) factors, [[Will|will]] allow for an apples to apples comparison.

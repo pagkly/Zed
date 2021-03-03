@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/r/racketeering.asp
 author: Shobhit Seth
 ---
 
-# Racketeering Definition
+# [[Racketeering Definition]]
 
 > ## Excerpt
 > Racketeering typically refers to crimes committed through extortion or coercion. The term is typically associated with organized crime.
 
 ---
 
-Racketeering Definition
+[[Racketeering Definition]]
 ## What Is Racketeering?
 
 The term racketeering broadly refers to criminal acts, typically those involving extortion. It is usually used in reference to patterns of illegal activity specified in the Racketeer Influenced and Corrupt Organizations Act (RICO). This is a U.S. federal law that makes it illegal to acquire or control a business through certain crimes or income from those crimes. It is also illegal to participate, even indirectly, in certain crimes committed by a business or to conspire to do any of the above under the Act.
@@ -25,7 +25,7 @@ The list of federal crimes specified in RICO includes bribery, [[fraud]](https:/
 -   Racketeering is the act of acquiring a business through illegal activity, operating a business with illegally-derived income, or using a business to commit illegal acts.
 -   The U.S. government introduced the Racketeer Influenced and Corrupt Organizations Act in October 1970 to contain racketeering.
 -   Racketeering can be prosecuted at the state or federal level.
--   Federal crimes of racketeering include bribery, gambling offenses, money laundering, obstructing justice or a criminal investigation, murder for hire, and sexual exploitation of children.
+-   Federal crimes of racketeering include bribery, gambling offenses, [[Money Laundering|money laundering]], obstructing justice or a criminal investigation, murder for hire, and sexual exploitation of children.
 -   At the state level, racketeering includes crimes such as murder, kidnapping, gambling, arson, robbery, bribery, extortion, dealing in obscene matter, and drug crimes.
 
 ## Understanding Racketeering
@@ -39,15 +39,15 @@ Racketeering can take many forms including:
 -   **Kidnapping:** This is considered racketeering when an individual is illegally detained and their captors agree to set the kidnapped individual free once a ransom is paid.
 -   **Fencing racket:** Individuals act as intermediaries to buy stolen goods from thieves at low rates. They resell them for a [[profit]](https://www.investopedia.com/terms/p/profit.asp) to unsuspecting buyers.
 
-Labor unions have also been a frequent target of racketeering allegations. Organized crime groups generally use one or more labor unions to [[extort]](https://www.investopedia.com/terms/e/extortion.asp) money from a company or contractor(s). In other cases, groups use unions to control workers. The Italian-American mafia criminal society, La Cosa Nostra, was famous for its control over [[labor unions]](https://www.investopedia.com/terms/l/labor-union.asp). La Cosa Nostra gained such a strong foothold that both company management and the labor union had to rely on the gangsters for protection.2
+Labor unions have also been a frequent target of racketeering allegations. Organized crime groups generally use one or more labor unions to [[extort]](https://www.investopedia.com/terms/e/extortion.asp) money from a company or contractor(s). In other cases, groups use unions to control workers. The Italian-American mafia criminal society, La Cosa Nostra, was famous for its control over [[labor unions]](https://www.investopedia.com/terms/l/labor-union.asp). La Cosa Nostra gained such a strong foothold that both company management and the [[Labor Union|labor union]] had to rely on the gangsters for protection.2
 
 To contain illegal collusion and profiteering through racketeering, the U.S. government introduced the Racketeer Influenced and Corrupt Organizations (RICO) Act in October 1970.3 The law permits enforcement agencies to charge individuals or groups involved in various acts of racketeering. Individuals guilty of committing RICO crimes may be prosecuted and, if found guilty, can face a 20-year prison sentence or more for serious crimes. Fines and other penalties may also apply.4
 
 ## Special Considerations
 
-Corporations may also engage in racketeering. For instance, a drug manufacturer may bribe doctors to overprescribe a medicine, thus committing [[fraud]](https://www.investopedia.com/terms/f/fraud.asp) in order to boost their profits. [[Predatory lending]](https://www.investopedia.com/terms/p/predatory_lending.asp) may also be deemed a form of racketeering. This happens when a lender tricks a borrower into taking a loan that deliberately ignores or actively hinders their ability to repay it.
+Corporations may also engage in racketeering. For instance, a drug manufacturer may bribe doctors to overprescribe a medicine, thus committing [[fraud]](https://www.investopedia.com/terms/f/fraud.asp) in order to boost their profits. [[Predatory lending]](https://www.investopedia.com/terms/p/predatory_lending.asp) may also be deemed a form of racketeering. This happens when a [[Lender|lender]] tricks a borrower into taking a [[Loan|loan]] that deliberately ignores or actively hinders their ability to repay it.
 
-An official [[personal loan]](https://www.investopedia.com/best-personal-loans-for-bad-credit-4774349) is always safer than anything a loan shark may offer you even if you have bad credit.
+An official [[personal loan]](https://www.investopedia.com/best-personal-loans-for-bad-credit-4774349) is always safer than anything a [[Loan|loan]] shark may [[Offer|offer]] you even if you have bad credit.
 
 For instance, automobile insurer State Farm was accused of illegally funding Judge Lloyd Karmeier’s 2004 election campaign by channeling money through advocacy groups that didn’t disclose donors. The case relates to long-running litigation by State Farm customers who alleged that they were given generic, substandard car parts instead of original equipment for more than a decade.5
 
@@ -58,12 +58,12 @@ The plaintiffs sought damages worth $1 billion, plus $1.8 billion in interest, i
 The Department of Justice (DOJ) provides an expansive view on RICO charges. According to the DOJ, in order to be found guilty of violating the RICO statute, the government must prove beyond a [[reasonable doubt]](https://www.investopedia.com/terms/r/reasonable-doubt.asp) that:
 
 1.  An enterprise existed.
-2.  The enterprise affected commerce across state lines.
+2.  The enterprise affected [[Commerce|commerce]] across state lines.
 3.  The individual was associated with or employed by a criminal enterprise.
 4.  The defendant engaged in racketeering activity.
-5.  The individual took part in racketeering through the commission of at least two acts of racketeering activity.6 
+5.  The individual took part in racketeering through the [[Commission|commission]] of at least two acts of racketeering activity.6 
 
-Government prosecutors primarily used the Act to target organized crime and criminal organizations when it was enacted. Before the law was in place, prosecutors were forced to try mob-related racketeering crimes individually, even though a large number of individuals may have been involved in the commission of a crime.
+Government prosecutors primarily used the Act to target organized crime and criminal organizations when it was enacted. Before the law was in place, prosecutors were forced to try mob-related racketeering crimes individually, even though a large number of individuals may have been involved in the [[Commission|commission]] of a crime.
 
 RICO allows law enforcement officials to file cases against an entire racket. The law allows prosecutors to seize the assets of an indicted party, thereby preventing the transfer of funds and property through [[shell companies]](https://www.investopedia.com/terms/s/shellcorporation.asp).
 
@@ -73,7 +73,7 @@ Providing more tools to law enforcement agencies to combat racketeering, the law
 
 Prosecutors can charge someone through RICO if they commit at least two acts of racketeering activity, one of which occurred after RICO became law and the last of which occurred within 10 years after the prior act.4
 
-Federal crimes lead to prosecution at both the federal and the state levels. Investigation of federal crimes involves national agencies such as the Federal Bureau of Investigation (FBI), Drug Enforcement Agency (DEA), Border Patrol, Department of Homeland Security, [[Internal Revenue Service (IRS)]](https://www.investopedia.com/terms/i/irs.asp), Bureau of Alcohol, Tobacco and Firearms (ATF), and the Secret Service. In some cases, international law enforcement may also participate.1
+Federal crimes lead to prosecution at both the federal and the state levels. Investigation of federal crimes involves national agencies such as the Federal Bureau of Investigation (FBI), Drug Enforcement Agency (DEA), Border Patrol, Department of Homeland [[Security]], [[Internal Revenue Service (IRS)]](https://www.investopedia.com/terms/i/irs.asp), Bureau of Alcohol, Tobacco and Firearms (ATF), and the Secret Service. In some cases, international law enforcement may also participate.1
 
 State crimes violate the laws of a particular state and are investigated by local, state, or county police. Kidnapping, robbery, and assault are considered state crimes, provided they occur within the boundaries of a particular state.
 
@@ -90,7 +90,7 @@ Officials and corporate executives from FIFA were indicted in 2015 for racketeer
 
 In November 2013, Los Angeles gang leader Kevin Eleby was sentenced to 25 years in federal prison in a RICO case. The gang used violence and intimidation to control a housing project in South Los Angeles. The RICO trial determined that the enterprise engaged in drug dealing, firearms trafficking, murder, witness intimidation, and armed robbery to control and terrorize the housing projects.11
 
-Two former Baltimore police officers pleaded guilty to federal racketeering charges in July 2017. Along with several other members of Baltimore's Gun Trace Task Force, they were accused of scheming to steal money, property, and narcotics by way of detaining individuals, entering residences, conducting traffic stops, and swearing out false search warrant affidavits.12
+Two former Baltimore police officers pleaded guilty to federal racketeering charges in July 2017. Along with several other members of Baltimore's Gun Trace Task Force, they were accused of scheming to steal money, property, and narcotics by way of detaining individuals, entering residences, conducting traffic stops, and swearing out false search [[Warrant|warrant]] affidavits.12
 
 In June 2018, Cornel Dawson, the leader of a violent street gang called Black Souls, received multiple life sentences in a racketeering case. Five more gang members received similar sentences. The gang was found guilty of illegally controlling a six-block section of Chicago. The racketeering conviction included four murders committed and involvement in drug deals.13
 
@@ -98,7 +98,7 @@ In June 2018, Cornel Dawson, the leader of a violent street gang called Black So
 
 ### What Are Examples of Racketeering?
 
-Racketeering can take many forms. Murder, money laundering, financial and economic crimes, kidnapping, sexual exploitation of children, bribery, robbery, cyber extortion, and drug crimes are examples of racketeering.
+Racketeering can take many forms. Murder, [[Money Laundering|money laundering]], financial and economic crimes, kidnapping, sexual exploitation of children, bribery, robbery, cyber extortion, and drug crimes are examples of racketeering.
 
 ### What Does RICO Stand For?
 

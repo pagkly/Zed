@@ -13,10 +13,10 @@ author: Adam Hayes
 
 ---
 
-Reading into the Dependency Ratio
+[[Reading into the Dependency Ratio]]
 ## What Is the Dependency Ratio?
 
-The dependency ratio is a measure of the number of [[dependents]](https://www.investopedia.com/terms/d/dependent.asp) aged zero to 14 and over the age of 65, compared with the total population aged 15 to 64. This demographic indicator gives insight into the number of people of non-working age, compared with the number of those of working age. It is also used to understand the relative economic burden of the workforce and has ramifications for taxation. The dependency ratio is also referred to as the total or youth dependency ratio.
+The dependency ratio is a measure of the number of [[dependents]](https://www.investopedia.com/terms/d/dependent.asp) aged zero to 14 and over the age of 65, compared with the total population aged 15 to 64. This demographic indicator gives insight into the number of people of non-working age, compared with the number of those of working age. It is also used to understand the relative economic burden of the workforce and has ramifications for [[Taxation|taxation]]. The dependency ratio is also referred to as the total or youth dependency ratio.
 
 ### Key Takeaways
 
@@ -38,7 +38,7 @@ Various employment regulations make it unlikely that individuals less than 15 ye
 
 ## An Analysis of Dependency Ratios
 
-Dependency ratios are generally reviewed to compare the percentage of the total population, classified as working age, that will support the rest of the nonworking age population. This provides an overview for economists to track shifts in the population. As the percentage of non-working citizens rises, those who are working are likely subject to increased taxes to compensate for the larger dependent population.
+Dependency ratios are generally reviewed to compare the percentage of the total population, classified as working age, that [[Will|will]] support the rest of the nonworking age population. This provides an overview for economists to track shifts in the population. As the percentage of non-working citizens rises, those who are working are likely subject to increased taxes to compensate for the larger dependent population.
 
 At times, the dependency ratio is adjusted to reflect more accurate dependency. This is due to the fact those over 64 often require more government assistance than dependents under the age of 15. As the overall age of the population rises, the ratio can be shifted to reflect the increased needs associated with an aging population.
 

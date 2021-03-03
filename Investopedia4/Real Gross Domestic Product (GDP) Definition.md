@@ -1,20 +1,20 @@
 ---
 alias: [Real Gross Domestic Product, GDP]
 created: 2021-03-02T23:09:59 (UTC +11:00)
-tags: [Real Gross Domestic Product (GDP) Definition, Real Gross Domestic Product (GDP) Definition]
+tags: [Real [[Gross Domestic Product (GDP)]] Definition, Real Gross Domestic Product (GDP) Definition]
 source: https://www.investopedia.com/terms/r/realgdp.asp
 author: Akhilesh Ganti
 ---
 
-# Real Gross Domestic Product (GDP) Definition
+# [[Real Gross Domestic Product (GDP) Definition]]
 
 > ## Excerpt
 > Real gross domestic product is an inflation-adjusted measure of the value of all goods and services produced in an economy.
 
 ---
 
-Real Gross Domestic Product (GDP) Definition
-## What Is Real Gross Domestic Product (GDP)?
+[[Real Gross Domestic Product (GDP) Definition]]
+## What Is Real [[Gross Domestic Product (GDP)]]?
 
 Real [gross domestic product](https://www.investopedia.com/terms/g/gdp.asp) (GDP) is an inflation-adjusted measure that reflects the value of all goods and services produced by an economy in a given year (expressed in base-year prices) and is often referred to as constant-price GDP, inflation-corrected GDP, or constant dollar GDP.
 
@@ -24,7 +24,7 @@ Real [gross domestic product](https://www.investopedia.com/terms/g/gdp.asp) (G
 -   Real GDP makes comparing GDP from year to year and from different years more meaningful because it shows comparisons for both the quantity and value of goods and services.
 -   Real GDP is calculated by dividing nominal GDP over a GDP deflator.
 
-## Understanding Real Gross Domestic Product (GDP)
+## Understanding Real [[Gross Domestic Product (GDP)]]
 
 Real GDPis a macroeconomic statistic that measures the value of the goods and services produced by an economy in a specific period, adjusted for inflation. Essentially, it measures a country's total economic output, adjusted for price changes. Governments use both nominal and real GDP as metrics for analyzing economic growth and purchasing power over time. 
 
@@ -32,13 +32,13 @@ The [[Bureau of Economic Analysis]](https://www.investopedia.com/terms/b/bea.asp
 
 ## Nominal GDP vs. Real GDP
 
-Because GDP is one of the most important metrics for evaluating the economic activity, stability, and growth of goods and services in an economy, it is usually reviewed from two angles: nominal and real. [[Nominal GDP]](https://www.investopedia.com/terms/n/nominalgdp.asp) is a macroeconomic assessment of the value of goods and services using current prices in its measure. Nominal GDP is also referred to as the current dollar GDP. Real GDP takes into consideration adjustments for changes in inflation. This means that if inflation is positive, real GDP will be lower than nominal, and vice versa. Without a real GDP adjustment, positive inflation greatly inflates GDP in nominal terms.
+Because GDP is one of the most important metrics for evaluating the economic activity, stability, and growth of goods and services in an economy, it is usually reviewed from two angles: nominal and real. [[Nominal GDP]](https://www.investopedia.com/terms/n/nominalgdp.asp) is a macroeconomic assessment of the value of goods and services using current prices in its measure. Nominal GDP is also referred to as the current dollar GDP. Real GDP takes into consideration adjustments for changes in inflation. This means that if inflation is positive, real GDP [[Will|will]] be lower than nominal, and vice versa. Without a real GDP adjustment, positive inflation greatly inflates GDP in nominal terms.
 
 Economists use the BEA’s real GDP headline data for macroeconomic analysis and central bank planning. The main difference between nominal GDP and real GDP is the adjustment for inflation. Since nominal GDP is calculated using current prices, it does not require any adjustments for inflation. This makes comparisons from quarter to quarter and year to year much simpler, though less relevant, to calculate and analyze.
 
 As such, real GDP provides a better basis for judging long-term national economic performance than nominal GDP. Using a [[GDP price deflator]](https://www.investopedia.com/terms/g/gdppricedeflator.asp), real GDP reflects GDP on a per quantity basis. Without real GDP, it would be difficult to identify just from examining nominal GDP whether production is actually expanding—or it's just a factor of rising per-unit prices in the economy.
 
-A positive difference in nominal minus real GDP signifies inflation and a negative difference signifies deflation. In other words, when nominal is higher than real, inflation is occurring and when real is higher than nominal, deflation is occurring. 
+A positive difference in nominal minus real GDP signifies inflation and a negative difference signifies [[Deflation|deflation]]. In other words, when nominal is higher than real, inflation is occurring and when real is higher than nominal, deflation is occurring. 
 
 ## Real GDP Calculation
 

@@ -21,9 +21,9 @@ Quarter over quarter (Q/Q) is a measure of an investment or a company's growth f
 ### Key Takeaways
 
 -   Quarter over quarter (Q/Q) measures the growth of an investment or a company from one quarter to the next.
--   Q/Q is also used to measure changes in other important statistics, such as gross domestic product (GDP).
+-   Q/Q is also used to measure changes in other important statistics, such as [[Gross Domestic Product (GDP)|gross domestic product (GDP)]].
 -   Analysts consider Q/Q when reviewing a company’s performance over multiple quarterly periods.
--   Quarterly results can be found via the Securities and Exchange Commission (SEC) or on a company's website.
+-   Quarterly results can be found via the [[Securities and Exchange Commission (SEC)]] or on a company's website.
 -   Comparing Q/Q information among companies with different quarter start dates can distort an analysis due to seasonal factors or temporary environmental conditions.
 -   There are other variations on Q/Q such as month over month and year-over-year.
 
@@ -35,13 +35,13 @@ Q/Q is a rate of change in performance between one fiscal quarter and the previo
 
 **_(Current quarter - previous quarter) / previous quarter_**
 
-Certain economic reports are released quarterly and compared to previous quarters to indicate economic growth or decline. For example, the gross domestic product (GDP) report, released by the [[Bureau of Economic Analysis]](https://www.investopedia.com/terms/b/bea.asp) (BEA), is released on a quarterly basis and influences the decisions of the government, businesses, and individuals.
+Certain economic reports are released quarterly and compared to previous quarters to indicate economic growth or decline. For example, the [[Gross Domestic Product (GDP)|gross domestic product (GDP)]] report, released by the [[Bureau of Economic Analysis]](https://www.investopedia.com/terms/b/bea.asp) (BEA), is released on a quarterly basis and influences the decisions of the government, businesses, and individuals.
 
-The report shows how GDP has changed from one quarter to the next and can signal possible economic outcomes, such as a recession or depression, as a recession is considered to be a decline in GDP over two consecutive quarters. Analyzing the change in GDP from quarter to quarter will allow policymakers to make policy adjustments to avoid further economic fallout, for example, if they are witnessing a declining GDP.
+The report shows how GDP has changed from one quarter to the next and can signal possible economic outcomes, such as a recession or depression, as a recession is considered to be a decline in GDP over two consecutive quarters. Analyzing the change in GDP from quarter to quarter [[Will|will]] allow policymakers to make policy adjustments to avoid further economic fallout, for example, if they are witnessing a declining GDP.
 
 ## Variations of Quarter Over Quarter (Q/Q)
 
-Other variations of Q/Q are month over month (M/M) and [[year-over-year]](https://www.investopedia.com/terms/y/year-over-year.asp) (YOY). The month over month measures growth over previous months but tends to be more volatile than Q/Q as the rate of change is affected by one-time events, such as natural disasters. The YOY measures changes in performance in one year over the previous year. YOY incorporates more data and thus provides a better long-term picture of the underlying report figure. The Q/Q rate of change is typically more volatile than the YOY measurement but less volatile than the M/M figure.
+Other variations of Q/Q are month over month (M/M) and [[year-over-year]](https://www.investopedia.com/terms/[[Y|y]]/year-over-year.asp) (YOY). The month over month measures growth over previous months but tends to be more volatile than Q/Q as the rate of change is affected by one-time events, such as natural disasters. The YOY measures changes in performance in one year over the previous year. YOY incorporates more data and thus provides a better long-term picture of the [[Underlying|underlying]] report figure. The Q/Q rate of change is typically more volatile than the YOY measurement but less volatile than the M/M figure.
 
 ## Real World Example
 
@@ -109,4 +109,4 @@ Source: [[IBM]](https://www.ibm.com/investor/att/pdf/IBM-2Q18-Earnings-Press-Rel
 
 While Intel’s earnings grew by 11% from the first to the second quarter in 2018, IBM’s earnings grew by an impressive 41% Q/Q. However, note that only two consecutive quarters have been examined. An investor would examine several other quarters to see if these changes are a trend or just seasonal or temporary adjustments.
 
-Comparing Q/Q information among companies with different quarter start dates can distort an analysis—the time included may vary, and seasonal factors may become skewed. An investor would have to consider several quarters over a period of time to determine whether changes reflect an ongoing trend or are impacted by external factors. It is important for any investor to remove the effects of [[seasonality]](https://www.investopedia.com/terms/s/seasonality.asp) when they can when making comparisons of companies with different quarter start dates.
+Comparing Q/Q information among companies with different quarter start dates can distort an analysis—the time included may vary, and seasonal factors may become skewed. An investor would have to consider several quarters over a period of time to determine whether changes reflect an ongoing trend or are impacted by external factors. It is important for any investor to remove the effects of [[seasonality]](https://www.investopedia.com/terms/s/[[Seasonality|seasonality]].asp) when they can when making comparisons of companies with different quarter start dates.

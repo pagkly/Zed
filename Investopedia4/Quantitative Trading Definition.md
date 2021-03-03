@@ -6,19 +6,19 @@ source: https://www.investopedia.com/terms/q/quantitative-trading.asp
 author: Rakesh Sharma
 ---
 
-# Quantitative Trading Definition
+# [[Quantitative Trading Definition]]
 
 > ## Excerpt
 > Quantitative trading consists of trading strategies which rely on mathematical computations and number crunching to identify trading opportunities.
 
 ---
 
-Quantitative Trading Definition
+[[Quantitative Trading Definition]]
 ## What is Quantitative Trading
 
 Quantitative trading consists of trading strategies based on [[quantitative analysis]](https://www.investopedia.com/terms/q/quantitativeanalysis.asp), which rely on mathematical computations and number crunching to identify trading opportunities. Price and volume are two of the more common data inputs used in quantitative analysis as the main inputs to mathematical models.
 
-As quantitative trading is generally used by financial institutions and [[hedge funds]](https://www.investopedia.com/terms/h/hedgefund.asp), the transactions are usually large and may involve the purchase and sale of hundreds of thousands of shares and other securities. However, quantitative trading is becoming more commonly used by individual investors.
+As quantitative trading is generally used by financial institutions and [[hedge funds]](https://www.investopedia.com/terms/h/hedgefund.asp), the transactions are usually large and may involve the purchase and sale of hundreds of thousands of [[Shares|shares]] and other securities. However, quantitative trading is becoming more commonly used by individual investors.
 
 ## Basics of Quantitative Trading
 
@@ -43,7 +43,7 @@ A computerized quantitative analysis reveals specific patterns in the data. When
 
 ## Example of Quantitative Trading
 
-Depending on the trader's research and preferences, quantitative trading algorithms can be customized to evaluate different parameters related to a stock. Consider the case of a trader who believes in momentum investing. She can choose to write a simple program that picks out the winners during an upward momentum in the markets. During the next market upturn, the program will buy those stocks. This is a fairly simple example of quantitative trading. Typically an assortment of parameters, from technical analysis to value stocks to fundamental analysis, are used to pick out a complex mix of stocks designed to maximize profits. These parameters are programmed into a trading system to take advantage of market movements.
+Depending on the trader's research and preferences, quantitative trading algorithms can be customized to evaluate different parameters related to a [[Stock|stock]]. Consider the case of a trader who believes in [[Momentum|momentum]] investing. She can choose to write a simple program that picks out the winners during an upward momentum in the markets. During the next market upturn, the program [[Will|will]] buy those [[Stocks|stocks]]. This is a fairly simple example of quantitative trading. Typically an assortment of parameters, from [[Technical Analysis|technical analysis]] to value stocks to [[Fundamental Analysis|fundamental analysis]], are used to pick out a complex mix of stocks designed to maximize profits. These parameters are programmed into a trading system to take advantage of market movements.
 
 ## Advantages and Disadvantages of Quantitative Trading
 

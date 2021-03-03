@@ -9,18 +9,18 @@ author: Marshall Hargrave
 # Enterprise-Value-to-Revenue Multiple – EV/R Definition
 
 > ## Excerpt
-> The enterprise value-to-revenue multiple (EV/R) is a measure of the value of a stock that compares a company's enterprise value to its revenue.
+> The enterprise value-to-revenue multiple (EV/R) is a measure of the value of a [[Stock|stock]] that compares a company's enterprise value to its revenue.
 
 ---
 
-When You Should Use the EV/R Multiple When Valuing a Company
+When You Should Use the EV/[[R Multiple When Valuing a Company]]
 ## What Is the Enterprise Value-to-Revenue Multiple (EV/R)?
 
-The enterprise value-to-revenue multiple (EV/R) is a measure of the value of a stock that compares a company's enterprise value to its revenue. EV/R is one of several fundamental indicators that investors use to determine whether a stock is priced fairly. The EV/R multiple is also often used to determine a company's [[valuation]](https://www.investopedia.com/terms/v/valuation.asp) in the case of a potential acquisition. It’s also called the [[enterprise value-to-sales]](https://www.investopedia.com/terms/e/enterprisevaluesales.asp) multiple.
+The enterprise value-to-revenue multiple (EV/R) is a measure of the value of a [[Stock|stock]] that compares a company's enterprise value to its revenue. EV/R is one of several fundamental indicators that investors use to determine whether a stock is priced fairly. The EV/R multiple is also often used to determine a company's [[valuation]](https://www.investopedia.com/terms/v/valuation.asp) in the case of a potential acquisition. It’s also called the [[enterprise value-to-sales]](https://www.investopedia.com/terms/e/enterprisevaluesales.asp) multiple.
 
 ### Key Takeaways
 
--   A measure of the value of a stock that compares a company's enterprise value to its revenue.
+-   A measure of the value of a [[Stock|stock]] that compares a company's enterprise value to its revenue.
 -   Often used to determine a company's valuation in the case of a potential acquisition.
 -   Can be used for companies that do not generate income or profits.
 
@@ -28,17 +28,17 @@ The enterprise value-to-revenue multiple (EV/R) is a measure of the value of a s
 
 The enterprise value-to-revenue (EV/R) multiple helps compare a company’s revenues to its enterprise value. The lower the better, in that, a lower EV/R multiple signals a company is undervalued.
 
-Generally used as a valuation [[multiple]](https://www.investopedia.com/terms/m/multiple.asp), the EV/R is often used during acquisitions. An acquirer will use the EV/R multiple to determine an appropriate [[fair value]](https://www.investopedia.com/video/play/fair-value/). The enterprise value is used because it adds debt and takes out cash, which an acquirer would take on and receive, respectively.
+Generally used as a valuation [[multiple]](https://www.investopedia.com/terms/m/multiple.asp), the EV/R is often used during acquisitions. An acquirer [[Will|will]] use the EV/R multiple to determine an appropriate [[fair value]](https://www.investopedia.com/video/play/fair-value/). The enterprise value is used because it adds [[Debt|debt]] and takes out cash, which an acquirer would take on and receive, respectively.
 
 ## How to Calculate Enterprise-Value-to-Revenue Multiple (EV/R)
 
 The enterprise value-to-revenue (EV/R) is easily calculated by taking the [[enterprise value]](https://www.investopedia.com/terms/e/enterprisevalue.asp) of the company and dividing it by the company's revenue.
 
-EV/R\=Enterprise ValueRevenuewhere:Enterprise Value\=MC+D−CCMC\=Market capitalizationD\=DebtCC\=Cash and cash equivalents\\begin{aligned} &\\text{EV/R} = \\frac{ \\text{Enterprise Value} }{ \\text{Revenue} } \\\\ &\\textbf{where:}\\\\ &\\text{Enterprise Value} = \\text{MC} + \\text{D} - \\text{CC} \\\\ &\\text{MC} = \\text{Market capitalization} \\\\ &\\text{D} = \\text{Debt} \\\\ &\\text{CC} = \\text{Cash and cash equivalents} \\\\ \\end{aligned}
+EV/R\=Enterprise ValueRevenuewhere:Enterprise Value\=MC+D−CCMC\=Market capitalizationD\=DebtCC\=Cash and cash equivalents\\begin{aligned} &\\text{EV/R} = \\frac{ \\text{Enterprise Value} }{ \\text{Revenue} } \\\\ &\\textbf{where:}\\\\ &\\text{Enterprise Value} = \\text{MC} + \\text{D} - \\text{CC} \\\\ &\\text{MC} = \\text{[[Market Capitalization|Market capitalization]]} \\\\ &\\text{D} = \\text{[[Debt]]} \\\\ &\\text{CC} = \\text{Cash and [[Cash Equivalents|cash equivalents]]} \\\\ \\end{aligned}
 
 ## Example of How to Use Enterprise Value-to-Revenue Multiple (EV/R)
 
-Say a company has $20 million in short-term liabilities on the books and $30 million in long-term liabilities. It has $125 million worth of assets, and 10% of those assets are reported as cash. There are 10 million shares of the company's common stock outstanding, and the current price per share of the stock is $17.50. The company reported $85 million in revenue last year.
+Say a company has $20 million in short-term liabilities on the books and $30 million in long-term liabilities. It has $125 million worth of assets, and 10% of those assets are reported as cash. There are 10 million [[Shares|shares]] of the company's [[Common Stock|common stock]] outstanding, and the current price per share of the [[Stock|stock]] is $17.50. The company reported $85 million in revenue last year.
 
 Using this scenario, the enterprise value of the company is:
 
@@ -60,10 +60,10 @@ Meanwhile, the three have revenues over the [[trailing 12 months]](https://www.i
 
 The enterprise value-to-revenue (EV/R) looks at a companies revenue-generating ability, while the enterprise value-to-EBITDA (EV/EBITDA)—also known as the [[enterprise multiple]](https://www.investopedia.com/terms/e/ev-ebitda.asp)—looks at a company’s ability to generate operating cash flows.
 
-EV/EBITDA takes into account operating expenses, while EV/R looks at just the top line. The advantage that EV/R has is that it can be used for companies that are yet to generate income or profits, such as the case with Amazon (AMZN) in its early days.
+EV/EBITDA takes into account operating expenses, while EV/R looks at just the [[Top Line|top line]]. The advantage that EV/R has is that it can be used for companies that are yet to generate income or profits, such as the case with Amazon (AMZN) in its early days.
 
 ## Limitations of Using Enterprise Value-to-Revenue Multiple (EV/R)
 
 The enterprise value-to-revenue multiple should be used to compare companies in the same industry, and as a benchmark of the ratio from best in breed in the industry to know whether the ratio represents a good performance or poor one.
 
-Also, unlike market cap, which is readily available on the likes of Yahoo! Finance, the EV/R multiple requires calculating the enterprise value. This requires adding the debt and subtracting out the cash and could involve additional factors if using the expanded version.
+Also, unlike market cap, which is readily available on the likes of Yahoo! [[Finance]], the EV/R multiple requires calculating the enterprise value. This requires adding the [[Debt|debt]] and subtracting out the cash and could involve additional factors if using the expanded version.

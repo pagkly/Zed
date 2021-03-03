@@ -13,7 +13,7 @@ author: Adam Hayes
 
 ---
 
-Reading Into the Manufacturer's Suggested Retail Price (MSRP)
+[[Reading Into the Manufacturer's Suggested Retail Price (MSRP)]]
 ## What Is the Manufacturer's Suggested Retail Price (MSRP)?
 
 The manufacturer’s suggested retail price (MSRP) is the price that a product's manufacturer recommends it be sold for at point of sale. The MSRP is also referred to as the [[list price]](https://www.investopedia.com/terms/l/list-price.asp) by some retailers. Every retail product can have an MSRP, though they are frequently used with automobiles. Other higher-priced goods, such as appliances and electronics, also have an MSRP as well.
@@ -24,7 +24,7 @@ The MSRP was designed to keep prices at the same level from store to store. But 
 
 -   The manufacturer’s suggested retail price (MSRP) is the sticker price recommended by a product's producers to retailers.
 -   They are frequently used in the sale of automobiles, although most retail products come with an MSRP.
--   Many retailers will sell products below the MSRP to reduce inventory, attract more consumers, or during a sluggish economy.
+-   Many retailers [[Will|will]] sell products below the MSRP to reduce inventory, attract more consumers, or during a sluggish economy.
 
 #### Manufacturer’s Suggested Retail Price (MSRP)
 
@@ -32,7 +32,7 @@ The MSRP was designed to keep prices at the same level from store to store. But 
 
 The manufacturer's suggested retail price is also sometimes referred to as the recommended retail price (RRP), sticker price, list price, or suggested retail price of products. This was developed to help standardize the price of goods throughout the various locations of a company’s stores.
 
-Some [[retailers]](https://www.investopedia.com/articles/markets/122415/worlds-top-10-retailers-wmt-cost.asp) sell products at or just below the MSRP. They may set the price lower if the product is on sale or has been moved to clearance. They may also reduce prices if they're trying to reduce their inventories, or they're trying to attract more consumers. Conversely, stores may set prices higher than the MSRP if a product is really popular and they know it will sell quickly.
+Some [[retailers]](https://www.investopedia.com/articles/markets/122415/worlds-top-10-retailers-wmt-cost.asp) sell products at or just below the MSRP. They may set the price lower if the product is on sale or has been moved to clearance. They may also reduce prices if they're trying to reduce their inventories, or they're trying to attract more consumers. Conversely, stores may set prices higher than the MSRP if a product is really popular and they know it [[Will|will]] sell quickly.
 
 The automotive industry frequently uses MSRP. Legally, car dealerships must display the price on a sticker on the car’s windshield or on a spec sheet. Buyers can use this price as a point to start negotiations before arriving at a fair price for the vehicle.
 
@@ -40,9 +40,9 @@ Car dealers pay manufacturers an invoice price that is at or just below the MSRP
 
 ## Setting MSRPs
 
-Because the MSRP is set by a product’s manufacturer, it should remain constant across retailers. The MSRP is supposed to reflect all the costs incurred over the manufacturing and sales process; an average [[markup]](https://www.investopedia.com/terms/m/markup.asp) by retailers is also taken into account. Prices are set to allow all parties involved—the manufacturer, wholesaler, and retailer—to make a profit from the final sale.
+Because the MSRP is set by a product’s manufacturer, it should remain constant across retailers. The MSRP is supposed to reflect all the costs incurred over the [[Manufacturing|manufacturing]] and sales process; an average [[markup]](https://www.investopedia.com/terms/m/markup.asp) by retailers is also taken into account. Prices are set to allow all parties involved—the manufacturer, wholesaler, and retailer—to make a profit from the final sale.
 
-Retailers may frequently charge less than the MSRP, but the price charged depends on the [[wholesale]](https://www.investopedia.com/terms/w/wholesaling.asp) cost, whether purchased in bulk from the manufacturer or in smaller quantities through a distributor. In many instances, the MSRP is manipulated to an unreasonably high figure. Retailers do this so they can deceptively advertise a product and list it at a much lower sale price, indicating to consumers that they're getting a far much better bargain.
+Retailers may frequently charge less than the MSRP, but the price charged depends on the [[wholesale]](https://www.investopedia.com/terms/w/[[Wholesaling|wholesaling]].asp) cost, whether purchased in bulk from the manufacturer or in smaller quantities through a distributor. In many instances, the MSRP is manipulated to an unreasonably high figure. Retailers do this so they can deceptively advertise a product and list it at a much lower sale price, indicating to consumers that they're getting a far much better bargain.
 
 ## The Trouble With Suggested Pricing Methods
 

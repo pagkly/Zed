@@ -2,33 +2,33 @@
 alias: [Quid]
 created: 2021-03-02T23:05:29 (UTC +11:00)
 tags: [Quid, Quid]
-source: https://www.investopedia.com/terms/q/quid.asp
-author: Will Kenton
+source: https://www.investopedia.com/terms/q/[[Quid|quid]].asp
+author: [[Will]] Kenton
 ---
 
-# Quid
+# [[Quid]]
 
 > ## Excerpt
-> Quid is a nickname for the British pound, also called the pound sterling, the national currency of the United Kingdom.
+> [[Quid]] is a nickname for the British pound, also called the pound sterling, the [[National Currency|national currency]] of the United Kingdom.
 
 ---
 
-Quid
-## What Is a Quid?
+[[Quid]]
+## What Is a [[Quid]]?
 
-Quid is a slang expression for the British pound sterling, or the [[British pound (GBP)]](https://www.investopedia.com/terms/g/gbp.asp), which is the currency of the United Kingdom (U.K.). A quid is equal to 100 pence, and it is generally believed to come from the Latin phrase “[quid pro quo](https://www.investopedia.com/terms/q/quidproquo.asp),” which translates into "something for something," or an equal exchange for goods or services. However, the exact etymology of the word as it relates to the British pound is still uncertain.
+[[Quid]] is a slang expression for the British pound sterling, or the [[British pound (GBP)]](https://www.investopedia.com/terms/g/gbp.asp), which is the currency of the United Kingdom (U.K.). A quid is equal to 100 pence, and it is generally believed to come from the Latin phrase “[quid pro quo](https://www.investopedia.com/terms/q/quidproquo.asp),” which translates into "something for something," or an equal exchange for goods or services. However, the exact etymology of the word as it relates to the British pound is still uncertain.
 
 ### Key Takeaways
 
--   Quid is a slang expression for the British pound sterling, or the British pound (GBP), which is the currency of the United Kingdom (U.K.).
--   A quid equals 100 pence, and is believed to come from the Latin phrase “quid pro quo,” which translates into "something for something."
--   Quid, as it describes one pound sterling, is thought to have first come into use sometime in the late 17th century, but no one knows for certain.
+-   [[Quid]] is a slang expression for the British pound sterling, or the British pound (GBP), which is the currency of the United Kingdom (U.K.).
+-   A [[Quid|quid]] equals 100 pence, and is believed to come from the Latin phrase “quid pro quo,” which translates into "something for something."
+-   [[Quid]], as it describes one pound sterling, is thought to have first come into use sometime in the late 17th century, but no one knows for certain.
 
-## Understanding Quid
+## Understanding [[Quid]]
 
-Quid, as it describes one pound sterling, is thought to have first come into use sometime in the late 17th century, but no one is quite certain why this word became synonymous with the British currency. Some scholars believe that Italian immigrants may have originated the word thanks to "scudo," the name for gold and silver coins of various denominations that were used in Italy from the 16th century through the 19th century.
+[[Quid]], as it describes one pound sterling, is thought to have first come into use sometime in the late 17th century, but no one is quite certain why this word became synonymous with the British currency. Some scholars believe that Italian immigrants may have originated the word thanks to "scudo," the name for gold and silver coins of various denominations that were used in Italy from the 16th century through the 19th century.
 
-Another possibility is that the word traces back to Quidhampton, a village in Wiltshire, England, that once was home to a Royal Mint paper mill. It’s possible that any [[paper money]](https://www.investopedia.com/terms/p/paper_money.asp) that was made in this mill might have been called a quid. Although the word’s origin continues to be a mystery, the pound sterling has a rich history of more than 12 centuries as the world's oldest currency still in use. Today, the U.K. is one of the few European countries that does not use the [[euro]](https://www.investopedia.com/terms/e/euro.asp) as a common currency. The U.K. is made up of England, Northern Ireland, Scotland, and Wales.
+Another possibility is that the word traces back to Quidhampton, a village in Wiltshire, England, that once was home to a Royal Mint paper mill. It’s possible that any [[paper money]](https://www.investopedia.com/terms/p/paper_money.asp) that was made in this mill might have been called a [[Quid|quid]]. Although the word’s origin continues to be a mystery, the pound sterling has a rich history of more than 12 centuries as the world's oldest currency still in use. Today, the U.K. is one of the few European countries that does not use the [[euro]](https://www.investopedia.com/terms/e/euro.asp) as a common currency. The U.K. is made up of England, Northern Ireland, Scotland, and Wales.
 
 ## The Pound Sterling in History
 

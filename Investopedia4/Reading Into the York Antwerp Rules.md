@@ -2,8 +2,8 @@
 alias: [York Antwerp Rules]
 created: 2021-03-03T01:08:28 (UTC +11:00)
 tags: [York Antwerp Rules Definition, Reading Into the York Antwerp Rules]
-source: https://www.investopedia.com/terms/y/york-antwerp-rules.asp
-author: Will Kenton
+source: https://www.investopedia.com/terms/[[Y|y]]/york-antwerp-rules.asp
+author: [[Will]] Kenton
 ---
 
 # York Antwerp Rules Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-Reading Into the York Antwerp Rules
+[[Reading Into the York Antwerp Rules]]
 ## What Are York Antwerp Rules?
 
 The York Antwerp Rules are a set of maritime regulations concerning protocols surrounding jettisoned [[cargo]](https://www.investopedia.com/articles/investing/030816/bulk-carrier-vs-container-vs-tanker-exploring-2016-shipping-market-c.asp).
@@ -38,6 +38,6 @@ The York Antwerp Rules are a codification of a principle called the law of gener
 
 ## When Do You Use the York Antwerp Rules?
 
-In a life-threatening situation at sea, the captain and crew may deem it necessary to jettison the cargo. To jettison cargo is a maritime term that is the last resort in an emergency situation where the crew throws the cargo overboard in order to stabilize the vessel. If there is a threat to a ship, due to damage to the hull, weather conditions, etc., the staff will jettison the cargo.
+In a life-threatening situation at sea, the captain and crew may deem it necessary to jettison the cargo. To jettison cargo is a maritime term that is the last resort in an emergency situation where the crew throws the cargo overboard in order to stabilize the vessel. If there is a threat to a ship, due to damage to the hull, weather conditions, etc., the staff [[Will|will]] jettison the cargo.
 
-While jettisoning happens as a last resort, the crew must move quickly when they throw the cargo overboard, which means they do not have time to see whose cargo gets tossed. This is when the York Antwerp Rules come into play, as those who lost their cargo will receive compensation from the profits of the ship’s owner and the owners of the other cargo.
+While jettisoning happens as a last resort, the crew must move quickly when they throw the cargo overboard, which means they do not have time to see whose cargo gets tossed. This is when the York Antwerp Rules come into play, as those who lost their cargo [[Will|will]] receive compensation from the profits of the ship’s owner and the owners of the other cargo.

@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/q/quintile.asp
 author: James Chen
 ---
 
-# Quintiles Definition
+# [[Quintiles Definition]]
 
 > ## Excerpt
 > A quintile is a statistical value of a data set that represents 20% of a given population.
 
 ---
 
-Quintiles Definition
+[[Quintiles Definition]]
 ## What are Quintiles?
 
 A quintile is a statistical value of a data set that represents 20% of a given population, so the first quintile represents the lowest fifth of the data (1% to 20%); the second quintile represents the second fifth (21% to 40%) and so on.
@@ -32,11 +32,11 @@ Quintiles are used to create cut-off points for a given population; a governme
 
 A quintile is a type of quantile, which is defined as equal-sized segments of a population. One of the most common metrics in statistical analysis, the median, is actually just the result of dividing a population into two quantiles. A quintile is one of five values that divide a range of data into five equal parts, each being 1/5th (20 percent) of the range. A population split into three equal parts is divided into tertiles, while one split into fourths is divided into [[quartiles]](https://www.investopedia.com/terms/q/quartile.asp). The larger the data set, the easier it is to divide into greater quantiles. Economists often use quintiles to analyze very large data sets, such as the population of the United States.
 
-For example, if we were to look at all of the closing prices for a specific stock for every day in the last year, the top 20% of those prices would represent the upper quintile of the data. The bottom 20% of those prices would represent the lower quintile of the data. There would be three quintiles in between the upper and lower quintiles. While the average of all the stock prices typically falls between the second and fourth quintiles, which is the middle point of the data, outliers on either the high end or the low end of the data may increase or decrease the average value. As a result, it is worth considering the distribution of the data points—and accounting for any significant outliers—when trying to understand the data and the average values.
+For example, if we were to look at all of the closing prices for a specific [[Stock|stock]] for every day in the last year, the top 20% of those prices would represent the upper quintile of the data. The bottom 20% of those prices would represent the lower quintile of the data. There would be three quintiles in between the upper and lower quintiles. While the average of all the stock prices typically falls between the second and fourth quintiles, which is the middle point of the data, outliers on either the high end or the low end of the data may increase or decrease the average value. As a result, it is worth considering the distribution of the data points—and accounting for any significant outliers—when trying to understand the data and the average values.
 
 ## Common Uses of Quintiles
 
-Politicians invoke quintiles to illustrate the need for policy changes. For example, a politician who champions economic justice can divide the population into quintiles to illustrate how the top 20% of income earners controls what is, in his opinion, an unfairly large share of the wealth. On the other end of the spectrum, a politician calling for an end to progressive taxation might use quintiles to make the argument that the top 20% shoulder too large a share of the tax burden.
+Politicians invoke quintiles to illustrate the need for policy changes. For example, a politician who champions [[Economic Justice|economic justice]] can divide the population into quintiles to illustrate how the top 20% of income earners controls what is, in his opinion, an unfairly large share of the wealth. On the other end of the spectrum, a politician calling for an end to progressive [[Taxation|taxation]] might use quintiles to make the argument that the top 20% shoulder too large a share of the tax burden.
 
 In "The Bell Curve," a controversial 1994 book on intelligence quotient (IQ), the authors use quintiles throughout the text to illustrate their research, showing that IQ is heavily correlated with positive outcomes in life.
 

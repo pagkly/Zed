@@ -13,7 +13,7 @@ author: Alicia Tuovila
 
 ---
 
-Quality of Earnings Definition
+[[Quality of Earnings Definition]]
 ## What Is Quality of Earnings?
 
 A company's quality of earnings is revealed by dismissing any [[anomalies]](https://www.investopedia.com/terms/a/anomaly.asp), accounting tricks, or one-time events that may skew the real bottom-line numbers on performance. Once these are removed, the earnings that are derived from higher sales or lower costs can be seen clearly.
@@ -24,14 +24,14 @@ In general, earnings that are calculated conservatively are considered more reli
 
 Fortunately, there are [[generally accepted accounting principles]](https://www.investopedia.com/terms/g/gaap.asp) (GAAP). The more closely a company sticks to those standards, the higher its quality of earnings is likely to be.
 
-Several major financial scandals, including Enron and Worldcom, have been extreme examples of poor earnings quality that misled investors.
+Several major financial scandals, including [[Enron]] and [[WorldCom|Worldcom]], have been extreme examples of poor earnings quality that misled investors.
 
 ### Key Takeaways
 
 -   A company's real quality of earnings can only be revealed by spotting and removing any anomalies, accounting tricks, or one-time events that skew the numbers.
 -   Quality of earnings is the percentage of income that is due to higher sales or lower costs. 
--   An increase in net income without a corresponding increase in cash flow from operations is a red flag.
--   Tracking activity from the income statement through to the balance sheet and cash flow statement is a good way to gauge quality of earnings.
+-   An increase in net income without a corresponding increase in [[Cash Flow|cash flow]] from operations is a red flag.
+-   Tracking activity from the income statement through to the balance sheet and [[Cash Flow Statement|cash flow statement]] is a good way to gauge quality of earnings.
 
 ## Understanding Quality of Earnings
 
@@ -41,7 +41,7 @@ But how reliable are these earnings numbers? Due to the myriad of [accounting c
 
 Some companies manipulate earnings downward to reduce the taxes they owe. Others find ways to artificially inflate earnings to make them look better to analysts and investors.
 
-Companies that manipulate their earnings are said to have poor or low earnings quality. Companies that do not manipulate their earnings have a high quality of earnings.This is because as a company's quality of earnings improves, its need to manipulate earnings to portray a certain financial state decreases. However, many companies with high earnings quality will still adjust their financial information to minimize their tax burden.
+Companies that manipulate their earnings are said to have poor or low earnings quality. Companies that do not manipulate their earnings have a high quality of earnings.This is because as a company's quality of earnings improves, its need to manipulate earnings to portray a certain financial state decreases. However, many companies with high earnings quality [[Will|will]] still adjust their financial information to minimize their tax burden.
 
 As noted above, companies with a high quality of earnings stick with the GAAP standards. The fundamental qualities of those standards are reliability and relevance. That is:
 
@@ -56,12 +56,12 @@ Analysts usually start at the top of the [[income statement]](https://www.invest
 
 Working down the income statement, analysts then might look for variations between operating [[cash flow]](https://www.investopedia.com/terms/c/cashflow.asp) and net income. A company that has a high net income but negative cash flows from operations is achieving those apparent earnings somewhere other than sales.
 
-One-time adjustments to net income, also known as nonrecurring income or expenses, are another red flag. For example, a company may decrease expenses in the current year by refinancing all of its [[debt]](https://www.investopedia.com/terms/d/debt.asp) into a future balloon payment. This would lower debt expense and increase net income for the current year while pushing the repayment problem down the road. Naturally, long-term investors don't care for that move.
+One-time adjustments to net income, also known as nonrecurring income or expenses, are another red flag. For example, a company may decrease expenses in the current year by refinancing all of its [[debt]](https://www.investopedia.com/terms/d/[[Debt|debt]].asp) into a future balloon payment. This would lower debt expense and increase net income for the current year while pushing the repayment problem down the road. Naturally, long-term investors don't care for that move.
 
 ### Example of Earnings Manipulation
 
-A company can manipulate popular earnings measures such as [[earnings per share]](https://www.investopedia.com/terms/e/eps.asp) and [[price-to-earnings]](https://www.investopedia.com/terms/p/price-earningsratio.asp) ratio by buying back shares of its own stock, which reduces the number of shares outstanding. In this way, a company with declining net income may be able to post earnings-per-share growth.
+A company can manipulate popular earnings measures such as [[earnings per share]](https://www.investopedia.com/terms/e/eps.asp) and [[price-to-earnings]](https://www.investopedia.com/terms/p/price-earningsratio.asp) ratio by buying back [[Shares|shares]] of its own [[Stock|stock]], which reduces the number of shares outstanding. In this way, a company with declining net income may be able to post earnings-per-share growth.
 
-When earnings-per-share goes up, the price-to-earnings ratio goes down. That should signal that the stock is [[undervalued]](https://www.investopedia.com/terms/u/undervalued.asp). It doesn't, though, if the company changed the number by simply repurchasing shares.
+When earnings-per-share goes up, the price-to-earnings ratio goes down. That should signal that the [[Stock|stock]] is [[undervalued]](https://www.investopedia.com/terms/u/undervalued.asp). It doesn't, though, if the company changed the number by simply repurchasing [[Shares|shares]].
 
-It is particularly worrisome when a company takes on additional debt to finance stock repurchases. Companies might do this to artificially inflate the per-share price of their stock by reducing the number of shares available for purchase on the open market, thus giving the impression that the value of the stock has increased.
+It is particularly worrisome when a company takes on additional [[Debt|debt]] to [[Finance|finance]] [[Stock|stock]] repurchases. Companies might do this to artificially inflate the per-share price of their stock by reducing the number of [[Shares|shares]] available for purchase on the open market, thus giving the impression that the value of the stock has increased.

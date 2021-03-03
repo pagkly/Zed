@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/q/quartile.asp
 author: Daniel Liberto
 ---
 
-# Quartile Definition
+# [[Quartile Definition]]
 
 > ## Excerpt
 > A quartile is a statistical term describing a division of a data set into four defined intervals.
 
 ---
 
-Quartile Definition
+[[Quartile Definition]]
 ## What Is a Quartile?
 
 A quartile is a [[statistical]](https://www.investopedia.com/terms/s/statistics.asp) term that describes a division of observations into four defined intervals based on the values of the data and how they compare to the entire set of observations. 
@@ -24,7 +24,7 @@ To understand the quartile, it is important to understand the [median](https://
 
 So, given a set of 13 numbers, the median would be the seventh number. The six numbers preceding this value are the lowest numbers in the data, and the six numbers after the median are the highest numbers in the dataset given. Because the median is not affected by extreme values or outliers in the distribution, it is sometimes preferred to the [mean](https://www.investopedia.com/terms/m/mean.asp).
 
-The median is a robust estimator of location but says nothing about how the data on either side of its value is spread or dispersed. Tha's where the quartile steps in. The quartile measures the spread of values above and below the mean by dividing the distribution into four groups.
+The median is a [[Robust|robust]] estimator of location but says nothing about how the data on either side of its value is spread or dispersed. Tha's where the quartile steps in. The quartile measures the spread of values above and below the mean by dividing the distribution into four groups.
 
 ### Key Takeaways
 
@@ -55,7 +55,7 @@ Suppose the distribution of math scores in a class of 19 students in ascending o
 
 First, mark down the median, Q2, which in this case is the 10th value: 75.
 
-Q1 is the central point between the smallest score and the median. In this case, Q1 falls between the first and fifth score: 68. \[Note that the median can also be included when calculating Q1 or Q3 for an odd set of values. If we were to include the median on either side of the middle point, then Q1 will be the middle value between the first and 10th score, which is the average of the fifth and sixth score—(fifth + sixth)/2 = (68 + 69)/2 = 68.5\].
+Q1 is the central point between the smallest score and the median. In this case, Q1 falls between the first and fifth score: 68. \[Note that the median can also be included when calculating Q1 or Q3 for an odd set of values. If we were to include the median on either side of the middle point, then Q1 [[Will|will]] be the middle value between the first and 10th score, which is the average of the fifth and sixth score—(fifth + sixth)/2 = (68 + 69)/2 = 68.5\].
 
 Q3 is the middle value between Q2 and the highest score: 84. \[Or if you include the median, Q3 = (82 + 84)/2 = 83\].
 
@@ -67,7 +67,7 @@ Q1 tells us that 25% of the scores are less than 68 and 75% of the class scores 
 
 If the datapoint for Q1 is farther away from the median than Q3 is from the median, then we can say that there is a greater dispersion among the smaller values of the dataset than among the larger values. The same logic applies if Q3 is farther away from Q2 than Q1 is from the median.
 
-Alternatively, if there is an even number of datapoints, the median will be the average of the middle two numbers. In our example above, if we had 20 students instead of 19, the median of their scores will be the [arithmetic average](https://www.investopedia.com/terms/a/arithmeticmean.asp) of the 10th and 11th number.
+Alternatively, if there is an even number of datapoints, the median [[Will|will]] be the average of the middle two numbers. In our example above, if we had 20 students instead of 19, the median of their scores will be the [arithmetic average](https://www.investopedia.com/terms/a/arithmeticmean.asp) of the 10th and 11th number.
 
 Quartiles are used to calculate the interquartile range, which is a measure of variability around the median. The interquartile range is simply calculated as the difference between the first and third quartile: Q3–Q1. In effect, it is the range of the middle half of the data that shows how spread out the data is.
 

@@ -6,29 +6,29 @@ source: https://www.investopedia.com/terms/r/ria.asp
 author: Adam Hayes
 ---
 
-# Registered Investment Advisor (RIA) Definition
+# [[Registered Investment Advisor (RIA) Definition]]
 
 > ## Excerpt
 > A Registered Investment Advisor manages high-worth investment portfolios and advises on investment strategies and transactions for them.
 
 ---
 
-Registered Investment Advisor (RIA) Definition
+[[Registered Investment Advisor (RIA) Definition]]
 ## What Is a Registered Investment Advisor (RIA)?
 
-A Registered Investment Advisor (RIA) is a person or firm who advises high-net-worth individuals on investments and manages their portfolios. RIAs have a fiduciary duty to their clients, which means they have a fundamental obligation to provide [[investment advice]](https://www.investopedia.com/terms/i/investment-advice.asp) that always acts in their clients' best interests.
+A Registered Investment Advisor (RIA) is a person or firm who advises high-net-worth individuals on investments and manages their portfolios. RIAs have a [[Fiduciary|fiduciary]] duty to their clients, which means they have a fundamental obligation to provide [[investment advice]](https://www.investopedia.com/terms/i/investment-advice.asp) that always acts in their clients' best interests.
 
-As the first word of their title indicates, RIAs are required to register either with the Securities and Exchange Commission (SEC) or [[state securities administrators.]](https://www.investopedia.com/terms/s/stateadmin.asp)
+As the first word of their title indicates, RIAs are required to register either with the [[Securities and Exchange Commission (SEC)]] or [[state securities administrators.]](https://www.investopedia.com/terms/s/stateadmin.asp)
 
 ### Key Takeaways
 
 -   A registered investment advisor (RIA) manages the assets of individual and institutional investors.
--   As a buy-side investment service and fiduciary, RIAs must register with the SEC and state regulatory agencies.
--   Paid much like portfolio managers, RIAs usually earn their revenue through a management fee comprised of a percentage of assets held for a client (typically 1% per year of AUM).
+-   As a buy-side investment service and [[Fiduciary|fiduciary]], RIAs must register with the SEC and state regulatory agencies.
+-   Paid much like [[Portfolio|portfolio]] managers, RIAs usually earn their revenue through a [[Management Fee|management fee]] comprised of a percentage of assets held for a client (typically 1% per year of AUM).
 
 ## Understanding RIAs
 
-Regulated directly by the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC), RIAs are considered to be acting in a [fiduciary](https://www.investopedia.com/terms/f/fiduciary.asp) capacity, and so held to a higher standard of conduct than registered representatives. This fiduciary standard mandates that an RIA must always unconditionally put the client’s best interests ahead of his or her own, regardless of all other circumstances.
+Regulated directly by the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC), RIAs are considered to be acting in a [fiduciary](https://www.investopedia.com/terms/f/[[Fiduciary|fiduciary]].asp) capacity, and so held to a higher standard of conduct than registered representatives. This fiduciary standard mandates that an RIA must always unconditionally put the client’s best interests ahead of his or her own, regardless of all other circumstances.
 
 RIAs are also required to disclose any possible conflicts of interest to their clients and act in an ethical manner in all of their business dealings. Some RIAs charge clients a percentage of their [assets under management](https://www.investopedia.com/terms/a/aum.asp) while others charge either an hourly or a flat fee to dispense advice. Advisors who choose the latter model for their practices must obtain a [Series 65](https://www.investopedia.com/terms/s/series65.asp) license.
 
@@ -48,16 +48,16 @@ Some [[critics complain that it is too easy]](https://www.investopedia.com/artic
 
 Beyond simply registering to receive their certification, RIAs must follow certain practices and procedures when furnishing advice to their clients. Those include disclosing any risks or possible conflicts of interest of the specific transactions they recommend, and ensuring the client understands those.
 
-If, at any point, an advisor is confronted by a client over the suitability of an investment, the burden is with the advisor to demonstrate that all measures were taken to disclose the risk, as well as to ascertain suitability.
+If, at any point, an advisor is confronted by a client over the suitability of an investment, the burden is with the advisor to demonstrate that all measures were taken to disclose the [[Risk|risk]], as well as to ascertain suitability.
 
-From the perspective of the SEC, documentation is everything. If the SEC were ever to get involved in the investigation of an investor complaint, it requires full documentation on the investment strategy used, along with client records that demonstrate knowledge of the client’s investment profile and risk tolerance.
+From the perspective of the SEC, documentation is everything. If the SEC were ever to get involved in the investigation of an investor complaint, it requires full documentation on the investment strategy used, along with client records that demonstrate knowledge of the client’s investment profile and [[Risk|risk]] tolerance.
 
 ## RIA Competitors
 
 RIAs tend to compete with the following groups for the provision of investment services:
 
 -   Mutual funds
--   Hedge funds
+-   [[Hedge]] funds
 -   Wire house firms (e.g. investment banks) - via [wrap programs](https://www.investopedia.com/terms/w/wrapaccount.asp) for individual brokers
 -   Online or discount brokers who cater to do-it-yourself investors
 -   Roboadvisors

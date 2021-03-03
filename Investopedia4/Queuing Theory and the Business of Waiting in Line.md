@@ -3,7 +3,7 @@ alias: [Queuing Theory]
 created: 2021-03-02T23:05:29 (UTC +11:00)
 tags: [Queuing Theory Definition, Queuing Theory and the Business of Waiting in Line]
 source: https://www.investopedia.com/terms/q/queuing-theory.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Queuing Theory Definition
@@ -13,12 +13,12 @@ author: Will Kenton
 
 ---
 
-Queuing Theory and the Business of Waiting in Line
+[[Queuing Theory and the Business of Waiting in Line]]
 ## What Is Queuing Theory?
 
 Queuing theory is the mathematical study of the congestion and delays of waiting in line. Queuing theory (or "queueing theory") examines every component of waiting in line to be served, including the arrival process, service process, number of servers, number of system places, and the number of customers—which might be people, data packets, cars, etc.
 
-As a branch of operations research, queuing theory can help users make informed business decisions on how to build efficient and cost-effective [[workflow]](https://www.investopedia.com/terms/w/workflow.asp) systems. Real-life applications of queuing theory cover a wide range of applications, such as how to provide faster [[customer service]](https://www.investopedia.com/terms/c/customer-service.asp), improve traffic flow, efficiently ship orders from a warehouse, and design of telecommunications systems, from data networks to call centers.
+As a branch of operations research, queuing theory can help users make informed business decisions on how to build efficient and cost-effective [[workflow]](https://www.investopedia.com/terms/w/[[Workflow|workflow]].asp) systems. Real-life applications of queuing theory cover a wide range of applications, such as how to provide faster [[customer service]](https://www.investopedia.com/terms/c/customer-service.asp), improve traffic flow, efficiently ship orders from a warehouse, and design of telecommunications systems, from data networks to call centers.
 
 ## How Queuing Theory Works
 
@@ -39,7 +39,7 @@ Queuing theory as an operations management technique is commonly used to determi
 ### Key Takeaways
 
 -   Queuing theory is the study of congestion and waiting in line.
--   The theory can help with creating an efficient and cost-effective workflow, allowing the user to improve traffic flow.
+-   The theory can help with creating an efficient and cost-effective [[Workflow|workflow]], allowing the user to improve traffic flow.
 -   Queuing theory assesses two key aspects—customer arrival at the facility and service requirements.
 -   Often used as an operations management tool, queuing theory can address staffing, scheduling, and customer service shortfalls.
 

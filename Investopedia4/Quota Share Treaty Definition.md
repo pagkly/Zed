@@ -6,27 +6,27 @@ source: https://www.investopedia.com/terms/q/quota-share-treaty.asp
 author: Julia Kagan
 ---
 
-# Quota Share Treaty Definition
+# [[Quota Share Treaty Definition]]
 
 > ## Excerpt
 > A quota share treaty is a pro rata reinsurance contract in which the insurer and reinsurer share premiums and losses according to a fixed percentage.
 
 ---
 
-Quota Share Treaty Definition
+[[Quota Share Treaty Definition]]
 ## What Is a Quota Share Treaty?
 
-A quota share treaty is a pro-rata [[reinsurance]](https://www.investopedia.com/terms/r/reinsurance.asp) contract in which the insurer and reinsurer share premiums and losses according to a fixed percentage. Quota share reinsurance allows an insurer to retain some risk and premium while sharing the rest with an insurer up to a predetermined maximum coverage. Overall, it's a way for an insurer to boost and preserve some of its capital.
+A quota share treaty is a pro-rata [[reinsurance]](https://www.investopedia.com/terms/r/reinsurance.asp) contract in which the insurer and reinsurer share premiums and losses according to a fixed percentage. Quota share reinsurance allows an insurer to retain some [[Risk|risk]] and [[Premium|premium]] while sharing the rest with an insurer up to a predetermined maximum coverage. Overall, it's a way for an insurer to boost and preserve some of its capital.
 
 ### Key Takeaways
 
--   A quota share treaty is utilized when an insurer wants to free up cash flow in order to be able to underwrite more policies.
--   A quota share treaty lowers the financial risk to the primary insurer.
--   These types of treaties are enacted when an insurer wants to diversify its risk and is in a position to take less profit from a premium in exchange.
+-   A quota share treaty is utilized when an insurer wants to free up [[Cash Flow|cash flow]] in order to be able to underwrite more policies.
+-   A quota share treaty lowers the financial [[Risk|risk]] to the primary insurer.
+-   These types of treaties are enacted when an insurer wants to diversify its [[Risk|risk]] and is in a position to take less profit from a [[Premium|premium]] in exchange.
 
 ## Understanding Quota Share Treaties
 
-When an insurance company underwrites a new policy, the policyholder pays it a premium. In exchange, it agrees to indemnify the policyholder up to the coverage limit. The more policies that an insurer underwrites, the more its [[liabilities]](https://www.investopedia.com/terms/l/liability.asp) will grow, and at some point, it will run out of capacity to underwrite any new policies.
+When an insurance company underwrites a new policy, the policyholder pays it a [[Premium|premium]]. In exchange, it agrees to indemnify the policyholder up to the coverage limit. The more policies that an insurer underwrites, the more its [[liabilities]](https://www.investopedia.com/terms/l/[[Liability|liability]].asp) [[Will|will]] grow, and at some point, it will run out of capacity to underwrite any new policies.
 
 In order to free up capacity, the insurer can cede some of its liabilities to a reinsurer through a reinsurance treaty. In exchange for taking on an insurer's liabilities, the reinsurer receives a portion of the policy premiums.
 
@@ -38,7 +38,7 @@ Quota share treaties are a form of proportional reinsurance, as they give a rein
 
 ## How Quota Share Treaties Work
 
-Think of a quota share treaty as giving away a part of an insurer's retention. In return, the insurer gets to increase its acceptance capacity with automatic cover.
+Think of a quota share treaty as giving away a part of an insurer's retention. In [[Return|return]], the insurer gets to increase its acceptance capacity with automatic cover.
 
 A quota share treaty reduces financial exposure to adverse claim fluctuations. The [[cedent]](https://www.investopedia.com/terms/c/cedent.asp) can continue to participate in the underwriting gains in some negotiated percentage, even though it has reinsured the business, and has access to outside expertise from a professional reinsurer. 
 

@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/r/reference-number.asp
 author: Julia Kagan
 ---
 
-# Reference Number Definition
+# [[Reference Number Definition]]
 
 > ## Excerpt
 > A reference number is a unique identifier assigned to any financial transaction including those made using a credit or debit card.
 
 ---
 
-Reference Number Definition
+[[Reference Number Definition]]
 ## What Is a Reference Number?
 
 A reference number is a unique identifier assigned to any financial transaction including those made using a credit or [[debit card]](https://www.investopedia.com/terms/d/debitcard.asp). The reference number is created technologically and designated for a single transaction. A reference number helps an institution identify transactions in records and electronic databases used to monitor transactions associated with a card. Reference numbers from each transaction on a customer’s account are usually included in a cardholder’s monthly statement.
@@ -22,7 +22,7 @@ A reference number is a unique identifier assigned to any financial transaction 
 
 -   Reference numbers are identifiers (a group of random numbers and/or letters) assigned to credit or debit transactions.  
 -   These numbers make answering queries and questions easier and quicker for customer service reps. 
--   Other types of reference numbers can include those on credit card or loan applications, those given by merchants during a transaction, or those given by customer service reps when a customer inquiries about a product or service.
+-   Other types of reference numbers can include those on credit card or [[Loan|loan]] applications, those given by merchants during a transaction, or those given by customer service reps when a customer inquiries about a product or service.
 
 ## Understanding Reference Number
 
@@ -42,9 +42,9 @@ If a card has been compromised or used for fraudulent purposes, card companies c
 
 ## Types of Reference Numbers 
 
-In some cases, customer service inquiries and calls may also generate a reference number. For example, if a customer calls to inquire about a product or service, the customer service representative may give that consumer a reference number to quote if they call back at a future date in order to complete the transaction. Reference numbers also provide operational transaction details for merchants. Merchants can use reference numbers to identify and track every transaction made from their business.
+In some cases, customer service inquiries and calls may also generate a reference number. For example, if a customer calls to inquire about a product or service, the customer service representative may give that consumer a reference number to [[Quote|quote]] if they call back at a future date in order to complete the transaction. Reference numbers also provide operational transaction details for merchants. Merchants can use reference numbers to identify and track every transaction made from their business.
 
-Reference numbers may also be assigned to a credit card or [[loan application]](https://www.investopedia.com/articles/personal-finance/010516/how-apply-personal-loan.asp). The location of the reference number, in this case, varies depending on the issuer or provider. Typically, it’s at the end of an application form or provided in an email or letter from the company. Most reference numbers will be found at the top of the application submission form which shows up after submitting an application. It’s also usually quoted at the top of a follow-up email or letter from the company. Many companies provide reference numbers for credit cards or loans, while some do not. 
+Reference numbers may also be assigned to a credit card or [[loan application]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/010516/how-apply-personal-[[Loan|loan]].asp). The location of the reference number, in this case, varies depending on the issuer or provider. Typically, it’s at the end of an application form or provided in an email or letter from the company. Most reference numbers [[Will|will]] be found at the top of the application submission form which shows up after submitting an application. It’s also usually quoted at the top of a follow-up email or letter from the company. Many companies provide reference numbers for credit cards or loans, while some do not. 
 
 ## Frequently Asked Questions
 
