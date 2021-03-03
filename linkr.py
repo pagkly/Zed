@@ -103,6 +103,23 @@ else:
     print("-p = only the first occurrence of a page title (or alias) in each paragraph will be linked ('paragraph mode')")
     exit()
 
+
+from sys import platform
+if platform == "win32":
+    #os.system('taskkill /IM C:\ProgramData\chocolatey\bin\chromedriver.exe /F')
+    # vars
+    #==========================================================#
+    #https://stackoverflow.com/questions/38544618/userprofile-env-variable-for-python
+    updir=os.environ['USERPROFILE']
+    print(updir)
+    exdir=os.path.join(updir, r'AppData\Roaming\Mozilla\Firefox\Profiles\buaivdxq.default-release\extensions')
+    downdir=os.path.join(updir, r'Documents\Arthur\Investopedia3')
+    profiledir=os.path.join(updir, r'AppData\Roaming\Mozilla\Firefox\Profiles\buaivdxq.default-release')
+    profdirc=r'AppData\Local\Google\Chrome\UD2'
+    pdirc=os.path.join(updir, profdirc)
+    print(pdirc)
+    
+obsidian_home=
 aliases_file = obsidian_home + "/aliases" + (".yml" if yaml_mode else ".md")
 
 # get a directory listing of obsidian *.md files
@@ -193,4 +210,6 @@ if paragraph_mode:
 else:
     linked_txt = link_content(clip_txt)
 
+
+print(linked_txt)
 
