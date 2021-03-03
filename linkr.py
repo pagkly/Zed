@@ -88,7 +88,7 @@ if platform == "win32":
     updir=os.environ['USERPROFILE']
     print(updir)
     exdir=os.path.join(updir, r'AppData\Roaming\Mozilla\Firefox\Profiles\buaivdxq.default-release\extensions')
-    downdir=os.path.join(updir, r'Documents\Arthur\Investopedia3')
+    downdir=os.path.join(updir, r'Documents\Arthur\Investopedia4')
     profiledir=os.path.join(updir, r'AppData\Roaming\Mozilla\Firefox\Profiles\buaivdxq.default-release')
     profdirc=r'AppData\Local\Google\Chrome\UD2'
     pdirc=os.path.join(updir, profdirc)
@@ -190,18 +190,22 @@ print('----------------------')
 import glob
 
 txtfiles = []
-for file in glob.glob("*.md"):
-    txtfiles.append(file)
+for file in glob.glob(os.path.join(obsidian_home,"*.md")):
+    print(file)
+    f = open(file, "r")
+    print(f)
+    time.sleep(3600)
     # prepare our linked text output
     linked_txt = ""
 
     if paragraph_mode:
-        for paragraph in clip_txt.split("\n"):
+        for paragraph in f.split("\n"):
             linked_txt += link_content(paragraph) + "\n"
         linked_txt = linked_txt[:-1] # scrub the last newline
     else:
         linked_txt = link_content(clip_txt)
 
 
-    #print(linked_txt)
+    print(linked_txt)
+    time.sleep(3600)
 
