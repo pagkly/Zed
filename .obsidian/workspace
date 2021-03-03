@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia3/A Definition and Explanation of Free On Board (FOB).md",
+            "file": "Investopedia3/Cost and Freight (CFR) Definition.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia3/A Definition and Explanation of Free On Board (FOB).md",
+                "file": "Investopedia3/Cost and Freight (CFR) Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia3/A Definition and Explanation of Free On Board (FOB).md"
+                "file": "Investopedia3/Cost and Freight (CFR) Definition.md"
               }
             }
           },
@@ -138,6 +138,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Investopedia3/Cost and Freight (CFR) Definition.md",
     "Investopedia3/A Definition and Explanation of Free On Board (FOB).md",
     "Investopedia3/1913 Federal Reserve Act.md",
     "Investopedia3/A Closer Look at Grace Periods.md",
@@ -146,7 +147,6 @@
     "Investopedia3/Define Neoclassical Economics.md",
     "Investopedia3/Define Unrestricted Net Assets.md",
     "Investopedia3/How Withdrawal Credits for Pension Plans Work.md",
-    "Investopedia3/Defined-Benefit Plan.md",
-    "Investopedia3/Define Employee Stock Option (ESO).md"
+    "Investopedia3/Defined-Benefit Plan.md"
   ]
 }

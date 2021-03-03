@@ -30,7 +30,7 @@ Companies receive credit ratings agencies that evaluate the firm's creditworthin
 
 [Moody's Investors Service](https://www.investopedia.com/terms/m/moodys.asp) ("Moody's) and [Standard & Poor's Financial Services](https://www.investopedia.com/terms/s/sp.asp) ("S&P") are two major credit rating agencies that notch up or notch down instruments within the same corporate family depending on placement in an [obligor's](https://www.investopedia.com/terms/o/obligor.asp) capital structure and their level of collateral.
 
-The base from which an instrument is notched in either direction is an obligor's senior unsecured debt (base = 0), or the corporate family rating (CFR). Notching also applies to the structural subordination of debt issued by operating subsidiaries or holding companies, according to S&P. As an example, the debt of a holding company of an enterprise could be rated lower than the debt of the subsidiaries, the entities that directly own the enterprise's assets and cash flows.
+The base from which an instrument is notched in either direction is an obligor's senior unsecured debt (base = 0), or the corporate family rating ([[Cost and Freight (CFR) Definition|CFR]]). Notching also applies to the structural subordination of debt issued by operating subsidiaries or holding companies, according to S&P. As an example, the debt of a holding company of an enterprise could be rated lower than the debt of the subsidiaries, the entities that directly own the enterprise's assets and cash flows.
 
 ## Moody's Updated Notching Guidance
 

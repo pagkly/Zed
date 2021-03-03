@@ -49,7 +49,7 @@ The ICC updates Incoterms every 10 years. The following is an example of the kin
 -   Delivered duty paid (DDP).
 -   [Free alongside](https://www.investopedia.com/terms/f/fas.asp) (FAS).
 -   Free on board (FOB).
--   Cost and freight (CFR).
+-   [[Cost and Freight (CFR) Definition|Cost and freight]] ([[Cost and Freight (CFR) Definition|CFR]]).
 -   [Cost, insurance, and freight](https://www.investopedia.com/terms/c/cif.asp) (CIF).
 
 All Incoterms are legal terms, but their exact definitions can differ by country. Using clarity and specificity when citing them is critical.
