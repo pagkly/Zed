@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "FMI/About the Level 1 (AFM) Exam.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FMI/About the Level 1 (AFM) Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "FMI/About the Level 1 (AFM) Exam.md"
+              }
             }
           },
           {
@@ -133,6 +139,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "FMI/About the Level 1 (AFM) Exam.md",
+    "FMI/Absolute and Relative Cell Referencing.md",
     "FMI/Absolute and Relative Cell Referencing/7-day-post-promo-689.jpg",
     "Day Planners/20210304.md",
     "FMI/Aggregation Functions  Plum Solutions.md",
@@ -140,8 +148,6 @@
     "FMI/Mock Exam Case study  Plum Solutions.md",
     "FMI/Equity Schedule Case Study  Plum Solutions.md",
     "FMI/Equity & Completing the Financial Statements.md",
-    "FMI/Dummies Case Study Financial Statements Part 2.md",
-    "Day Planners/20210303.md",
-    "fmi/Advanced Conditional Formatting  Plum Solutions.md"
+    "FMI/Dummies Case Study Financial Statements Part 2.md"
   ]
 }
