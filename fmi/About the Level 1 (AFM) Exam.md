@@ -1,3 +1,19 @@
+---
+alias: [About the Level 1 (AFM) Exam | Plum Solutions]
+created: 2021-03-03T08:03:30 (UTC -05:00)
+tags: [About the Level 1 (AFM) Exam | Plum Solutions, About the Level 1 (AFM) Exam]
+source: https://plumsolutions.com.au/lessons/module-1-about-the-level-1-afm-exam/
+author: 
+---
+
+# About the Level 1 (AFM) Exam | Plum Solutions
+
+> ## Excerpt
+> You must watch the videos and complete the quiz questions in order to complete the module.
+
+---
+
+About the Level 1 (AFM) Exam
 You must watch the videos and complete the quiz questions in order to complete the module.
 
 Welcome to the online course. If you have any questions or problems throughout the course, you can get help in the following ways:

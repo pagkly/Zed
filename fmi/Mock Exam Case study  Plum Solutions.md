@@ -1,3 +1,19 @@
+---
+alias: [Mock Exam Case study | Plum Solutions]
+created: 2021-03-03T08:09:28 (UTC -05:00)
+tags: [Mock Exam Case study | Plum Solutions, Mock Exam Case study | Plum Solutions]
+source: https://plumsolutions.com.au/lessons/mock-exam/
+author: 
+---
+
+# Mock Exam Case study | Plum Solutions
+
+> ## Excerpt
+> If you have any questions or problems throughout the course, you can get help in the following ways:
+
+---
+
+Mock Exam Case study | Plum Solutions
 If you have any questions or problems throughout the course, you can get help in the following ways:
 
 -   Email us directly at info@plumsolutions.com.au
@@ -24,4 +40,4 @@ Welcome to the final module in this course! There is **1** video in this module.
 
 [← Previous Lesson](https://plumsolutions.com.au/lessons/summary-page-formatting-presentation-and-scenarios/) [Next Lesson →](https://plumsolutions.com.au/lessons/appendix/)
 
-[![468](https://plumsolutions.com.au/wp-content/uploads/2017/12/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)
+[![468](Mock%20Exam%20Case%20study%20%20Plum%20Solutions/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)

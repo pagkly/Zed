@@ -1,3 +1,19 @@
+---
+alias: [Building Error Checks | Plum Solutions]
+created: 2021-03-03T08:03:32 (UTC -05:00)
+tags: [Building Error Checks | Plum Solutions, Building Error Checks | Plum Solutions]
+source: https://plumsolutions.com.au/topic/building-error-checks-fmi/
+author: 
+---
+
+# Building Error Checks | Plum Solutions
+
+> ## Excerpt
+> Topic Progress:
+
+---
+
+Building Error Checks | Plum Solutions
 **Topic Progress:**[](https://plumsolutions.com.au/topic/skills-needed-for-fm-fmi/ "Skills Needed for FM")[](https://plumsolutions.com.au/topic/what-makes-a-good-fm/ "What Makes a Good FM?")[](https://plumsolutions.com.au/topic/building-error-checks-fmi/ "Building Error Checks")[](https://plumsolutions.com.au/topic/escalation-methods-fmi/ "Escalation Methods")
 
 <iframe src="https://player.vimeo.com/video/154438272" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>
@@ -30,4 +46,4 @@ To move forward to the next video, you must **mark this video complete**. To mar
 
 [← Previous Topic](https://plumsolutions.com.au/topic/what-makes-a-good-fm/) [Next Topic →](https://plumsolutions.com.au/topic/escalation-methods-fmi/)
 
-[![468](https://plumsolutions.com.au/wp-content/uploads/2017/12/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)
+[![468](Building%20Error%20Checks%20%20Plum%20Solutions/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)

@@ -1,3 +1,19 @@
+---
+alias: [Designing for Scenario Analysis | Plum Solutions]
+created: 2021-03-03T08:06:30 (UTC -05:00)
+tags: [Designing for Scenario Analysis | Plum Solutions, Designing for Scenario Analysis | Plum Solutions]
+source: https://plumsolutions.com.au/lessons/designing-for-scenario-analysis/
+author: 
+---
+
+# Designing for Scenario Analysis | Plum Solutions
+
+> ## Excerpt
+> If you have any questions or problems throughout the course, you can get help in the following ways:
+
+---
+
+Designing for Scenario Analysis | Plum Solutions
 If you have any questions or problems throughout the course, you can get help in the following ways:
 
 -   Email us directly at info@plumsolutions.com.au
@@ -22,4 +38,4 @@ Note that for the exam, you will only need to perform drop-down scenarios, eithe
 
 [← Previous Lesson](https://plumsolutions.com.au/lessons/model-planning-setup-and-assumptions-fmi/) [Next Lesson →](https://plumsolutions.com.au/lessons/the-revenue-schedule-and-cogs-fmi/)
 
-[![468](https://plumsolutions.com.au/wp-content/uploads/2017/12/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)
+[![468](Designing%20for%20Scenario%20Analysis%20%20Plum%20Solutions/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)

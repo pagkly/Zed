@@ -1,3 +1,19 @@
+---
+alias: [Financial Modelling Techniques | Plum Solutions]
+created: 2021-03-03T08:03:32 (UTC -05:00)
+tags: [Financial Modelling Techniques | Plum Solutions, Financial Modelling Techniques | Plum Solutions]
+source: https://plumsolutions.com.au/lessons/financial-modelling-techniques-fmi/
+author: 
+---
+
+# Financial Modelling Techniques | Plum Solutions
+
+> ## Excerpt
+> If you have any questions or problems throughout the course, you can get help in the following ways:
+
+---
+
+Financial Modelling Techniques | Plum Solutions
 If you have any questions or problems throughout the course, you can get help in the following ways:
 
 -   Email us directly at info@plumsolutions.com.au
@@ -10,4 +26,4 @@ _This module forms part of the_ _[](https://www.plumsolutions.com.au/online-cour
 
 [← Previous Lesson](https://plumsolutions.com.au/lessons/essential-formulas-fmi/) [Next Lesson →](https://plumsolutions.com.au/lessons/module-3-financial-modelling-best-practice/)
 
-[![468](https://plumsolutions.com.au/wp-content/uploads/2017/12/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)
+[![468](Financial%20Modelling%20Techniques%20%20Plum%20Solutions/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)

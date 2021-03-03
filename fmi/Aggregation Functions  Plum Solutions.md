@@ -1,3 +1,19 @@
+---
+alias: [Aggregation Functions | Plum Solutions]
+created: 2021-03-03T08:03:31 (UTC -05:00)
+tags: [Aggregation Functions | Plum Solutions, Aggregation Functions | Plum Solutions]
+source: https://plumsolutions.com.au/topic/aggregation-functions-2/
+author: 
+---
+
+# Aggregation Functions | Plum Solutions
+
+> ## Excerpt
+> Topic Progress:
+
+---
+
+Aggregation Functions | Plum Solutions
 **Topic Progress:**[](https://plumsolutions.com.au/topic/aggregation-functions-2/ "Aggregation Functions")[](https://plumsolutions.com.au/topic/formula-selection-fmi/ "Formula Selection")[](https://plumsolutions.com.au/topic/data-validations-drop-downs-2/ "Data Validations & Drop-downs")[](https://plumsolutions.com.au/topic/form-controls-fmi/ "Form Controls")[](https://plumsolutions.com.au/topic/macros-in-financial-modelling-fmi/ "Macros in Financial Modelling")
 
 <iframe src="https://player.vimeo.com/video/154355904" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>

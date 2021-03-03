@@ -1,3 +1,19 @@
+---
+alias: [Data Validations & Drop-downs | Plum Solutions]
+created: 2021-03-03T08:03:31 (UTC -05:00)
+tags: [Data Validations & Drop-downs | Plum Solutions, Data Validations & Drop-downs | Plum Solutions]
+source: https://plumsolutions.com.au/topic/data-validations-drop-downs-2/
+author: 
+---
+
+# Data Validations & Drop-downs | Plum Solutions
+
+> ## Excerpt
+> Topic Progress:
+
+---
+
+Data Validations & Drop-downs | Plum Solutions
 **Topic Progress:**[](https://plumsolutions.com.au/topic/aggregation-functions-2/ "Aggregation Functions")[](https://plumsolutions.com.au/topic/formula-selection-fmi/ "Formula Selection")[](https://plumsolutions.com.au/topic/data-validations-drop-downs-2/ "Data Validations & Drop-downs")[](https://plumsolutions.com.au/topic/form-controls-fmi/ "Form Controls")[](https://plumsolutions.com.au/topic/macros-in-financial-modelling-fmi/ "Macros in Financial Modelling")
 
 <iframe src="https://player.vimeo.com/video/133820228" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>
@@ -25,4 +41,4 @@ To move forward to the next video, you must **mark this video complete**. To mar
 
 [← Previous Topic](https://plumsolutions.com.au/topic/formula-selection-fmi/) [Next Topic →](https://plumsolutions.com.au/topic/form-controls-fmi/)
 
-[![468](https://plumsolutions.com.au/wp-content/uploads/2017/12/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)
+[![468](Data%20Validations%20&%20Drop-downs%20%20Plum%20Solutions/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)

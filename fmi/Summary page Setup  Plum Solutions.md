@@ -1,3 +1,19 @@
+---
+alias: [Summary page Setup | Plum Solutions]
+created: 2021-03-03T08:09:27 (UTC -05:00)
+tags: [Summary page Setup | Plum Solutions, Summary page Setup | Plum Solutions]
+source: https://plumsolutions.com.au/topic/summary-page-setup/
+author: 
+---
+
+# Summary page Setup | Plum Solutions
+
+> ## Excerpt
+> Topic Progress:
+
+---
+
+Summary page Setup | Plum Solutions
 **Topic Progress:**[](https://plumsolutions.com.au/topic/summary-page-setup/ "Summary page Setup")[](https://plumsolutions.com.au/topic/which-ratios-to-include/ "Which Ratios to Include")[](https://plumsolutions.com.au/topic/adding-scenarios/ "Adding Scenarios")[](https://plumsolutions.com.au/topic/formatting-and-presentation/ "Formatting and presentation")
 
 <iframe src="https://player.vimeo.com/video/444474722" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>

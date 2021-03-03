@@ -1,3 +1,19 @@
+---
+alias: [Macros in Financial Modelling | Plum Solutions]
+created: 2021-03-03T08:03:32 (UTC -05:00)
+tags: [Macros in Financial Modelling | Plum Solutions, Macros in Financial Modelling | Plum Solutions]
+source: https://plumsolutions.com.au/topic/macros-in-financial-modelling-fmi/
+author: 
+---
+
+# Macros in Financial Modelling | Plum Solutions
+
+> ## Excerpt
+> Topic Progress:
+
+---
+
+Macros in Financial Modelling | Plum Solutions
 **Topic Progress:**[](https://plumsolutions.com.au/topic/aggregation-functions-2/ "Aggregation Functions")[](https://plumsolutions.com.au/topic/formula-selection-fmi/ "Formula Selection")[](https://plumsolutions.com.au/topic/data-validations-drop-downs-2/ "Data Validations & Drop-downs")[](https://plumsolutions.com.au/topic/form-controls-fmi/ "Form Controls")[](https://plumsolutions.com.au/topic/macros-in-financial-modelling-fmi/ "Macros in Financial Modelling")
 
 <iframe src="https://player.vimeo.com/video/33894301" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>

@@ -1,3 +1,19 @@
+---
+alias: [What Makes a Good FM? | Plum Solutions]
+created: 2021-03-03T08:03:32 (UTC -05:00)
+tags: [What Makes a Good FM? | Plum Solutions, What Makes a Good FM?]
+source: https://plumsolutions.com.au/topic/what-makes-a-good-fm/
+author: 
+---
+
+# What Makes a Good FM? | Plum Solutions
+
+> ## Excerpt
+> Topic Progress:
+
+---
+
+What Makes a Good FM?
 **Topic Progress:**[](https://plumsolutions.com.au/topic/skills-needed-for-fm-fmi/ "Skills Needed for FM")[](https://plumsolutions.com.au/topic/what-makes-a-good-fm/ "What Makes a Good FM?")[](https://plumsolutions.com.au/topic/building-error-checks-fmi/ "Building Error Checks")[](https://plumsolutions.com.au/topic/escalation-methods-fmi/ "Escalation Methods")
 
 <iframe src="https://player.vimeo.com/video/154438274" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>
@@ -27,4 +43,4 @@ To move forward to the next video, you must **mark this video complete**. To mar
 
 [← Previous Topic](https://plumsolutions.com.au/topic/skills-needed-for-fm-fmi/) [Next Topic →](https://plumsolutions.com.au/topic/building-error-checks-fmi/)
 
-[![468](https://plumsolutions.com.au/wp-content/uploads/2017/12/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)
+[![468](What%20Makes%20a%20Good%20FM/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)

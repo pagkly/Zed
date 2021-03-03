@@ -1,3 +1,19 @@
+---
+alias: [Inputs and Assumptions | Plum Solutions]
+created: 2021-03-03T08:06:30 (UTC -05:00)
+tags: [Inputs and Assumptions | Plum Solutions, Inputs and Assumptions | Plum Solutions]
+source: https://plumsolutions.com.au/topic/inputs-and-assumptions/
+author: 
+---
+
+# Inputs and Assumptions | Plum Solutions
+
+> ## Excerpt
+> Topic Progress:
+
+---
+
+Inputs and Assumptions | Plum Solutions
 **Topic Progress:**[](https://plumsolutions.com.au/topic/assumptions-documentation-methods-3/ "Assumptions Documentation Methods")[](https://plumsolutions.com.au/topic/model-setup-and-layout/ "Model setup and layout")[](https://plumsolutions.com.au/topic/inputs-and-assumptions/ "Inputs and Assumptions")
 
 <iframe src="https://player.vimeo.com/video/416748179" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>

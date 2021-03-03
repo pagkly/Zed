@@ -1,3 +1,19 @@
+---
+alias: [Conditional Formatting | Plum Solutions]
+created: 2021-03-03T08:09:28 (UTC -05:00)
+tags: [Conditional Formatting | Plum Solutions, Conditional Formatting | Plum Solutions]
+source: https://plumsolutions.com.au/topic/conditional-formatting-3/
+author: 
+---
+
+# Conditional Formatting | Plum Solutions
+
+> ## Excerpt
+> Topic Progress:
+
+---
+
+Conditional Formatting | Plum Solutions
 **Topic Progress:**[](https://plumsolutions.com.au/topic/conditional-formatting-3/ "Conditional Formatting")[](https://plumsolutions.com.au/topic/lookup-fundamentals-fmi/ "LOOKUP Fundamentals")[](https://plumsolutions.com.au/topic/practical-capital-budgeting-with-lookup-functions-2/ "Practical Capital Budgeting with LOOKUP functions")[](https://plumsolutions.com.au/topic/lookup-functions-fmi/ "Lookup Functions")[](https://plumsolutions.com.au/topic/tiering-tables-fmi/ "Tiering Tables")[](https://plumsolutions.com.au/topic/using-the-offset-function-fmi/ "Using the OFFSET Function")[](https://plumsolutions.com.au/topic/what-if-analysis-with-goal-seek-fmi/ "What-if Analysis with Goal Seek")[](https://plumsolutions.com.au/topic/rebuilding-an-inherited-model-fmi/ "Rebuilding an Inherited Model")[](https://plumsolutions.com.au/topic/overview-of-scenario-analysis-methods-fmi/ "Overview of Scenario Analysis Methods")[](https://plumsolutions.com.au/topic/data-tables-fmi/ "Data Tables")[](https://plumsolutions.com.au/topic/advanced-conditional-formatting-fmi/ "Advanced Conditional Formatting")[](https://plumsolutions.com.au/topic/scenario-manager-fmi/ "Scenario Manager")
 
 <iframe src="https://player.vimeo.com/video/133646633" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>

@@ -1,3 +1,19 @@
+---
+alias: [Basic Excel skills | Plum Solutions]
+created: 2021-03-03T08:03:30 (UTC -05:00)
+tags: [Basic Excel skills | Plum Solutions, Basic Excel skills | Plum Solutions]
+source: https://plumsolutions.com.au/lessons/basic-excel-skills-fmi/
+author: 
+---
+
+# Basic Excel skills | Plum Solutions
+
+> ## Excerpt
+> If you have any questions or problems throughout the course, you can get help in the following ways:
+
+---
+
+Basic Excel skills | Plum Solutions
 If you have any questions or problems throughout the course, you can get help in the following ways:
 
 -   Email us directly at info@plumsolutions.com.au
@@ -12,4 +28,4 @@ _This module forms part of the_ _[](https://www.plumsolutions.com.au/online-cour
 
 [← Previous Lesson](https://plumsolutions.com.au/lessons/module-1-about-the-level-1-afm-exam/) [Next Lesson →](https://plumsolutions.com.au/lessons/essential-formulas-fmi/)
 
-[![468](https://plumsolutions.com.au/wp-content/uploads/2017/12/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)
+[![468](Basic%20Excel%20skills%20%20Plum%20Solutions/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)

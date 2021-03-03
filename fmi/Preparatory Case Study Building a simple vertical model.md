@@ -1,3 +1,19 @@
+---
+alias: [Preparatory Case Study: Building a simple vertical model | Plum Solutions]
+created: 2021-03-03T08:06:29 (UTC -05:00)
+tags: [Preparatory Case Study: Building a simple vertical model | Plum Solutions, Preparatory Case Study: Building a simple vertical model]
+source: https://plumsolutions.com.au/topic/preparatory-case-study-building-a-simple-vertical-model/
+author: 
+---
+
+# Preparatory Case Study: Building a simple vertical model | Plum Solutions
+
+> ## Excerpt
+> Topic Progress:
+
+---
+
+Preparatory Case Study: Building a simple vertical model
 **Topic Progress:**[](https://plumsolutions.com.au/topic/what-is-a-3-way-financial-model/ "What is a 3 way financial model?")[](https://plumsolutions.com.au/topic/dummies-case-study-financial-statements-part-1/ "Dummies Case Study: Financial Statements Part 1")[](https://plumsolutions.com.au/topic/dummies-case-study-financial-statements-part-2/ "Dummies Case Study: Financial Statements Part 2")[](https://plumsolutions.com.au/topic/dummies-case-study-financial-statements-part-3/ "Dummies Case Study: Financial Statements Part 3")[](https://plumsolutions.com.au/topic/preparatory-case-study-building-a-simple-vertical-model/ "Preparatory Case Study: Building a simple vertical model")
 
 <iframe src="https://player.vimeo.com/video/452104504" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>

@@ -1,3 +1,19 @@
+---
+alias: [Model Planning, Setup and Assumptions Review | Plum Solutions]
+created: 2021-03-03T08:06:30 (UTC -05:00)
+tags: [Model Planning, Setup and Assumptions Review | Plum Solutions, Model Planning, Setup and Assumptions Review]
+source: https://plumsolutions.com.au/quizzes/model-planning-setup-and-assumptions-review/
+author: 
+---
+
+# Model Planning, Setup and Assumptions Review | Plum Solutions
+
+> ## Excerpt
+> My Tweets
+
+---
+
+Model Planning, Setup and Assumptions Review
 #### Quick Links
 
 -   [Online Training](https://plumsolutions.com.au/elearning/)
@@ -16,6 +32,8 @@
 -   [Ten (Crowdsourced) Ways to Reduce your Financial Model File Size](https://plumsolutions.com.au/ten-crowdsourced-ways-to-reduce-your-financial-model-file-size/)
 
 #### Twitter Feed
+
+[My Tweets](https://twitter.com/dsteinfairhurst)
 
 #### Subscribe to our newsletter
 

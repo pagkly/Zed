@@ -1,3 +1,19 @@
+---
+alias: [Income Tax and Working Capital | Plum Solutions]
+created: 2021-03-03T08:06:30 (UTC -05:00)
+tags: [Income Tax and Working Capital | Plum Solutions, Income Tax and Working Capital]
+source: https://plumsolutions.com.au/lessons/income-tax-expense-and-working-capital-fmi/
+author: 
+---
+
+# Income Tax and Working Capital | Plum Solutions
+
+> ## Excerpt
+> If you have any questions or problems throughout the course, you can get help in the following ways:
+
+---
+
+Income Tax and Working Capital
 If you have any questions or problems throughout the course, you can get help in the following ways:
 
 -   Email us directly at info@plumsolutions.com.au
@@ -18,4 +34,4 @@ _This module forms part of the_ _[](https://www.plumsolutions.com.au/online-cour
 
 [← Previous Lesson](https://plumsolutions.com.au/lessons/building-the-depreciation-schedule/) [Next Lesson →](https://plumsolutions.com.au/lessons/building-the-debt-schedule/)
 
-[![468](https://plumsolutions.com.au/wp-content/uploads/2017/12/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)
+[![468](Income%20Tax%20and%20Working%20Capital/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)

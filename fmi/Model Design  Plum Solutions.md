@@ -1,3 +1,19 @@
+---
+alias: [Model Design | Plum Solutions]
+created: 2021-03-03T08:03:32 (UTC -05:00)
+tags: [Model Design | Plum Solutions, Model Design | Plum Solutions]
+source: https://plumsolutions.com.au/topic/model-design-fmi/
+author: 
+---
+
+# Model Design | Plum Solutions
+
+> ## Excerpt
+> Topic Progress:
+
+---
+
+Model Design | Plum Solutions
 **Topic Progress:**[](https://plumsolutions.com.au/topic/model-design-fmi/ "Model Design")[](https://plumsolutions.com.au/topic/anatomy-of-a-financial-model-fmi/ "Anatomy of a Financial Model")[](https://plumsolutions.com.au/topic/best-practice-fmi/ "Best Practice")[](https://plumsolutions.com.au/topic/shortcuts/ "Shortcuts")
 
 <iframe src="https://player.vimeo.com/video/133721215" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>

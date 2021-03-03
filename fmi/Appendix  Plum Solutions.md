@@ -1,3 +1,19 @@
+---
+alias: [Appendix | Plum Solutions]
+created: 2021-03-03T08:09:28 (UTC -05:00)
+tags: [Appendix | Plum Solutions, Appendix | Plum Solutions]
+source: https://plumsolutions.com.au/lessons/appendix/
+author: 
+---
+
+# Appendix | Plum Solutions
+
+> ## Excerpt
+> My Tweets
+
+---
+
+Appendix | Plum Solutions
 #### Quick Links
 
 -   [Online Training](https://plumsolutions.com.au/elearning/)
@@ -16,6 +32,8 @@
 -   [Ten (Crowdsourced) Ways to Reduce your Financial Model File Size](https://plumsolutions.com.au/ten-crowdsourced-ways-to-reduce-your-financial-model-file-size/)
 
 #### Twitter Feed
+
+[My Tweets](https://twitter.com/dsteinfairhurst)
 
 #### Subscribe to our newsletter
 

@@ -1,3 +1,19 @@
+---
+alias: [Building the Debt Schedule | Plum Solutions]
+created: 2021-03-03T08:09:27 (UTC -05:00)
+tags: [Building the Debt Schedule | Plum Solutions, Building the Debt Schedule | Plum Solutions]
+source: https://plumsolutions.com.au/lessons/building-the-debt-schedule/
+author: 
+---
+
+# Building the Debt Schedule | Plum Solutions
+
+> ## Excerpt
+> If you have any questions or problems throughout the course, you can get help in the following ways:
+
+---
+
+Building the Debt Schedule | Plum Solutions
 If you have any questions or problems throughout the course, you can get help in the following ways:
 
 -   Email us directly at info@plumsolutions.com.au
@@ -19,4 +35,4 @@ There are **6** videos in this module.  You must watch the videos and complete 
 
 [← Previous Lesson](https://plumsolutions.com.au/lessons/income-tax-expense-and-working-capital-fmi/) [Next Lesson →](https://plumsolutions.com.au/lessons/equity-completing-the-financial-statements/)
 
-[![468](https://plumsolutions.com.au/wp-content/uploads/2017/12/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)
+[![468](Building%20the%20Debt%20Schedule%20%20Plum%20Solutions/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)

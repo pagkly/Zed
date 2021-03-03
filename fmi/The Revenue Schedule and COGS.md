@@ -1,3 +1,19 @@
+---
+alias: [The Revenue Schedule and COGS | Plum Solutions]
+created: 2021-03-03T08:06:30 (UTC -05:00)
+tags: [The Revenue Schedule and COGS | Plum Solutions, The Revenue Schedule and COGS]
+source: https://plumsolutions.com.au/lessons/the-revenue-schedule-and-cogs-fmi/
+author: 
+---
+
+# The Revenue Schedule and COGS | Plum Solutions
+
+> ## Excerpt
+> If you have any questions or problems throughout the course, you can get help in the following ways:
+
+---
+
+The Revenue Schedule and COGS
 If you have any questions or problems throughout the course, you can get help in the following ways:
 
 -   Email us directly at info@plumsolutions.com.au
@@ -18,4 +34,4 @@ In this section we will start working through a sample exam case study and the e
 
 [← Previous Lesson](https://plumsolutions.com.au/lessons/designing-for-scenario-analysis/) [Next Lesson →](https://plumsolutions.com.au/lessons/building-the-depreciation-schedule/)
 
-[![468](https://plumsolutions.com.au/wp-content/uploads/2017/12/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)
+[![468](The%20Revenue%20Schedule%20and%20COGS/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)

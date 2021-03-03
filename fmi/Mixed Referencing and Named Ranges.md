@@ -1,3 +1,19 @@
+---
+alias: [Mixed Referencing and Named Ranges | Plum Solutions]
+created: 2021-03-03T08:03:31 (UTC -05:00)
+tags: [Mixed Referencing and Named Ranges | Plum Solutions, Mixed Referencing and Named Ranges]
+source: https://plumsolutions.com.au/topic/mixed-referencing-and-named-ranges-2/
+author: 
+---
+
+# Mixed Referencing and Named Ranges | Plum Solutions
+
+> ## Excerpt
+> Topic Progress:
+
+---
+
+Mixed Referencing and Named Ranges
 **Topic Progress:**[](https://plumsolutions.com.au/topic/whats-new-in-excel-2016-4/ "What's New in Excel 2016")[](https://plumsolutions.com.au/topic/linking-for-best-practice-2/ "Linking for Best Practice")[](https://plumsolutions.com.au/topic/absolute-and-relative-cell-referencing-2/ "Absolute and Relative Cell Referencing")[](https://plumsolutions.com.au/topic/calculating-project-costs-2/ "Calculating Project Costs")[](https://plumsolutions.com.au/topic/logical-nested-functions-part-1-2/ "Logical Nested Functions Part 1")[](https://plumsolutions.com.au/topic/logical-nested-functions-part-2-2/ "Logical Nested Functions Part 2")[](https://plumsolutions.com.au/topic/mixed-referencing-and-named-ranges-2/ "Mixed Referencing and Named Ranges")
 
 <iframe src="https://player.vimeo.com/video/154355908" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>

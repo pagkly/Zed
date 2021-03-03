@@ -1,3 +1,19 @@
+---
+alias: [Scenarios, Sensitivities and What-if Analysis | Plum Solutions]
+created: 2021-03-03T08:06:30 (UTC -05:00)
+tags: [Scenarios, Sensitivities and What-if Analysis | Plum Solutions, Scenarios, Sensitivities and What-if Analysis]
+source: https://plumsolutions.com.au/topic/scenarios-sensitivities-and-what-if-analysis/
+author: 
+---
+
+# Scenarios, Sensitivities and What-if Analysis | Plum Solutions
+
+> ## Excerpt
+> Topic Progress:
+
+---
+
+Scenarios, Sensitivities and What-if Analysis
 **Topic Progress:**[](https://plumsolutions.com.au/topic/scenarios-sensitivities-and-what-if-analysis/ "Scenarios, Sensitivities and What-if Analysis")[](https://plumsolutions.com.au/topic/exam-prep-scenario-setup/ "Exam Prep Scenario Setup")
 
 <iframe src="https://player.vimeo.com/video/452411211" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>

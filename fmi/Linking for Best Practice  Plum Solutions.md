@@ -1,3 +1,19 @@
+---
+alias: [Linking for Best Practice | Plum Solutions]
+created: 2021-03-03T08:03:30 (UTC -05:00)
+tags: [Linking for Best Practice | Plum Solutions, Linking for Best Practice | Plum Solutions]
+source: https://plumsolutions.com.au/topic/linking-for-best-practice-2/
+author: 
+---
+
+# Linking for Best Practice | Plum Solutions
+
+> ## Excerpt
+> Topic Progress:
+
+---
+
+Linking for Best Practice | Plum Solutions
 **Topic Progress:**[](https://plumsolutions.com.au/topic/whats-new-in-excel-2016-4/ "What's New in Excel 2016")[](https://plumsolutions.com.au/topic/linking-for-best-practice-2/ "Linking for Best Practice")[](https://plumsolutions.com.au/topic/absolute-and-relative-cell-referencing-2/ "Absolute and Relative Cell Referencing")[](https://plumsolutions.com.au/topic/calculating-project-costs-2/ "Calculating Project Costs")[](https://plumsolutions.com.au/topic/logical-nested-functions-part-1-2/ "Logical Nested Functions Part 1")[](https://plumsolutions.com.au/topic/logical-nested-functions-part-2-2/ "Logical Nested Functions Part 2")[](https://plumsolutions.com.au/topic/mixed-referencing-and-named-ranges-2/ "Mixed Referencing and Named Ranges")
 
 <iframe src="https://player.vimeo.com/video/133640100" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>
@@ -23,4 +39,4 @@ To move forward to the next video, you must **mark this video complete**. To mar
 
 [← Previous Topic](https://plumsolutions.com.au/topic/whats-new-in-excel-2016-4/) [Next Topic →](https://plumsolutions.com.au/topic/absolute-and-relative-cell-referencing-2/)
 
-[![468](https://plumsolutions.com.au/wp-content/uploads/2017/12/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)
+[![468](Linking%20for%20Best%20Practice%20%20Plum%20Solutions/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)

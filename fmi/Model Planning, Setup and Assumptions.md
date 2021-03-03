@@ -1,3 +1,19 @@
+---
+alias: [Model Planning, Setup and Assumptions | Plum Solutions]
+created: 2021-03-03T08:06:29 (UTC -05:00)
+tags: [Model Planning, Setup and Assumptions | Plum Solutions, Model Planning, Setup and Assumptions]
+source: https://plumsolutions.com.au/lessons/model-planning-setup-and-assumptions-fmi/
+author: 
+---
+
+# Model Planning, Setup and Assumptions | Plum Solutions
+
+> ## Excerpt
+> If you have any questions or problems throughout the course, you can get help in the following ways:
+
+---
+
+Model Planning, Setup and Assumptions
 If you have any questions or problems throughout the course, you can get help in the following ways:
 
 -   Email us directly at info@plumsolutions.com.au
@@ -18,4 +34,4 @@ The first two videos contain some strategies on how to best set up the file to g
 
 [← Previous Lesson](https://plumsolutions.com.au/lessons/three-way-modelling-fmi/) [Next Lesson →](https://plumsolutions.com.au/lessons/designing-for-scenario-analysis/)
 
-[![468](https://plumsolutions.com.au/wp-content/uploads/2017/12/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)
+[![468](Model%20Planning,%20Setup%20and%20Assumptions/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)

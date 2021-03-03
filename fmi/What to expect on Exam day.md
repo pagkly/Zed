@@ -1,3 +1,19 @@
+---
+alias: [What to expect on Exam day | Plum Solutions]
+created: 2021-03-03T08:03:30 (UTC -05:00)
+tags: [What to expect on Exam day | Plum Solutions, What to expect on Exam day]
+source: https://plumsolutions.com.au/topic/what-to-expect-on-exam-day/
+author: 
+---
+
+# What to expect on Exam day | Plum Solutions
+
+> ## Excerpt
+> Topic Progress:
+
+---
+
+What to expect on Exam day
 **Topic Progress:**[](https://plumsolutions.com.au/topic/learning-materials/ "Learning Materials")[](https://plumsolutions.com.au/topic/what-to-expect-on-exam-day/ "What to expect on Exam day")[](https://plumsolutions.com.au/topic/the-grading-process/ "The Grading Process")
 
 <iframe src="https://player.vimeo.com/video/410962503" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>
@@ -13,4 +29,4 @@ To move forward to the next video, you must **mark this video complete**. To ma
 
 [← Previous Topic](https://plumsolutions.com.au/topic/learning-materials/) [Next Topic →](https://plumsolutions.com.au/topic/the-grading-process/)
 
-[![468](https://plumsolutions.com.au/wp-content/uploads/2017/12/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)
+[![468](What%20to%20expect%20on%20Exam%20day/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)

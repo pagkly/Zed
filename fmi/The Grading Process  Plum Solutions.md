@@ -1,3 +1,19 @@
+---
+alias: [The Grading Process | Plum Solutions]
+created: 2021-03-03T08:03:30 (UTC -05:00)
+tags: [The Grading Process | Plum Solutions, The Grading Process | Plum Solutions]
+source: https://plumsolutions.com.au/topic/the-grading-process/
+author: 
+---
+
+# The Grading Process | Plum Solutions
+
+> ## Excerpt
+> Topic Progress:
+
+---
+
+The Grading Process | Plum Solutions
 **Topic Progress:**[](https://plumsolutions.com.au/topic/learning-materials/ "Learning Materials")[](https://plumsolutions.com.au/topic/what-to-expect-on-exam-day/ "What to expect on Exam day")[](https://plumsolutions.com.au/topic/the-grading-process/ "The Grading Process")
 
 <iframe src="https://player.vimeo.com/video/411373446" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>

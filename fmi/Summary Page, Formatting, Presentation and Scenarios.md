@@ -1,3 +1,19 @@
+---
+alias: [Summary Page, Formatting, Presentation and Scenarios | Plum Solutions]
+created: 2021-03-03T08:09:27 (UTC -05:00)
+tags: [Summary Page, Formatting, Presentation and Scenarios | Plum Solutions, Summary Page, Formatting, Presentation and Scenarios]
+source: https://plumsolutions.com.au/lessons/summary-page-formatting-presentation-and-scenarios/
+author: 
+---
+
+# Summary Page, Formatting, Presentation and Scenarios | Plum Solutions
+
+> ## Excerpt
+> If you have any questions or problems throughout the course, you can get help in the following ways:
+
+---
+
+Summary Page, Formatting, Presentation and Scenarios
 If you have any questions or problems throughout the course, you can get help in the following ways:
 
 -   Email us directly at info@plumsolutions.com.au
@@ -19,4 +35,4 @@ Note that the Henderson models are now macro-enabled files
 
 [← Previous Lesson](https://plumsolutions.com.au/lessons/equity-completing-the-financial-statements/) [Next Lesson →](https://plumsolutions.com.au/lessons/mock-exam/)
 
-[![468](https://plumsolutions.com.au/wp-content/uploads/2017/12/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)
+[![468](Summary%20Page,%20Formatting,%20Presentation%20and%20Scenarios/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)

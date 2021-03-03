@@ -1,3 +1,19 @@
+---
+alias: [Equity & Completing the Financial Statements | Plum Solutions]
+created: 2021-03-03T08:09:27 (UTC -05:00)
+tags: [Equity & Completing the Financial Statements | Plum Solutions, Equity & Completing the Financial Statements]
+source: https://plumsolutions.com.au/lessons/equity-completing-the-financial-statements/
+author: 
+---
+
+# Equity & Completing the Financial Statements | Plum Solutions
+
+> ## Excerpt
+> If you have any questions or problems throughout the course, you can get help in the following ways:
+
+---
+
+Equity & Completing the Financial Statements
 If you have any questions or problems throughout the course, you can get help in the following ways:
 
 -   Email us directly at info@plumsolutions.com.au
@@ -25,4 +41,4 @@ The equity schedule for the Henderson case study that we have been working throu
 
 [← Previous Lesson](https://plumsolutions.com.au/lessons/building-the-debt-schedule/) [Next Lesson →](https://plumsolutions.com.au/lessons/summary-page-formatting-presentation-and-scenarios/)
 
-[![468](https://plumsolutions.com.au/wp-content/uploads/2017/12/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)
+[![468](Equity%20&%20Completing%20the%20Financial%20Statements/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)

@@ -1,3 +1,19 @@
+---
+alias: [Best Practice | Plum Solutions]
+created: 2021-03-03T08:03:32 (UTC -05:00)
+tags: [Best Practice | Plum Solutions, Best Practice | Plum Solutions]
+source: https://plumsolutions.com.au/topic/best-practice-fmi/
+author: 
+---
+
+# Best Practice | Plum Solutions
+
+> ## Excerpt
+> Topic Progress:
+
+---
+
+Best Practice | Plum Solutions
 **Topic Progress:**[](https://plumsolutions.com.au/topic/model-design-fmi/ "Model Design")[](https://plumsolutions.com.au/topic/anatomy-of-a-financial-model-fmi/ "Anatomy of a Financial Model")[](https://plumsolutions.com.au/topic/best-practice-fmi/ "Best Practice")[](https://plumsolutions.com.au/topic/shortcuts/ "Shortcuts")
 
 <iframe src="https://player.vimeo.com/video/33505149" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>
@@ -28,4 +44,4 @@ To move forward to the next video, you must **mark this video complete**. To mar
 
 [← Previous Topic](https://plumsolutions.com.au/topic/anatomy-of-a-financial-model-fmi/) [Next Topic →](https://plumsolutions.com.au/topic/shortcuts/)
 
-[![468](https://plumsolutions.com.au/wp-content/uploads/2017/12/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)
+[![468](Best%20Practice%20%20Plum%20Solutions/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)
