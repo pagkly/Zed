@@ -1,0 +1,49 @@
+---
+alias: [Special Power of Attorney]
+created: 2021-03-02T23:41:12 (UTC +11:00)
+tags: [Special Power of Attorney Definition, What Special Power of Attorney Means]
+source: https://www.investopedia.com/terms/s/special-power-attorney.asp
+author: Alexandra Twin
+---
+
+# Special Power of Attorney Definition
+
+> ## Excerpt
+> A special power of attorney is a legal document that authorizes one person to act on behalf of another under specified circumstances.
+
+---
+
+What Special Power of Attorney Means
+## What Is a Special Power of Attorney?
+
+A special power of attorney is a legal document that authorizes one person, called an agent or an attorney in fact, to act on behalf of another person, known as the principal, under specific, clearly laid-out circumstances.
+
+Also known as a [[limited power of attorney (LPOA)]](https://www.investopedia.com/terms/l/limited_power_of_attorney.asp), a special power of attorney allows an individual to give another person the ability to make certain legal or financial decisions on their behalf.
+
+### Key Takeaways
+
+-   A special power of attorney allows a person (the principal) to authorize another individual (the agent) to make legal decisions on their behalf.
+-   The agent can act on behalf of the principal only under specific, clearly defined circumstances.
+-   A general power of attorney is broader, giving the agent the ability to make all legal and financial decisions on behalf of the principal.
+
+## Understanding Special Power of Attorney
+
+A [[power of attorney]](https://www.investopedia.com/terms/p/powerofattorney.asp) refers to an agreement between two individuals that allows one individual to act on the other's behalf. For example, you might want a power of attorney if you are out of the country and unable to carry out a business transaction yourself, or if your abilities are limited by a medical condition. The person who initiates a power of attorney, whether in oral or written form, is referred to as the grantor or principal. The authorized individual named in the agreement is referred to as the [[attorney in fact]](https://www.investopedia.com/terms/a/attorneyinfact.asp) or agent. In the case of a special power of attorney, the actions that the agent can take are limited to very specific circumstances.
+
+Because this type of power of attorney is limited to what has been laid out in the signed document, it is particularly important that the principal is very clear about the powers that they want the agent to have. Additionally, the principal may create more than one special power of attorney, naming a different individual in each one.
+
+## General Power of Attorney vs. Special Power of Attorney
+
+While a special power of attorney gives the agent authority for a limited set of actions under a restricted set of circumstances—such as buying or selling a home, withdrawing money from an account, or running a business—a general power of attorney is more broad.
+
+A general power of attorney grants the agent the legal right to make all financial and legal decisions on behalf of the principal. An individual who will be out of the country for a year may give an agent extensive powers to carry out transactions such as personal and business financial transactions, bill payments, life insurance purchases, charitable donations, real estate management, and the filing of tax returns.
+
+A special power of attorney may need to be notarized to have legal authority.
+
+## Special Considerations
+
+A power of attorney becomes ineffective if its principal dies or becomes incapacitated, meaning the principal is unable to grant such power due to an injury or mental illness. However, a special power of attorney can be made durable.
+
+A [[durable power of attorney]](https://www.investopedia.com/terms/h/hcpa.asp) is one that authorizes the agent to continue acting on behalf of the principal even after the principal becomes incapacitated, for instance, due to a head injury or Alzheimer’s disease. Under a durable power of attorney, the authority of the agent to act and make decisions on behalf of the principal continues until the principal's death. For an individual who does not already have a durable power of attorney in place and does not have the capacity to execute a special power of attorney, the court will impose a conservatorship or a guardianship to act on their behalf.
+
+When an individual passes away, the special power of attorney becomes void, and a [[last will and testament]](https://www.investopedia.com/terms/l/last-will-and-testament.asp) takes precedence.

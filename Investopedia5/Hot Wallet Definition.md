@@ -1,0 +1,67 @@
+---
+alias: [Hot Wallet]
+created: 2021-03-02T20:51:42 (UTC +11:00)
+tags: [Hot Wallet Definition, Hot Wallet Definition]
+source: https://www.investopedia.com/terms/h/hot-wallet.asp
+author: Will Kenton
+---
+
+# Hot Wallet Definition
+
+> ## Excerpt
+> Hot wallets are among the most popular ways of storing digital currencies.
+
+---
+
+Hot Wallet Definition
+## What Is a Hot Wallet?
+
+A hot wallet is a tool that allows a cryptocurrency owner to receive and send tokens. Unlike traditional currencies, there are no dedicated banks or physical wallets that can be used to keep cryptocurrency holdings secure. [[Cryptocurrency wallets]](https://www.investopedia.com/terms/d/digital-wallet.asp) are tools that are commonly used to store and protect these holdings, and they come in many different forms and varieties.
+
+One of the most popular kinds of [[cryptocurrency wallets]](https://www.investopedia.com/best-bitcoin-wallets-5070283) is called a hot wallet. The difference between a hot wallet and a cold wallet is that hot wallets are connected to the internet, while cold wallets are not.
+
+### Key Takeaways
+
+-   A hot wallet is a tool that allows cryptocurrency users to store, send, and receive tokens.
+-   Hot wallets are linked with public and private keys that help facilitate transactions and also act as a security measure.
+-   Because hot wallets are connected to the internet, they tend to be somewhat more vulnerable to hacks and theft than cold storage methods.
+
+## Understanding Hot Wallets
+
+There are different reasons why an investor might want their cryptocurrency holdings to be either connected to or disconnected from the Internet. Because of this, it's not uncommon for cryptocurrency holders to have multiple cryptocurrency wallets, including both hot cold wallets.
+
+The biggest advantage of holding cryptocurrency in a hot wallet is that it can be used to help facilitate basic transactions. Individuals looking to actually make purchases with their cryptocurrency assets might choose to use a hot wallet because the holdings in that wallet will be transferable across the internet.
+
+On the other hand, hot wallets are more likely than cold storage techniques to face security issues or potentially be hacked. However, a hot wallet is not an unsafe way to store your cryptocurrency. Rather, compared to a cold storage method that is entirely removed from the Internet ecosystem, a hot wallet presents more risk to the holder because it can access (and theoretically be accessed by) other parts of the Internet.
+
+## How a Hot Wallet Works
+
+After an investor decides to buy or mine digital currency, they must then determine where and how to store their tokens. Although they are called wallets, the name is somewhat misleading because hot wallets don't actually store cryptocurrency in the way that traditional wallets store currency. The role of hot wallets is to help facilitate any changes to the record of transactions stored on the decentralized blockchain ledger for whatever cryptocurrency is being used.
+
+For the cryptocurrency investor, the cryptographic public keys and private keys are the most important elements of a cryptocurrency wallet. Public keys are similar to account usernames; they identify the wallet so that the user can receive tokens without revealing their identity. Private keys are similar to pin numbers; they allow the user to access the wallet and check balances, initiate transactions, and more. Without either of these keys, the wallet is effectively useless.
+
+## Security and Hot Wallets
+
+The safety and security of a hot wallet are largely dependent upon the user's behavior. Any items stored in a hot wallet are vulnerable to attack because the public and private keys are stored on the Internet.
+
+Experienced cryptocurrency investors will only keep a small portion of their holdings in their hot wallet because it's less likely that a hacker will break into a hot wallet for a small number of tokens. For example, they may only keep the amount they plan to spend in the near future in their hot wallet. Their remaining assets will stay in cold storage until they are needed for specific transactions.
+
+Some investors choose to keep their cryptocurrency tokens in accounts linked to popular exchanges like Bitstamp or [[Poloniex]](https://www.investopedia.com/tech/what-poloniex/). These companies will store your funds in their infrastructure and can be considered hot wallet providers. If an investor keeps their tokens in a Bitstamp or Poloniex account, and an attacker gains access to one of these company's servers, they could suffer a loss if the hacker is able to infiltrate their customer accounts.
+
+Because many of the top digital currency exchanges allow users to transfer between various fiat currencies and cryptocurrencies, it's common for users to hold small amounts of various currencies in their accounts. If they maintain a substantial balance of any currency, there is more risk of drawing the attention of hackers or, in the event of a theft, losing a substantial portion of their holdings.
+
+## Types of Hot Wallets
+
+There are a variety of hot wallets available for investors and many of them are free to download. Some wallets are specifically designed to be used in partnership with particular mobile web applications or even with certain cryptocurrencies.
+
+It can be useful for an investor to conduct research into the development of a hot wallet before downloading and using that service. Developers have varying degrees of expertise, various commitments to security and privacy, and different priorities in mind when creating their wallets.
+
+Developers will also adopt different strategies when it comes to updating their products. Ideally, a hot wallet provider should be continually updating its product in response to the ways that hacking efforts are changing and evolving.
+
+## Software Hot Wallets
+
+Software hot wallets are downloadable applications that aren't linked to any particular exchanges. You maintain control of your private keys, so the cryptocurrency assets in the hot wallet remain under your control.
+
+However, your cryptocurrency is still vulnerable to hacking because a hacker that gains access to your computer could theoretically drain your wallet via the software application.
+
+Some cryptocurrency users prefer to keep their digital assets in a physical wallet. Usually, these are devices that look like a USB flash drive. These are not hot wallets because they can only be accessed by being plugged directly into a computer and do not require an internet connection in order for a user to access their cryptocurrency funds.

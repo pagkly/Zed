@@ -1,0 +1,53 @@
+---
+alias: [Unscheduled Property Floater]
+created: 2021-03-03T00:25:52 (UTC +11:00)
+tags: [Unscheduled Property Floater Definition, Unscheduled Property Floater]
+source: https://www.investopedia.com/terms/u/unscheduled-property-floater.asp
+author:  Staff
+---
+
+# Unscheduled Property Floater Definition
+
+> ## Excerpt
+> An unscheduled property floater is an addition to an existing property insurance policy to cover items that have not been individually itemized or valued.
+
+---
+
+Unscheduled Property Floater
+## What Is an Unscheduled Property Floater?
+
+The importance of having [[adequate property insurance coverage]](https://www.investopedia.com/articles/insurance/09/property-insurance.asp) can’t be overstated. One way to make sure you have the coverage you need is with an unscheduled property [[floater]](https://www.investopedia.com/terms/f/floaterinsurance.asp), an addition to an existing [[property insurance]](https://www.investopedia.com/terms/p/property-insurance.asp) policy that provides coverage for personal property items that have not been individually itemized or valued.
+
+An unscheduled personal property floater, also called a “[blanket](https://www.investopedia.com/terms/b/blanket_insurance.asp)” floater, usually provides coverage against damage, theft, or loss of these items. The additional cost is generally much lower than the original policy premium. An unscheduled property floater is the opposite of a scheduled property floater, which itemizes all the different properties covered in the policy and their specific value.
+
+### Key Takeaways
+
+-   An unscheduled property floater is a rider to an insurance policy that covers a blanket group of items—ones that have not been individually valued and listed.
+-   There is usually a set coverage limit and a set deductible for the property under the unscheduled floater.
+-   The cost of the floater is generally much less than the original insurance policy premium, but it does make your overall premium payment bigger.
+-   An unscheduled property floater is the opposite of a scheduled property floater that lists all of the different properties and their value.
+-   Items that might fall under an unscheduled property floater for homeowners insurance include clothes, jewelry, high-end electronics, and sports equipment.
+
+## Understanding an Unscheduled Property Floater
+
+Unscheduled personal property refers to items that are covered in the main policy but not specifically itemized or valued. These items usually do not warrant separate insurance as their individual value is too low to warrant a separate policy.
+
+Under [[homeowners insurance]](https://www.investopedia.com/terms/h/homeowners-insurance.asp), for example, unscheduled property could include clothes, jewelry, sports equipment, and cameras. In the event of a fire or other catastrophic loss that the policy covers, the policyholder would add up all of these unscheduled items, estimate their total value, and submit them for compensation. Depending on the policy, even if these items were damaged, lost, or stolen outside of the home, for example on vacation, they would still be covered.
+
+“Floater” refers to an addition to a current policy to make sure the insurance covers certain valuables. People buy these add-on policies to provide coverage for property that insurance may not adequately cover otherwise, and they sometimes come with additional benefits. For example, adding theft coverage even if the item was not in the home when it was stolen. Adding a floater usually requires a higher [[insurance premium]](https://www.investopedia.com/terms/i/insurance-premium.asp).1
+
+## Unscheduled Property Floater vs. Scheduled Property Floater
+
+Note that floater policies also can be [[scheduled]](https://www.investopedia.com/terms/s/scheduled-personal-property.asp), as opposed to unscheduled. For scheduled policies, each item would be individually listed with an approximate value. Unscheduled jewelry coverage, for example, might not be enough to adequately compensate for the loss of some particularly expensive pieces, [[which would call for their own scheduled jewelry floater]](https://www.investopedia.com/articles/personal-finance/072115/quick-guide-how-insure-jewelry.asp).2
+
+In this manner, a policyholder can adequately cover personal property that might be greater than the set coverage limit stipulated in the unscheduled property floater contract.
+
+Payment for an item under an unscheduled property floater is usually the replacement cost of the property in question or the cash value of it after the deductible has been paid.
+
+Unscheduled property floaters may be advantageous when the prospective policyholders have many items to insure, each valued at approximately $1,000 or less. An unscheduled policy usually has a set [[deductible]](https://www.investopedia.com/terms/d/deductible.asp) and may also have a set coverage ceiling for all types of items.
+
+Conversely, a scheduled property floater may be more appropriate if there are fewer but pricier items to insure, and it’s not a burden to list them all in the policy separately.2
+
+In general, unscheduled floaters may be limited to specific types of losses, such as theft or fire. Unscheduled floaters typically have one overarching amount of coverage that applies to any and all items within the scope of the policy. Scheduled floaters may cover more types of losses, but they will not cover items that the buyer doesn’t specifically spell out.3
+
+Notably, it also is possible to have both scheduled and unscheduled policy floaters in the same policy. In fact, certain types of policies may require one or more scheduled items in order for the policyholder to have unscheduled coverage.4

@@ -1,0 +1,62 @@
+---
+alias: [Subordination Agreement]
+created: 2021-03-02T23:47:46 (UTC +11:00)
+tags: [Subordination Agreement Definition, Subordination Agreement: Definition and Effect on Mortgages]
+source: https://www.investopedia.com/terms/s/subordination-agreement.asp
+author: Carol M. Kopp
+---
+
+# Subordination Agreement Definition
+
+> ## Excerpt
+> A subordination agreement establishes one debt as ranking behind another in priority for collecting repayment should a debtor default.
+
+---
+
+Subordination Agreement: Definition and Effect on Mortgages
+## What Is a Subordination Agreement?
+
+A subordination agreement is a legal document that establishes [[one debt as ranking behind another in priority]](https://www.investopedia.com/terms/s/subordinateddebt.asp) for collecting repayment from a debtor. The priority of debts can become extremely important when a debtor defaults on payments or declares bankruptcy.
+
+A subordination agreement acknowledges that one party’s claim or interest is superior to that of another party in the event that the borrower's assets must be liquidated to repay the debts.
+
+The subordinated party will only collect on a debt owed when and if the obligation to the primary lender has been fully satisfied in the event of foreclosure and liquidation.
+
+## How a Subordination Agreement Works
+
+Individuals and businesses turn to lending institutions when they need to borrow funds. The lender is compensated when it receives interest payments on the loaned amount, unless and until the borrower defaults on her payments. The lender might require a subordination agreement to protect its interests should the borrower place additional liens against the property, such as if she were to take out a second mortgage.
+
+The "junior" or second debt is referred to as a [[subordinated debt]](https://www.investopedia.com/terms/s/subordinateddebt.asp). The debt which has a higher claim to the asset is the senior debt. 
+
+Lenders of senior debts have a legal right to be repaid in full before lenders of subordinated debts receive any repayments. It often happens that a debtor doesn't have enough funds to pay all debts, or [[foreclosure and sale]](https://www.investopedia.com/terms/f/foreclosure.asp) doesn't produce enough in the way of liquid proceeds, so lower priority debts might receive little or no repayment at all.
+
+A subordination agreement acknowledges that one party’s claim or interest is superior to that of another party in the event that the borrower's assets must be liquidated.
+
+## Example of a Subordination Agreement
+
+Consider a business that has $670,000 in senior debt, $460,000 in subordinated debt, and total asset value of $900,000. The business files for bankruptcy and its assets are liquidated at market value—$900,000.
+
+The senior debtholders will be paid in full, and the remaining $230,000 will be distributed among the subordinated debtholders, typically for 50 cents on the dollar. Shareholders in the subordinated company would receive nothing in the liquidation process because shareholders are subordinate to all creditors.
+
+Subordinated debts are riskier than higher priority loans, so lenders typically require higher interest rates as compensation for taking on this risk.
+
+### Key Takeaways
+
+-   A subordination agreement prioritizes collateralized debts, ranking one behind another for purposes of collecting repayment from a debtor in the event of foreclosure or bankruptcy.
+-   A second-in-line creditor collects only when and if the priority creditor has been fully paid.
+-   Subordinated debts are riskier than higher priority loans, so lenders typically require a higher interest rate as compensation for taking on this risk.
+-   Subordination agreements are commonly employed when multiple mortgages exist against one property.
+
+## Types of Subordination Agreements
+
+Subordination agreements can be used in a variety of circumstances, including complex corporate debt structures.
+
+[Unsecured bonds](https://www.investopedia.com/terms/u/unsecureddebt.asp) without collateral are deemed to be subordinate to [[secured bonds]](https://www.investopedia.com/terms/s/securedbond.asp). Should the company default on its interest payments due to bankruptcy, secured bondholders would be repaid their loan amounts before unsecured bondholders. The interest rate on unsecured bonds is typically higher than that of secured bonds, earning higher returns for the investor should the issuer make good on its payments.
+
+## Special Considerations
+
+Subordination agreements are most common in the mortgage field. When an individual takes out a second mortgage, that second mortgage has a lower priority than the first mortgage, but these priorities can be upset by refinancing the original loan.
+
+The mortgagor is essentially paying it off and receiving a new loan when a first mortgage is refinanced, so the new, most-recent loan is now second in line. The existing second loan moves up to become the first loan. The lender of the first mortgage refinancing will now require that a subordination agreement be signed by the second mortgage lender to reposition it in top priority for debt repayment. The priority interests of each creditor are changed by agreement from what they would otherwise have become.
+
+The signed agreement must be acknowledged by a notary and recorded in the official records of the county to be enforceable.

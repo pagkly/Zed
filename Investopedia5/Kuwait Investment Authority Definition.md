@@ -1,0 +1,50 @@
+---
+alias: [Kuwait Investment Authority]
+created: 2021-03-02T21:09:19 (UTC +11:00)
+tags: [Kuwait Investment Authority Definition, Kuwait Investment Authority Definition]
+source: https://www.investopedia.com/terms/k/kia.asp
+author: James Chen
+---
+
+# Kuwait Investment Authority Definition
+
+> ## Excerpt
+> The Kuwait Investment Authority is a government-owned corporation responsible for managing the sovereign wealth fund of Kuwait.
+
+---
+
+Kuwait Investment Authority Definition
+## What Is the Kuwait Investment Authority?
+
+The term Kuwait Investment Authority (KIA) refers to a government-owned corporation responsible for managing the [[sovereign wealth fund]](https://www.investopedia.com/terms/s/sovereign_wealth_fund.asp) of Kuwait. Founded out of the Kuwait Investment Board in 1982, it was established to manage government [[revenue]](https://www.investopedia.com/terms/r/revenue.asp), derived primarily from the excess proceeds Kuwait earns from its [[oil reserves]](https://www.investopedia.com/terms/o/oil-reserves.asp). The fund—the world's first and oldest—was created to lessen the country's dependence on oil.
+
+### Key Takeaways
+
+-   The Kuwait Investment Authority is a government-owned corporation that manages the sovereign wealth fund of Kuwait.
+-   The KIA was established to manage government revenue, which primarily consists of the profits from Kuwait's oil reserves.
+-   The fund invests in private and public equity, real estate, fixed income, and alternative investment markets.
+-   It is divided into two segments: the General Reserve Fund and the Future Generations Fund.
+
+## Understanding the Kuwait Investment Authority
+
+[Crude oil](https://www.investopedia.com/terms/c/crude-oil.asp) was first discovered in Kuwait in 1938. The country exported its first shipment of the [[commodity]](https://www.investopedia.com/terms/c/commodity.asp) in 1946, which put Kuwait on the map as one of the world's major crude oil producers.1 This boosted the country's [[economy]](https://www.investopedia.com/terms/e/economy.asp), leading its leaders to look for ways to invest its excess revenue.
+
+Sheikh Abdullah Al-Salem Al-Sabah created the Kuwait Investment Board in 1953—eight years before the country’s independence. The board was established to manage the nation's [[surplus]](https://www.investopedia.com/terms/s/surplus.asp) oil revenue. It also aimed to decrease Kuwait's dependence on a single resource. This paved the road for the creation of the Kuwait Investment Authority (KIA) in 1982 as an autonomous government body in charge of managing the [[assets]](https://www.investopedia.com/terms/a/asset.asp) of the country.2 The KIA is located in Kuwait City, with additional offices in London and Shanghai.3
+
+Interested in investing in Kuwait? Consider a mutual fund or an exchange-traded fund.
+
+The KIA, which created the world's very first and oldest sovereign wealth fund, is managed by a board of directors. This board has the authority and independence over the fund's [[asset allocation]](https://www.investopedia.com/terms/a/assetallocation.asp) strategy. It is also responsible for the fund's performance. The fund invests mostly in [[private and public equity]](https://www.investopedia.com/articles/investing/030415/difference-between-private-and-public-equity.asp), real estate, [[fixed income]](https://www.investopedia.com/terms/f/fixedincome.asp), and alternative investment markets. According to the Sovereign Wealth Fund Institute, the KIA has a total of $533.6 billion in assets.4
+
+There are three different principles that make up the KIA's [[mission statement]](https://www.investopedia.com/terms/m/missionstatement.asp):
+
+-   Managing parts of the Future Generations Fund
+-   Preserving [[capital]](https://www.investopedia.com/terms/c/capital.asp) and achieving long-term [[returns]](https://www.investopedia.com/terms/r/return.asp) by outperforming the [[benchmark]](https://www.investopedia.com/terms/b/benchmark.asp)
+-   Promoting its reputation as a progressive institution that invests in the international market3
+
+The fund is one of the members of the International Forum of Sovereign Wealth Funds and is among those that signed up to the [[Santiago Principles]](https://www.investopedia.com/terms/g/gaap-santiagoprinciples.asp), which consists of 24 [[best practices]](https://www.investopedia.com/terms/b/best_practices.asp) for these types of funds.56 The principles aim to promote [[accountability]](https://www.investopedia.com/terms/a/accountability.asp) and [[transparency]](https://www.investopedia.com/terms/t/transparency.asp), along with sound investment decisions among the world's sovereign wealth funds.
+
+## Special Considerations
+
+The fund is divided into two segments—the General Reserve Fund (GRF) and the Future Generations Fund (FGF). The country’s oil revenues and any income earned from the fund's investments are held in the GRF.7 Its assets and income may be freely used by the national government. This segment invests in domestic companies, along with corporations in other Middle Eastern and Northern African countries. As much as 10% of the country's revenue and 10% of the GRF's [[net income]](https://www.investopedia.com/terms/n/netincome.asp) are transferred to the Future Generations Fund.3
+
+The FGF is considered an intergenerational, long-term saving platform. This segment, established in 1976, was created with a 50% [[transfer]](https://www.investopedia.com/terms/t/transfer.asp) from the GRF. The fund invests outside of Kuwait with strategic asset allocation. All income from FGF’s investments is [[reinvested]](https://www.investopedia.com/terms/r/reinvestment.asp). Any transfers from the fund require a specific legislation.8

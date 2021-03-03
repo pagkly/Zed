@@ -1,0 +1,51 @@
+---
+alias: [Pareto Efficiency]
+created: 2021-03-02T22:38:06 (UTC +11:00)
+tags: [Pareto Efficiency Definition, Pareto Efficiency Definition]
+source: https://www.investopedia.com/terms/p/pareto-efficiency.asp
+author: Investopedia Staff
+---
+
+# Pareto Efficiency Definition
+
+> ## Excerpt
+> Pareto efficiency is an economic state in which resources are allocated in the most efficient manner.
+
+---
+
+Pareto Efficiency Definition
+## What Is Pareto Efficiency?
+
+Pareto efficiency, or Pareto optimality, is an economic state where resources cannot be reallocated to make one individual better off without making at least one individual worse off. Pareto efficiency implies that resources are [[allocated]](https://www.investopedia.com/terms/a/allocationalefficiency.asp) in the most [[economically efficient]](https://www.investopedia.com/terms/e/economic_efficiency.asp) manner, but does not imply equality or fairness. An economy is said to be in a Pareto optimum state when no economic changes can make one individual better off without making at least one other individual worse off.
+
+Pareto efficiency, named after the Italian economist and political scientist Vilfredo Pareto (1848-1923), is a major pillar of [[welfare economics]](https://www.investopedia.com/terms/w/welfare_economics.asp). [[Define Neoclassical Economics|Neoclassical economics]](https://www.investopedia.com/terms/n/neoclassical.asp), alongside the theoretical construct of [[perfect competition]](https://www.investopedia.com/terms/p/perfectcompetition.asp), is used as a benchmark to judge the efficiency of real markets—though neither perfectly efficient nor perfectly competitive markets occur outside of economic theory.
+
+### Key Takeaways
+
+-   Pareto efficiency is when an economy has its resources and goods allocated to the maximum level of efficiency, and no change can be made without making someone worse off.
+-   Pure Pareto efficiency exists only in theory, though the economy can move toward Pareto efficiency.
+-   Alternative criteria for economic efficiency based on Pareto efficiency are often used to make economic policy, as it is very difficult to make any change that will not make any one individual worse off.
+
+## Understanding Pareto Efficiency
+
+Hypothetically, if there were perfect competition and resources were used to maximum efficient capacity, then everyone would be at their highest standard of living, or Pareto efficiency. Economists Kenneth Arrow and Gerard Debreu demonstrated, theoretically, that under the assumption of perfect competition and where all goods and services are tradeable in competitive markets with zero [[transaction costs]](https://www.investopedia.com/terms/t/transactioncosts.asp), an economy will tend toward Pareto efficiency.
+
+In any situation other than Pareto efficiency, some changes to the allocation of resources in an economy can be made, such that at least one individual gains and no individuals lose from the change. Only changes in allocation of resources that meet this condition are considered moves toward Pareto efficiency. Such a change is called a [[Pareto improvement]](https://www.investopedia.com/terms/p/paretoimprovement.asp).
+
+A Pareto improvement occurs when a change in allocation harms no one and helps at least one person, given an initial allocation of goods for a set of persons. The theory suggests that Pareto improvements will keep enhancing value to an economy until it achieves a Pareto equilibrium, where no more Pareto improvements can be made. Conversely, when an economy is at Pareto efficiency, any change to the allocation of resources will make at least one individual worse off.
+
+## Pareto Efficiency in Practice
+
+In practice, it is almost impossible to take any social action, such as a change in economic policy, without making at least one person worse off, which is why other criteria of economic efficiency have found a wider use in economics.
+
+These include the following:
+
+-   **Buchanan unanimity criterion**: under which a change is efficient if all members of society unanimously consent to it.
+-   **Kaldor-Hicks efficiency**: under which a change is efficient if the gains to the winners of any change in allocation outweigh the damage to the losers.
+-   [**Coase Theorem**](https://www.investopedia.com/terms/c/coase-theorem.asp): which states that individuals can bargain over the gains and losses to reach an economically efficient outcome under competitive markets with no transaction cost.
+
+These alternative criteria for economic efficiency all to some extent relax the strict requirements of pure Pareto efficiency in the pragmatic interest of real world policy and decision making.
+
+Aside from applications in economics, the concept of Pareto improvements can be found in many scientific fields, where trade-offs are simulated and studied to determine the number and type of reallocation of resource variables necessary to achieve Pareto efficiency.
+
+In the business world, factory managers may run Pareto improvement trials, in which they reallocate labor resources to try to boost the productivity of assembly workers without, for example, decreasing the productivity of the packing and shipping workers.
