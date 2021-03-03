@@ -1,0 +1,134 @@
+---
+alias: [Third World]
+created: 2021-03-03T00:00:39 (UTC +11:00)
+tags: [Third World Definition, The meaning of the term Third World]
+source: https://www.investopedia.com/terms/t/third-world.asp
+author: Caroline Banton
+---
+
+# Third World Definition
+
+> ## Excerpt
+> Third World is an outdated and offensive phrase historically used to describe economically developing nations.
+
+---
+
+The meaning of the term Third World
+## What Is the Third World?
+
+"Third World" is an outdated and derogatory phrase that has been used historically to describe a class of economically developing nations. It is part of a four-part segmentation that was used to describe the [world’s economies](https://www.investopedia.com/articles/investing/100515/these-will-be-worlds-top-economies-2020.asp) by economic status. Third World falls behind First World and Second World but was ahead of Fourth World, though Fourth-World countries were hardly recognized at all. Today the preferred terminology is a developing nation, an underdeveloped country, or a low- and [middle-income country](https://www.investopedia.com/terms/m/middle-income-countries.asp) (LMIC).
+
+## Defining Developing Nations
+
+There can be a few ways to divide up the world for purposes of economic segmentation. Classifying countries as First, Second, Third, and Fourth World was a concept created during and after the Cold War, which ran from approximately 1945 to the 1990s.
+
+In general, nations are typically characterized by economic status and key economic metrics like gross domestic product (GDP), GDP growth, GDP per capita, employment growth, and an unemployment rate. In developing countries, low production rates and struggling labor market characteristics are usually paired with relatively low levels of education, poor infrastructure, improper sanitation, limited access to health care, and lower costs of living.
+
+Developing nations are closely watched by the [International Monetary Fund](https://www.investopedia.com/articles/03/030703.asp) (IMF) and the [World Bank](https://www.investopedia.com/terms/w/worldbank.asp), which seek to provide global aid for the purposes of projects that help to improve infrastructure and economic systems comprehensively. Both organizations refer to these countries as lower-middle or low-income countries.
+
+Developing nations, or LMIC, can be the target of many investors seeking to identify potentially high returns through possible growth opportunities, though risks are also relatively higher. While developing countries are generally characterized as performing poorer economically, innovative and industrial breakthroughs can lead to substantial improvements in a short amount of time.
+
+### Key Takeaways
+
+-   A Third World country is an outdated and offensive term for a developing nation characterized by a population with low and middle incomes, and other socio-economic indicators.
+-   The International Monetary Fund, World Bank, and World Trade Organization allow for certain benefits and contractual term provisions for countries that meet certain types of economic status classifications.
+
+## History of Developing Nations Classifications
+
+The classification of nations as First World or Third World emerged during and after the Cold War. First-World countries were known as the most highly industrialized nations whose views aligned with the North Atlantic Treaty Organization and [capitalism](https://www.investopedia.com/terms/c/capitalism.asp).
+
+Second-World countries supported [communism](https://www.investopedia.com/terms/c/communism.asp) and the Soviet Union. Most of these countries were formerly controlled by the Soviet Union. Many countries of East Asia also fit into the Second-World category.
+
+Third-World countries included nations in Asia and Africa that were not aligned with either the United States or the Soviet Union. Now, in part because the Soviet Union no longer exists, the definition of Third World is outdated and considered offensive.
+
+### Alfred Sauvy Coined the Term
+
+Alfred Sauvy, a French demographer, anthropologist, and historian, is credited with coining the term Third World during the Cold War. Sauvy observed a group of countries, many former colonies, that did not share the ideological views of Western capitalism or Soviet socialism. "Three worlds, one planet," wrote Sauvy in a 1952 article published in _L'Observateur_.1
+
+## Dividing the World
+
+In the modern-day, most countries on Earth fall into one of three general categories that some refer to as developed, emerging, and frontier. The world segmentations have somewhat migrated to fit within these categories overall.
+
+The developed countries are the most industrialized with the strongest economic characteristics. The emerging countries are classified as such because they demonstrate significant strides in various economic growth areas though their metrics are not as stable. The frontier markets often closely mirror the old Third-World classification and often show the lowest economical indicators.
+
+## Frontier Markets List
+
+The evolutions of the worldly segmentations have become historic and obsolete. As such, one barometer for assessing a list of developing countries is [MSCI’s Frontier Markets Index](https://www.msci.com/market-classification). This index includes the following countries:
+
+-   Croatia
+-   Estonia
+-   Lithuania
+-   Kazakhstan
+-   Romania
+-   Serbia
+-   Slovenia
+-   Kenya
+-   Mauritius
+-   Morocco
+-   Nigeria
+-   Tunisia
+-   WAEMU
+-   Bahrain
+-   Jordan
+-   Kuwait
+-   Lebanon
+-   Oman
+-   Bangladesh
+-   Sri Lanka
+-   Vietnam
+
+## Other Definitions of Developing Nations
+
+The [World Trade Organization](https://www.wto.org/english/tratop_e/devel_e/d1who_e.htm) (WTO), also provides another point of reference. The WTO divides countries into two classes: developing and least developed. There are no criteria for these classifications so countries self-nominate, though statuses can be contested by other nations.
+
+The WTO segregation comes with certain rights for developing country status. For example, the WTO grants developing countries longer transition periods before implementing agreements that aim to increase trading opportunities and infrastructure support related to WTO work.
+
+As an offshoot of the WTO, the [Human Development Index](https://www.investopedia.com/terms/h/human-development-index-hdi.asp) (HDI) is another economic status metric developed by the United Nations to assess the social and economic development levels of countries. The HDI measures and then ranks a country based on schooling, life expectancy, and gross national income per capita.
+
+The World Health Organization and the United Nations uses [Least Developed Countries](https://apps.who.int/iris/bitstream/handle/10665/255802/WHO-CCU-17.07-eng.pdf;jsessionid=EA2CACEBF1259A083DFE622B27042B02?sequence=1) (LDC) to describe a set of [45 countries](https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/publication/ldc_list.pdf) with low socioeconomic developmental indicators. This list is reassessed every few years. These indicators are a combination of gross national income, human assets (nutrition, life expectancy, secondary school education, adult literacy), and economic vulnerability (population size, remoteness, merchandise export concentration, agriculture, exports, and natural disaster preparedness).
+
+-   Afghanistan
+-   Angola
+-   Bangladesh
+-   Benin
+-   Burkina Faso
+-   Burundi
+-   Cambodia
+-   Central African Republic
+-   Chad
+-   Comoros
+-   Democratic Republic of the Congo
+-   Djibouti
+-   Eritrea
+-   Ethiopia
+-   Gambia
+-   Guinea-Bissau
+-   Haiti
+-   Kiribati
+-   Lao People's Democratic Republic
+-   Lesotho
+-   Liberia
+-   Madagascar
+-   Malawi
+-   Mali
+-   Mauritania
+-   Mozambique
+-   Myanmar
+-   Nepal
+-   Niger
+-   Rwanda
+-   Sao Tome and Principe
+-   Senegal
+-   Sierra Leone
+-   Solomon Islands
+-   Somalia
+-   South Sudan
+-   Sudan
+-   Timor-Leste
+-   Togo
+-   Tuvalu
+-   Uganda
+-   United Republic of Tanzania
+-   Vanuatu
+-   Yemen
+-   Zambia

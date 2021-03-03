@@ -1,0 +1,47 @@
+---
+alias: [Exchange Rate Mechanism, ERM]
+created: 2021-03-02T19:46:20 (UTC +11:00)
+tags: [Exchange Rate Mechanism (ERM) Definition, Understanding Exchange Rate Mechanisms (ERMs)]
+source: https://www.investopedia.com/terms/e/exchange-rate-mechanism.asp
+author: Adam Hayes
+---
+
+# Exchange Rate Mechanism (ERM) Definition
+
+> ## Excerpt
+> An exchange rate mechanism (ERM) is based on the concept of fixed currency exchange rate margins, but there is variability among currency exchange rates.
+
+---
+
+Understanding Exchange Rate Mechanisms (ERMs)
+## What Is an Exchange Rate Mechanism (ERM)?
+
+An exchange rate mechanism (ERM) is a device used to manage a country's currency exchange rate relative to other currencies. It is part of an economy's [monetary policy](https://www.investopedia.com/terms/m/monetarypolicy.asp) and is put to use by central banks.
+
+Such a mechanism can be employed if a country utilizes either a [fixed exchange rate](https://www.investopedia.com/terms/f/fixedexchangerate.asp) or one with floating exchange rate that is bounded around its peg (known as an [adjustable peg](https://www.investopedia.com/terms/a/adjustable-peg.asp) or crawling peg).
+
+### Key Takeaways
+
+-   An exchange rate mechanism (ERM) is a way that central banks can influence the relative price of its national currency in forex markets.
+-   The ERM allows the central bank to tweak a currency peg in order to normalize trade and/or the influence of inflation.
+-   More broadly, ERM is used to keep exchange rates stable and minimize currency rate volatility in the market.
+
+## The Basics of the Exchange Rate Mechanism
+
+An exchange rate mechanism is not a new concept. Historically, most new currencies started as a [fixed exchange](https://www.investopedia.com/terms/f/fixedexchangerate.asp) mechanism that tracked gold or a widely traded commodity. It is loosely based on fixed [exchange rate](https://www.investopedia.com/terms/e/exchangerate.asp) margins, whereby exchange rates fluctuate within certain margins.
+
+An upper and lower bound interval allows a currency to experience some variability without sacrificing [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) or drawing additional economic risks. The concept of currency exchange rate mechanisms is also referred to as a semi-pegged currency system.
+
+## Real World Example of the European Exchange Rate Mechanism
+
+The most notable exchange rate mechanism happened in Europe during the late 1970s. The European Economic Community introduced the ERM in 1979, as part of the [European Monetary System](https://www.investopedia.com/terms/e/ems.asp), to reduce exchange rate variability and achieve stability before member countries moved to a single currency. It was designed to normalize exchange rates between countries before they were integrated in order to avoid any problems with price discovery.
+
+The exchange rate mechanisms came to a head in 1992 when Britain, a member of the European ERM, withdrew from the treaty. The British government initially entered the agreement to prevent the British pound and other member currencies from deviating by more than 6%.
+
+## Soros and Black Wednesday
+
+In the months leading up to the 1992 event, legendary investor [George Soros](https://www.investopedia.com/terms/g/soros.asp) had built up a monumental [short position](https://www.investopedia.com/terms/s/short.asp) in the pound sterling that became profitable if the currency fell below the lower band of the ERM. Soros recognized that Britain entered the agreement under unfavorable conditions, the rate was too high and economic conditions were fragile. In September 1992, now known as [Black Wednesday](https://www.investopedia.com/terms/b/black-wednesday.asp), Soros sold off a large portion of his short position to the dismay of the Bank of England, who fought tooth and nail to support the pound sterling.
+
+The European exchange rate mechanism dissolved by the end of the decade, but not before a successor was installed. The [Exchange Rate Mechanism II](https://ec.europa.eu/info/business-economy-euro/euro-area/enlargement-euro-area/introducing-euro/adoption-fixed-euro-conversion-rate/erm-ii-eus-exchange-rate-mechanism_en) (ERM II) was formed in January 1999 to ensure exchange rate fluctuations between the Euro and other EU currencies did not disrupt economic stability in the single market. It also helped non-euro-area countries prepare to enter the euro area.
+
+Most non-euro-area countries agree to keep exchange rates bound to a 15% range, up or down, against the central rate. When necessary, the European Central Bank (ECB) and other non-member countries can intervene to keep rates in the window. Some current and former members of the ERM II include Greece, Denmark, and Lithuania.
