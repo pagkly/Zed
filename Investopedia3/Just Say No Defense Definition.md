@@ -1,7 +1,7 @@
 ---
-alias: ["Just Say No" Defense]
+alias: [Just Say No Defense]
 created: 2021-03-02T21:02:46 (UTC +11:00)
-tags: ["Just Say No" Defense Definition, "Just Say No" Defense Definition]
+tags: [Just Say No Defense Definition, Just Say No Defense Definition]
 source: https://www.investopedia.com/terms/j/just-say-no-defense.asp
 author: Daniel Liberto
 ---

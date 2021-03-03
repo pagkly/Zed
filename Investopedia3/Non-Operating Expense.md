@@ -1,7 +1,7 @@
 ---
-alias: [Non-Operating Expense:]
+alias: [Non-Operating Expense]
 created: 2021-03-02T21:45:57 (UTC +11:00)
-tags: [Non-Operating Expense: Definition, Non-Operating Expense]
+tags: [Non-Operating Expense Definition, Non-Operating Expense]
 source: https://www.investopedia.com/terms/n/non-operating-expense.asp
 author: Alicia Tuovila
 ---
