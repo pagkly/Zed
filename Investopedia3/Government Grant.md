@@ -29,7 +29,7 @@ Grants may also support critical recovery initiatives, agricultural projects, an
 -   A government grant is a financial award given by the federal, state, or local government to fund some type of beneficial project.
 -   Because government grants are funded by tax dollars, they include stringent compliance and reporting measures to ensure the money is well-spent.3
 -   Receiving a government grant is highly prestigious and often brings an individual or entity to the attention of other donors or sources of revenue.
--   The Catalog of Federal Domestic Assistance (CFDA) and the website grants.gov list currently available grants.
+-   The [[Investopedia3/Catalog of Federal Domestic Assistance (CFDA)]] and the website grants.gov list currently available grants.
 
 ## How a Government Grant Works
 

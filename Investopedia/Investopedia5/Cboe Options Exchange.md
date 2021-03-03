@@ -16,7 +16,7 @@ author: Gordon Scott
 Cboe Options Exchange
 ## What Is the Cboe Options Exchange?
 
-Founded in 1973, the Cboe Options Exchange is the world's largest [options](https://www.investopedia.com/terms/o/option.asp) [exchange](https://www.investopedia.com/terms/e/exchange.asp) with contracts focusing on individual equities, indexes, and [interest rates](https://www.investopedia.com/terms/i/interestrate.asp). Originally known as the Chicago Board Options Exchange (CBOE), the exchange changed its name in 2017 as part of a rebranding effort by its holding company, Cboe Global Markets.1 Traders refer to the exchange as the Cboe ("see-bo"). Cboe is also the originator of the [Cboe Volatility Index (VIX)](https://www.investopedia.com/terms/v/vix.asp) which is the most widely used and recognized proxy for market volatility.
+Founded in 1973, the Cboe Options Exchange is the world's largest [options](https://www.investopedia.com/terms/o/option.asp) [exchange](https://www.investopedia.com/terms/e/exchange.asp) with contracts focusing on individual equities, indexes, and [interest rates](https://www.investopedia.com/terms/i/interestrate.asp). Originally known as the Chicago Board Options Exchange (CBOE), the exchange changed its name in 2017 as part of a rebranding effort by its holding company, Cboe Global Markets.1 Traders refer to the exchange as the Cboe ("see-bo"). Cboe is also the originator of the [[[Investopedia3/Cboe Volatility Index (VIX)]]](https://www.investopedia.com/terms/v/vix.asp) which is the most widely used and recognized proxy for market volatility.
 
 ### Key Takeaways
 

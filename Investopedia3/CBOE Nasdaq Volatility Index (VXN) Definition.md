@@ -21,8 +21,8 @@ The CBOE Nasdaq Volatility Index (VXN) is a measure of market expectations of 30
 ### Key Takeaways
 
 -   The CBOE Nasdaq Volatility Index (VXN) is a real-time market index representing the market's expectations for volatility in the Nasdaq 100 index over the coming 30 days.1
--   The VXN was created as a counterpart to the VIX, which measures S&P 500 volatility, since the tech-heavy Nasdaq often diverges from the broader market.
--   The VXN, like the VIX, is computed using the implied volatilities of options listed on the Nasdaq 100 index and functions best as a “fear gauge” or indicator of market nervousness about the technology sector.
+-   The VXN was created as a counterpart to the [[Investopedia3/Cboe Volatility Index (VIX)|VIX]], which measures S&P 500 volatility, since the tech-heavy Nasdaq often diverges from the broader market.
+-   The VXN, like the [[Investopedia3/Cboe Volatility Index (VIX)|VIX]], is computed using the implied volatilities of options listed on the Nasdaq 100 index and functions best as a “fear gauge” or indicator of market nervousness about the technology sector.
 
 ## Understanding CBOE Nasdaq Volatility Index (VXN)
 
@@ -32,12 +32,12 @@ The CBOE Nasdaq Volatility Index was introduced in 2001 as the [[dot-com bubble]
 
 Indeed, the Nasdaq soared 137% in a 15-month period from January 1999 to its peak level of 5,132 in March 2000, before plunging 52% to just below 2,500 by December 2000.3 The [[S&P 500]](https://www.investopedia.com/terms/s/sp500.asp), by comparison, only gained 26% from January 1999 to its March 2000 peak, and then declined 15% by the end of 2000.14
 
-The higher the VXN level, the greater the expectation for Nasdaq-100 volatility. Like the VIX, the VXN functions best as a “fear gauge” or indicator of market nervousness about the technology sector.
+The higher the VXN level, the greater the expectation for Nasdaq-100 volatility. Like the [[Investopedia3/Cboe Volatility Index (VIX)|VIX]], the VXN functions best as a “fear gauge” or indicator of market nervousness about the technology sector.
 
-Since its introduction, the highest level reached by the VXN was 91.79 in September 2001, brought on by the 9/11 attack. Other notable peaks include 86.52 in October 2008, at the height of the global financial crisis, and 84.67 in March 2020, as the world reeled under the COVID-19 onslaught. The lowest level was 9.75 in March 2017. The average level for the VXN over this period was 21.14.5 By way of comparison, the average level for the VIX over this time frame was 19.89.6 These two volatility measures usually correlate closely with the VXN generally showing slightly higher volatility. The COVID-19 induced VXN spike proved to be short-lived as the gauge returned to levels in the 30s.5
+Since its introduction, the highest level reached by the VXN was 91.79 in September 2001, brought on by the 9/11 attack. Other notable peaks include 86.52 in October 2008, at the height of the global financial crisis, and 84.67 in March 2020, as the world reeled under the COVID-19 onslaught. The lowest level was 9.75 in March 2017. The average level for the VXN over this period was 21.14.5 By way of comparison, the average level for the [[Investopedia3/Cboe Volatility Index (VIX)|VIX]] over this time frame was 19.89.6 These two volatility measures usually correlate closely with the VXN generally showing slightly higher volatility. The COVID-19 induced VXN spike proved to be short-lived as the gauge returned to levels in the 30s.5
 
 ## VXN Methodology and Interpretation
 
-The methodology used by the CBOE to calculate the VXN—whose value it disseminates continuously during trading hours—is identical to that used for the VIX. VXN components are near-term (with at least one week to expiration) put and call options, and next-term options in the first and second Nasdaq-100 contract months (options with more than 23 days and less than 37 days to expiration). The selected options are out-of-the-money Nasdaq-100 puts and calls centered on an at-the-money strike price.
+The methodology used by the CBOE to calculate the VXN—whose value it disseminates continuously during trading hours—is identical to that used for the [[Investopedia3/Cboe Volatility Index (VIX)|VIX]]. VXN components are near-term (with at least one week to expiration) put and call options, and next-term options in the first and second Nasdaq-100 contract months (options with more than 23 days and less than 37 days to expiration). The selected options are out-of-the-money Nasdaq-100 puts and calls centered on an at-the-money strike price.
 
 Movement in the VXN represents the level of [[implied volatility]](https://www.investopedia.com/terms/i/iv.asp) from the prices of listed options on the Nasdaq 100 index. Increases in the VXN and positive movement represents higher variances in the underlying securities’ price from their average. This usually occurs with uncertainty. Decreases in the VXN and negative movement represents lower volatility and a greater propensity for prices to trade in a tighter range. The VXN is generally followed along with the [[Nasdaq 100]](https://www.investopedia.com/terms/n/nasdaq100.asp) to understand volatility in relation to positive or negative movements in the prices of the index.

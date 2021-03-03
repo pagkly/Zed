@@ -29,13 +29,13 @@ Grants may also support critical recovery initiatives, agricultural projects, an
 -   A government grant is a financial award given by the federal, state, or local government to fund some type of beneficial project.
 -   Because government grants are funded by tax dollars, they include stringent compliance and reporting measures to ensure the money is well-spent.3
 -   Receiving a government grant is highly prestigious and often brings an individual or entity to the attention of other donors or sources of revenue.
--   The Catalog of Federal Domestic Assistance (CFDA) and the website grants.gov list currently available grants.
+-   The [[Investopedia3/Catalog of Federal Domestic Assistance (CFDA)]] and the website grants.gov list currently available grants.
 
 ## How a Government Grant Works
 
 Government grants aren't just bestowed: they must be applied for. Getting a government grant is an extremely competitive process. The paperwork is complex and applicants must describe how the awarded funds will benefit the local community or the public at large. Crafting a convincing proposal is so challenging that applicants often hire professional help. Some freelance writers specialize in writing grant proposals.
 
-The [Catalog of Federal Domestic Assistance (CFDA)](https://www.investopedia.com/terms/c/catalog-of-federal-domestic-assistance-cfda.asp), published annually, offers a list of available grants and grant programs, and the agencies sponsoring them. Grants from the federal government are authorized and appropriated through bills passed by Congress and signed by the president. Grant authority varies among agencies. For example, the [Small Business Administration (SBA)](https://www.investopedia.com/terms/s/small-business-administration.asp) may distribute grants to nonprofit organizations in many of its counseling and training programs.
+The [[[Investopedia3/Catalog of Federal Domestic Assistance (CFDA)]]](https://www.investopedia.com/terms/c/catalog-of-federal-domestic-assistance-cfda.asp), published annually, offers a list of available grants and grant programs, and the agencies sponsoring them. Grants from the federal government are authorized and appropriated through bills passed by Congress and signed by the president. Grant authority varies among agencies. For example, the [Small Business Administration (SBA)](https://www.investopedia.com/terms/s/small-business-administration.asp) may distribute grants to nonprofit organizations in many of its counseling and training programs.
 
 ## Receiving a Government Grant
 

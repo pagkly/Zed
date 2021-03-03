@@ -76,7 +76,7 @@ Of course, even though the securities are back by tangible assets, there is no g
 
 Different securities—and the tranches of these securities—can carry different levels of risk and offer the investor various yields. Investors must take care to understand the debt underlying the product they are buying.
 
-Even so, there can be a lack of transparency about the underlying assets. MBS played a toxic and precipitating role in the financial crisis of 2007 to 2009. Leading up to the crisis the quality of the loans underlying the products sold was misrepresented. Also, there was misleading packaging—in many cases repackaging—of debt into further securitized products. Tighter regulations regarding these securities have since been implemented. Still—_caveat emptor_—or beware buyer.
+Even so, there can be a lack of transparency about the underlying assets. MBS played a toxic and precipitating role in the financial crisis of 2007 to 2009. Leading up to the crisis the quality of the loans underlying the products sold was misrepresented. Also, there was misleading packaging—in many cases repackaging—of debt into further securitized products. Tighter regulations regarding these securities have since been implemented. Still—_[[Investopedia3/Caveat Emptor]]_—or beware buyer.
 
 A further risk for the investor is that the borrower may pay off the debt early. In the case of home mortgages, if interest rates fall, they may refinance the debt. Early repayment will reduce the returns the investor receives from interest on the underlying notes.
 

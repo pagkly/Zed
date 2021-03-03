@@ -23,7 +23,7 @@ Founded in 1973, the Cboe Options Exchange is the world's largest [[options]](h
 -   The Cboe Options Exchange was previously the Chicago Board Options Exchange (CBOE).
 -   In 2010 the exchange incorporated as a holding company with the exchange as its main asset.
 -   In 2017 the holding company and exchange rebranded as Cboe Global Markets Inc. and the Cboe Options Exchange, respectively.
--   Cboe is home to the VIX volatility index and many other volatility instruments.
+-   Cboe is home to the [[Investopedia3/Cboe Volatility Index (VIX)|VIX]] volatility index and many other volatility instruments.
 
 ## Understanding the Cboe Options Exchange
 
@@ -41,6 +41,6 @@ There are options available on stock and sector indexes, including the [[Standar
 
 The exchange offers social media indexes and specialty indexes covering several options strategies, such as "put write," [[butterfly]](https://www.investopedia.com/terms/b/butterflyspread.asp), and [[collar]](https://www.investopedia.com/terms/c/collar.asp).
 
-Finally, the VIX index, which is the premier barometer of equity market [[volatility]](https://www.investopedia.com/terms/v/volatility.asp). This Index is based on real-time prices of [[near-the-money]](https://www.investopedia.com/terms/n/near-the-money.asp) options on the S&P 500 Index (SPX) and is designed to reflect investors' consensus view of future (30-day) expected stock market volatility. Traders call the VIX Index the "fear gauge" because it tends to spike to very high levels when investors believe the market is very bearish or unstable.
+Finally, the [[Investopedia3/Cboe Volatility Index (VIX)|VIX]] index, which is the premier barometer of equity market [[volatility]](https://www.investopedia.com/terms/v/volatility.asp). This Index is based on real-time prices of [[near-the-money]](https://www.investopedia.com/terms/n/near-the-money.asp) options on the S&P 500 Index (SPX) and is designed to reflect investors' consensus view of future (30-day) expected stock market volatility. Traders call the VIX Index the "fear gauge" because it tends to spike to very high levels when investors believe the market is very bearish or unstable.
 
 The VIX Index is also the flagship index of the Cboe Global Markets' volatility franchise. This includes volatility indexes on broad-based stock indexes, ETFs, individual stocks, [[commodities]](https://www.investopedia.com/terms/c/commodity.asp), and other specialty indexes.
