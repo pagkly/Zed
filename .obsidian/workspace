@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Dict/inherent.md",
-            "mode": "preview"
+            "file": "00Prog/PC - Google Colab.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Dict/inherent.md",
+                "file": "00Prog/PC - Google Colab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Dict/inherent.md"
+                "file": "00Prog/PC - Google Colab.md"
               }
             }
           }
@@ -145,15 +145,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "00Prog/PC - Google Colab.md",
+    "00Prog/How it works - Learn.md",
+    "00Prog/🐚Unix.md",
     "Dict/inherent.md",
     "Dict/endowment.md",
     "Dict/underlie 1.md",
     "00Edu/FMI L1/FMI.md",
     "00Edu/🎮.md",
     "Dict/underlie.md",
-    "PC - Google Colab.md",
-    "Inbox/Untitled 2.md",
-    "Inbox/Untitled.md",
-    "Inbox/Latex.md"
+    "PC - Google Colab.md"
   ]
 }
