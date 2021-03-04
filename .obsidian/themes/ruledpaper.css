@@ -1,0 +1,15 @@
+	body { 
+		background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/blue-line.svg), url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/red-line.svg); 
+		background-size: 100vw 1.5em, 32px 32px;
+		background-repeat: repeat, repeat-y;
+		background-position: 0 0, 64px 0;
+		font: 100%/1 Bradley Hand, Segoe Script; 
+		margin-left: 10px; margin-right: 10px;
+    @media all and (max-width: 600px) {
+     background-position: 0 0, 12px 0;
+     font-size: 100%;
+     line-height: 1;
+     background-size: 100vw 1em, 32px 32px;
+      margin-left: 10px; margin-right: 10px;
+    }
+}
