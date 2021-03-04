@@ -1,0 +1,8 @@
+table {
+    min-width: 200px;
+}
+td img {
+    height: 16px;
+    width: 16px;
+    cursor: pointer;
+}

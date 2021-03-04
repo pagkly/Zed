@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FMI/Adding Scenarios  Plum Solutions.md",
+            "file": "PC - Google Colab.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FMI/Adding Scenarios  Plum Solutions.md",
+                "file": "PC - Google Colab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FMI/Adding Scenarios  Plum Solutions.md"
+                "file": "PC - Google Colab.md"
               }
             }
           },
@@ -124,11 +124,28 @@
             }
           },
           {
-            "id": "493d7a46b960efb5",
+            "id": "96d226ef418cbf09",
             "type": "leaf",
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1fb626c92c37734",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80160c00133e716c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GTD/Done.md",
+                "mode": "preview"
+              }
             }
           }
         ]
@@ -139,15 +156,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "FMI/Adding Scenarios  Plum Solutions.md",
-    "FMI/About the Level 1 (AFM) Exam.md",
-    "FMI/Absolute and Relative Cell Referencing.md",
-    "FMI/Absolute and Relative Cell Referencing/7-day-post-promo-689.jpg",
-    "Day Planners/20210304.md",
-    "FMI/Aggregation Functions  Plum Solutions.md",
-    "FMI/Advanced Conditional Formatting  Plum Solutions.md",
-    "FMI/Mock Exam Case study  Plum Solutions.md",
-    "FMI/Equity Schedule Case Study  Plum Solutions.md",
-    "FMI/Equity & Completing the Financial Statements.md"
+    "Untitled 3.md",
+    "Todo.md",
+    "README.md",
+    "dual mandate.md",
+    "aliases.md",
+    "GTD/Doing.md",
+    "GTD/Done.md",
+    "GTD/Todo.md",
+    "GTD/Untitled 4.md",
+    "476654632.mp4"
   ]
 }

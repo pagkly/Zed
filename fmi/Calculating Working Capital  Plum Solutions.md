@@ -1,4 +1,4 @@
----
+[[]]---
 alias: [Calculating Working Capital]
 created: 2021-03-03T08:09:26 (UTC -05:00)
 tags: [Calculating Working Capital | Plum Solutions, Calculating Working Capital | Plum Solutions]
