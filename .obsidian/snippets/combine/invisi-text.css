@@ -1,0 +1,489 @@
+
+/*
+*
+*  Blurred text, borrowed from 
+*  codepen.io/adamruf/pen/GZwdrY
+*
+*/
+
+ink[data-type="blurred"] {
+	-webkit-filter: blur(4px);
+	-o-filter: blur(4px);
+	-moz-filter: blur(4px);
+	-ms-filter: blur(4px);
+
+	filter: blur(4px);
+}
+
+[data-type="blurred"] {
+	-webkit-filter: blur(4px);
+	-o-filter: blur(4px);
+	-moz-filter: blur(4px);
+	-ms-filter: blur(4px);
+
+	filter: blur(4px);
+}
+
+ink[data-type="blurred"]:hover {
+	-webkit-filter: blur(0px);
+	-o-filter: blur(0px);
+	-moz-filter: blur(0px);
+	-ms-filter: blur(0px);
+
+	filter: blur(0px);
+}
+
+[data-type="blurred"]:hover {
+	-webkit-filter: blur(0px);
+	-o-filter: blur(0px);
+	-moz-filter: blur(0px);
+	-ms-filter: blur(0px);
+
+	filter: blur(0px);
+}
+
+ink[data-type="blurred"]:active {
+	-webkit-filter: blur(0px);
+	-o-filter: blur(0px);
+	-moz-filter: blur(0px);
+	-ms-filter: blur(0px);
+
+	filter: blur(0px);
+}
+
+[data-type="blurred"]:active {
+	-webkit-filter: blur(0px);
+	-o-filter: blur(0px);
+	-moz-filter: blur(0px);
+	-ms-filter: blur(0px);
+
+	filter: blur(0px);
+}
+
+ink[data-type="blurred ease-in"] {
+	-webkit-filter: blur(4px);
+	-o-filter: blur(4px);
+	-moz-filter: blur(4px);
+	-ms-filter: blur(4px);
+	-webkit-transition: filter ease-in 1s;
+	-apple-transition: filter ease-in 1s;
+
+	-ms-transition: filter ease-in 1s;
+	-o-transition: filter ease-in 1s;
+	-xv-transition: filter ease-in 1s;
+
+	-khtml-transition: filter ease-in 1s;
+	-kong-transition: filter ease-in 1s;
+
+	filter: blur(4px);
+}
+
+[data-type="blurred ease-in"] {
+	-webkit-filter: blur(4px);
+	-o-filter: blur(4px);
+	-moz-filter: blur(4px);
+	-ms-filter: blur(4px);
+	-webkit-transition: filter ease-in 1s;
+	-apple-transition: filter ease-in 1s;
+
+	-ms-transition: filter ease-in 1s;
+	-o-transition: filter ease-in 1s;
+	-xv-transition: filter ease-in 1s;
+
+	-khtml-transition: filter ease-in 1s;
+	-kong-transition: filter ease-in 1s;
+
+	filter: blur(4px);
+}
+
+ink[data-type="blurred ease-in"]:hover {
+	-webkit-filter: blur(0px);
+	-o-filter: blur(0px);
+	-moz-filter: blur(0px);
+	-ms-filter: blur(0px);
+
+	filter: blur(0px);
+}
+
+[data-type="blurred ease-in"]:hover {
+	-webkit-filter: blur(0px);
+	-o-filter: blur(0px);
+	-moz-filter: blur(0px);
+	-ms-filter: blur(0px);
+
+	filter: blur(0px);
+}
+
+[data-type="blurred ease-in"]:active {
+	-webkit-filter: blur(0px);
+	-o-filter: blur(0px);
+	-moz-filter: blur(0px);
+	-ms-filter: blur(0px);
+
+	filter: blur(0px);
+}
+
+[data-type="blurred ease-in"]:active {
+	-webkit-filter: blur(0px);
+	-o-filter: blur(0px);
+	-moz-filter: blur(0px);
+	-ms-filter: blur(0px);
+
+	filter: blur(0px);
+}
+
+/*For sharp-hover*/
+
+ink[data-type="sharp-hover"] {
+	color: white;
+	background-color: white;
+}
+
+ink[data-type="sharp-hover"]:hover {
+	color: black;
+}
+
+ink[data-type="sharp-hover"]:active {
+	color: black;
+}
+
+[data-type="sharp-hover"] {
+	color: white;
+	background-color: white;
+}
+
+[data-type="sharp-hover"]:hover {
+	color: black;
+}
+
+[data-type="sharp-hover"]:active {
+	color: black;
+}
+
+/*For ease-in-out*/
+
+ink[data-type="ease-in"] {
+	background-color: white;
+	-moz-transition: ease-in-out all 1s;
+
+	-webkit-transition: ease-in-out all 1s;
+	-apple-transition: ease-in-out all 1s;
+
+	-ms-transition: ease-in-out all 1s;
+	mso-transition: ease-in-out all 1s;
+
+	-o-transition: ease-in-out 1s;
+	-xv-transition: ease-in-out all 1s;
+
+	-khtml-transition: ease-in-out all 1s;
+	-kong-transition: ease-in-out all 1s;
+
+	-atsc-transition: ease-in-out all 1s;
+	-wap-transition: ease-in-out all 1s;
+	-prince-transition: ease-in-out all 1s;
+	-ah-transition: ease-in-out all 1s;
+	-hp-transition: ease-in-out all 1s;
+	-ro-transition: ease-in-out all 1s;
+	-rim-transition: ease-in-out all 1s;
+	-tc-transition: ease-in-out all 1s;
+
+	transition: ease-in-out all 1s;
+}
+
+ink[data-type="ease-in"]:hover {
+	color: black;
+}
+ink[data-type="ease-in"]:active {
+	color: black;
+}
+
+ink[data-type="ease-in"] {
+	background-color: white;
+	color: white;
+	-moz-transition: ease-in-out all 1s;
+
+	-webkit-transition: ease-in-out all 1s;
+	-apple-transition: ease-in-out all 1s;
+
+	-ms-transition: ease-in-out all 1s;
+	mso-transition: ease-in-out all 1s;
+
+	-o-transition: ease-in-out 1s;
+	-xv-transition: ease-in-out all 1s;
+
+	-khtml-transition: ease-in-out all 1s;
+	-kong-transition: ease-in-out all 1s;
+
+	-atsc-transition: ease-in-out all 1s;
+	-wap-transition: ease-in-out all 1s;
+	-prince-transition: ease-in-out all 1s;
+	-ah-transition: ease-in-out all 1s;
+	-hp-transition: ease-in-out all 1s;
+	-ro-transition: ease-in-out all 1s;
+	-rim-transition: ease-in-out all 1s;
+	-tc-transition: ease-in-out all 1s;
+
+	transition: ease-in-out all 1s;
+}
+
+ink[data-type="ease-in"]:hover {
+	color: black;
+}
+ink[data-type="ease-in"]:active {
+	color: black;
+}
+
+/*Redacted text from Adam Ruf*/
+
+ink[data-type="redacted"] {
+	background: black;
+	border-radius: 2%;
+	box-shadow: 0 0 1px rgba(0, 0, 0, 0.35);
+	content: " ";
+	height: 1.2em;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+}
+
+[data-type="redacted"] {
+	background: black;
+	border-radius: 2%;
+	box-shadow: 0 0 1px rgba(0, 0, 0, 0.35);
+	content: " ";
+	height: 1.2em;
+
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+}
+
+ink[data-type="redacted"]:hover {
+	background: transparent;
+	border-radius: 0%;
+	box-shadow: none;
+	content: " ";
+	height: 1.2em;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+	position: static;
+}
+
+ink[data-type="redacted"]:active {
+	background: transparent;
+	border-radius: 0%;
+	box-shadow: none;
+	content: " ";
+	height: 1.2em;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+	position: static;
+}
+
+[data-type="redacted"]:hover {
+	background: transparent;
+	border-radius: 0%;
+	box-shadow: none;
+	content: " ";
+	height: 1.2em;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+	position: static;
+}
+
+[data-type="redacted"]:active {
+	background: transparent;
+	border-radius: 0%;
+	box-shadow: none;
+	content: " ";
+	height: 1.2em;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+	position: static;
+}
+
+ink[data-type="redacted ease-in"] {
+	color:black;
+	background: black;
+	border-radius: 2%;
+	box-shadow: 0 0 1px rgba(0, 0, 0, 0.35);
+	content: " ";
+	height: 1.2em;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+
+	-webkit-transition: background ease-in 1s;
+	-apple-transition: background ease-in 1s;
+
+	-ms-transition: background ease-in 1s;
+	-o-transition: background ease-in 1s;
+	-xv-transition: background ease-in 1s;
+
+	-khtml-transition: background ease-in 1s;
+	-kong-transition: background ease-in 1s;
+}
+
+[data-type="redacted ease-in"] {
+	background: black;
+	color:black;
+	border-radius: 2%;
+	box-shadow: 0 0 1px rgba(0, 0, 0, 0.35);
+	content: " ";
+	height: 1.2em;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+
+	-webkit-transition: background ease-in 1s;
+	-apple-transition: background ease-in 1s;
+
+	-ms-transition: background ease-in 1s;
+	-o-transition: background ease-in 1s;
+	-xv-transition: background ease-in 1s;
+
+	-khtml-transition: background ease-in 1s;
+	-kong-transition: background ease-in 1s;
+}
+
+ink[data-type="redacted ease-in"]:hover {
+		color:black;
+	background: transparent;
+	border-radius: 0%;
+	box-shadow: none;
+	content: " ";
+	height: 1.2em;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+	position: static;
+}
+
+ink[data-type="redacted ease-in"]:active {
+		color:black;
+	background: transparent;
+	border-radius: 0%;
+	box-shadow: none;
+	content: " ";
+	height: 1.2em;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+	position: static;
+}
+
+[data-type="redacted ease-in"]:hover {
+	background: transparent;
+		color:black;
+	border-radius: 0%;
+	box-shadow: none;
+	content: " ";
+	height: 1.2em;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+	position: static;
+}
+
+[data-type="redacted ease-in"]:active {
+	background: transparent;
+	border-radius: 0%;
+	box-shadow: none;
+	content: " ";
+	height: 1.2em;
+		color:black;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+}
+
+/*Implementing some borders*/
+
+ink[data-border] {
+	
+	border-bottom: solid;
+	border-color: black;
+	height: 10px;
+	border-spacing: 1px;
+	line-height: 200%;
+}
+
+ink[data-border]:hover {
+	/*Gone!*/
+	border: none;
+}
+
+ink[data-border]:active {
+	/*Gone!*/
+	border: none;
+}
+
+[data-border] {
+	border-bottom: solid;
+	border-color: black;
+	height: 10px;
+	border-spacing: 1px;
+	line-height: 200%;
+}
+
+[data-border]:hover {
+	/*Gone!*/
+	border: none;
+}
+
+[data-border]:active {
+	/*Gone!*/
+	border: none;
+}
+
+/*Borders that need to fade in*/
+
+ink[data-border data-type="ease-in"] {
+	border-bottom: solid;
+	border-color: black;
+	height: 10px;
+	border-spacing: 1px;
+	line-height: 200%;
+}
+
+ink[databorder data-type="ease-in"]:hover {
+	/*Gone!*/
+	border: none;
+}
+
+ink[data-border data-type="ease-in"]:active {
+	/*Gone!*/
+	border: none;
+}
+
+[data-border data-type="ease-in"] {
+	border-bottom: solid;
+	border-color: black;
+	height: 10px;
+	border-spacing: 1px;
+	line-height: 200%;
+}
+
+[data-border data-type="ease-in"]:hover {
+	/*Gone! Yay!!!!!*/
+	border: none;
+}
+
+[data-border data-type="ease-in"]:active {
+	/*Gone!*/
+	border: none;
+}
+
+/*Make text the right color*/
+
+ink[ink-text-color]:hover {
+	color: attr(ink-text-color);
+	background: none;
+}
+
+ink[ink-text-color]:active {
+	color: attr(ink-text-color);
+	background: none;
+}
+
+[ink-text-color]:hover {
+	color: attr(ink-text-color);
+	background: none;
+}
+
+[ink-text-color]:active {
+	color: attr(ink-text-color);
+	background: none;
+}

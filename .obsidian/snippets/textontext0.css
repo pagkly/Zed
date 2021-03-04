@@ -1,0 +1,3 @@
+button .comment { display: none; }
+button:hover .replies { display: none; }
+button:hover .comment { display: inline; }

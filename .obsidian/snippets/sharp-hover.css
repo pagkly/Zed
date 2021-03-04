@@ -1,0 +1,28 @@
+
+/*For sharp-hover*/
+
+ink[data-type="sharp-hover"] {
+	color: white;
+	background-color: white;
+}
+
+ink[data-type="sharp-hover"]:hover {
+	color: black;
+}
+
+ink[data-type="sharp-hover"]:active {
+	color: black;
+}
+
+[data-type="sharp-hover"] {
+	color: white;
+	background-color: white;
+}
+
+[data-type="sharp-hover"]:hover {
+	color: black;
+}
+
+[data-type="sharp-hover"]:active {
+	color: black;
+}

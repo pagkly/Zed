@@ -1,0 +1,155 @@
+/*Redacted text from Adam Ruf*/
+
+ink[data-type="redacted"] {
+	background: black;
+	border-radius: 2%;
+	box-shadow: 0 0 1px rgba(0, 0, 0, 0.35);
+	content: " ";
+	height: 1.2em;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+}
+
+[data-type="redacted"] {
+	background: black;
+	border-radius: 2%;
+	box-shadow: 0 0 1px rgba(0, 0, 0, 0.35);
+	content: " ";
+	height: 1.2em;
+
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+}
+
+ink[data-type="redacted"]:hover {
+	background: transparent;
+	border-radius: 0%;
+	box-shadow: none;
+	content: " ";
+	height: 1.2em;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+	position: static;
+}
+
+ink[data-type="redacted"]:active {
+	background: transparent;
+	border-radius: 0%;
+	box-shadow: none;
+	content: " ";
+	height: 1.2em;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+	position: static;
+}
+
+[data-type="redacted"]:hover {
+	background: transparent;
+	border-radius: 0%;
+	box-shadow: none;
+	content: " ";
+	height: 1.2em;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+	position: static;
+}
+
+[data-type="redacted"]:active {
+	background: transparent;
+	border-radius: 0%;
+	box-shadow: none;
+	content: " ";
+	height: 1.2em;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+	position: static;
+}
+
+ink[data-type="redacted ease-in"] {
+	color:black;
+	background: black;
+	border-radius: 2%;
+	box-shadow: 0 0 1px rgba(0, 0, 0, 0.35);
+	content: " ";
+	height: 1.2em;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+
+	-webkit-transition: background ease-in 1s;
+	-apple-transition: background ease-in 1s;
+
+	-ms-transition: background ease-in 1s;
+	-o-transition: background ease-in 1s;
+	-xv-transition: background ease-in 1s;
+
+	-khtml-transition: background ease-in 1s;
+	-kong-transition: background ease-in 1s;
+}
+
+[data-type="redacted ease-in"] {
+	background: black;
+	color:black;
+	border-radius: 2%;
+	box-shadow: 0 0 1px rgba(0, 0, 0, 0.35);
+	content: " ";
+	height: 1.2em;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+
+	-webkit-transition: background ease-in 1s;
+	-apple-transition: background ease-in 1s;
+
+	-ms-transition: background ease-in 1s;
+	-o-transition: background ease-in 1s;
+	-xv-transition: background ease-in 1s;
+
+	-khtml-transition: background ease-in 1s;
+	-kong-transition: background ease-in 1s;
+}
+
+ink[data-type="redacted ease-in"]:hover {
+		color:black;
+	background: transparent;
+	border-radius: 0%;
+	box-shadow: none;
+	content: " ";
+	height: 1.2em;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+	position: static;
+}
+
+ink[data-type="redacted ease-in"]:active {
+		color:black;
+	background: transparent;
+	border-radius: 0%;
+	box-shadow: none;
+	content: " ";
+	height: 1.2em;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+	position: static;
+}
+
+[data-type="redacted ease-in"]:hover {
+	background: transparent;
+		color:black;
+	border-radius: 0%;
+	box-shadow: none;
+	content: " ";
+	height: 1.2em;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+	position: static;
+}
+
+[data-type="redacted ease-in"]:active {
+	background: transparent;
+	border-radius: 0%;
+	box-shadow: none;
+	content: " ";
+	height: 1.2em;
+		color:black;
+	-webkit-transform: skewY(-5deg) rotate(5deg);
+	transform: skewY(-5deg) rotate(5deg);
+}

@@ -1,0 +1,38 @@
+/*Implementing some borders*/
+
+ink[data-border] {
+	
+	border-bottom: solid;
+	border-color: black;
+	height: 10px;
+	border-spacing: 1px;
+	line-height: 200%;
+}
+
+ink[data-border]:hover {
+	/*Gone!*/
+	border: none;
+}
+
+ink[data-border]:active {
+	/*Gone!*/
+	border: none;
+}
+
+[data-border] {
+	border-bottom: solid;
+	border-color: black;
+	height: 10px;
+	border-spacing: 1px;
+	line-height: 200%;
+}
+
+[data-border]:hover {
+	/*Gone!*/
+	border: none;
+}
+
+[data-border]:active {
+	/*Gone!*/
+	border: none;
+}

@@ -2897,50 +2897,6 @@ pre.language-note-cloze::before {
 }
 
 
-spoiler {
-  &.censor {
-    background-color: #000;
-    color: #000;
-    text-decoration:none;
-      
-    &:hover, &:focus {
-      color: inherit;
-      background: inherit;
-      text-decoration: inherit;
-    }
-        
-    &:before {
-      content: "SPOILER ";
-      color: #fff;
-    }
-
-    &:hover:before, &:focus:before {
-      color: inherit;
-    }
-  }
-  &.blur {
-    color: transparent;
-    text-shadow: 0 0 20px black;
-    transition: 0.1s all;
-      
-    img {
-      transition: 0.1s all;
-      -webkit-filter: blur(20px) grayscale(.5);
-    }
-        
-    &:hover, &:focus {
-      color: inherit;
-      text-shadow: none;
-        
-      img {
-        -webkit-filter: blur(0px) grayscale(0);
-      }
-    }
-  }
-}
-
-
-
 /*===============================================*/
 /*                                    .__    .___*/
 /*  _____   ___________  _____ _____  |__| __| _/*/

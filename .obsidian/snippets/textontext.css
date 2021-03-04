@@ -1,0 +1,12 @@
+.normal {
+   display:block;
+}
+.hovered {
+   display: none;
+}
+.normal:hover {
+   display: none;
+}
+.hovered:hover {
+   display:block:
+}

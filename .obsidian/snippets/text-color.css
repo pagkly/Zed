@@ -1,0 +1,22 @@
+
+/*Make text the right color*/
+
+ink[ink-text-color]:hover {
+	color: attr(ink-text-color);
+	background: none;
+}
+
+ink[ink-text-color]:active {
+	color: attr(ink-text-color);
+	background: none;
+}
+
+[ink-text-color]:hover {
+	color: attr(ink-text-color);
+	background: none;
+}
+
+[ink-text-color]:active {
+	color: attr(ink-text-color);
+	background: none;
+}

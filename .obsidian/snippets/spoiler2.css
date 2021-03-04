@@ -1,0 +1,10 @@
+.spoiler, .spoiler > * { transition: color 0.5s, opacity 0.5s }
+.spoiler:not(:hover) { color: transparent }
+.spoiler:not(:hover) > * { opacity: 0 }
+/* fix weird transitions on Chrome: */
+blockquote, blockquote > *:not(a) { color: black }
+
+/* some basic bg styles for demonstration purposes */
+blockquote { background: #fed; margin: 1em 0; padding: 8px; border-left: 2px solid #cba }
+code { background: #ccc; padding: 2px }
+img { vertical-align: middle }

@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 300;
+}
+
+h1 {
+  margin: 0 0 50px 0;
+  font-weight: 700;
+}
+
+.regular {
+  font-weight: 400;
+}
+
+main {
+  width: 100%;
+  height: 100%;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.centered {
+    width: 500px;
+}
+
+.content {
+  font-size: 18px;
+  margin-bottom: 75px
+}
+
+.note {
+  font-size: 14px;
+  color: gray;
+}
+
+/* Spoiler Tag on click Selectors */
+
+.spoilclick {
+    position: relative;
+    color: black;
+    text-decoration: none;
+	background-color: #FFFF00;
+}
+
+.spoilclick::before {
+    content: "";
+    position: absolute;
+    width: 130%;
+    height: 130%;
+    left: 0;
+    background-color: #000000;
+    border-radius: 4px;
+    transition: all 0.4s ease-in-out 0s;
+}
+
+.spoilclick:focus::before {
+    visibility: hidden;
+	background-color: #FFFF00;
+    opacity: 0;
+}
+
+/* Spoiler Tag on hover Selectors */
+
+.spoilhover {
+    position: relative;
+	background-color: #FFFF00;
+}
+
+.spoilhover::before {
+    content: "";
+    position: absolute;
+    width: 130%;
+    height: 130%;
+    left: 0;
+    background-color: #000000;
+    border-radius: 4px;
+    transition: all 0.4s ease-in-out 0s;
+}
+
+.spoilhover:hover::before {
+    visibility: hidden;
+	background-color: #FFFF00;
+    opacity: 0;
+}

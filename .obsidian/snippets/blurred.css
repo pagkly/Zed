@@ -1,0 +1,133 @@
+
+/*
+*
+*  Blurred text, borrowed from 
+*  codepen.io/adamruf/pen/GZwdrY
+*
+*/
+
+ink[data-type="blurred"] {
+	-webkit-filter: blur(4px);
+	-o-filter: blur(4px);
+	-moz-filter: blur(4px);
+	-ms-filter: blur(4px);
+
+	filter: blur(4px);
+}
+
+[data-type="blurred"] {
+	-webkit-filter: blur(4px);
+	-o-filter: blur(4px);
+	-moz-filter: blur(4px);
+	-ms-filter: blur(4px);
+
+	filter: blur(4px);
+}
+
+ink[data-type="blurred"]:hover {
+	-webkit-filter: blur(0px);
+	-o-filter: blur(0px);
+	-moz-filter: blur(0px);
+	-ms-filter: blur(0px);
+
+	filter: blur(0px);
+}
+
+[data-type="blurred"]:hover {
+	-webkit-filter: blur(0px);
+	-o-filter: blur(0px);
+	-moz-filter: blur(0px);
+	-ms-filter: blur(0px);
+
+	filter: blur(0px);
+}
+
+ink[data-type="blurred"]:active {
+	-webkit-filter: blur(0px);
+	-o-filter: blur(0px);
+	-moz-filter: blur(0px);
+	-ms-filter: blur(0px);
+
+	filter: blur(0px);
+}
+
+[data-type="blurred"]:active {
+	-webkit-filter: blur(0px);
+	-o-filter: blur(0px);
+	-moz-filter: blur(0px);
+	-ms-filter: blur(0px);
+
+	filter: blur(0px);
+}
+
+ink[data-type="blurred ease-in"] {
+	-webkit-filter: blur(4px);
+	-o-filter: blur(4px);
+	-moz-filter: blur(4px);
+	-ms-filter: blur(4px);
+	-webkit-transition: filter ease-in 1s;
+	-apple-transition: filter ease-in 1s;
+
+	-ms-transition: filter ease-in 1s;
+	-o-transition: filter ease-in 1s;
+	-xv-transition: filter ease-in 1s;
+
+	-khtml-transition: filter ease-in 1s;
+	-kong-transition: filter ease-in 1s;
+
+	filter: blur(4px);
+}
+
+[data-type="blurred ease-in"] {
+	-webkit-filter: blur(4px);
+	-o-filter: blur(4px);
+	-moz-filter: blur(4px);
+	-ms-filter: blur(4px);
+	-webkit-transition: filter ease-in 1s;
+	-apple-transition: filter ease-in 1s;
+
+	-ms-transition: filter ease-in 1s;
+	-o-transition: filter ease-in 1s;
+	-xv-transition: filter ease-in 1s;
+
+	-khtml-transition: filter ease-in 1s;
+	-kong-transition: filter ease-in 1s;
+
+	filter: blur(4px);
+}
+
+ink[data-type="blurred ease-in"]:hover {
+	-webkit-filter: blur(0px);
+	-o-filter: blur(0px);
+	-moz-filter: blur(0px);
+	-ms-filter: blur(0px);
+
+	filter: blur(0px);
+}
+
+[data-type="blurred ease-in"]:hover {
+	-webkit-filter: blur(0px);
+	-o-filter: blur(0px);
+	-moz-filter: blur(0px);
+	-ms-filter: blur(0px);
+
+	filter: blur(0px);
+}
+
+[data-type="blurred ease-in"]:active {
+	-webkit-filter: blur(0px);
+	-o-filter: blur(0px);
+	-moz-filter: blur(0px);
+	-ms-filter: blur(0px);
+
+	filter: blur(0px);
+}
+
+[data-type="blurred ease-in"]:active {
+	-webkit-filter: blur(0px);
+	-o-filter: blur(0px);
+	-moz-filter: blur(0px);
+	-ms-filter: blur(0px);
+
+	filter: blur(0px);
+}
