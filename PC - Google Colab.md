@@ -4,4 +4,4 @@ setx /M PATH "%PATH%;C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFo
 
 [Install colab local PC](https://research.google.com/colaboratory/local-runtimes.html "Install Jupyter")
 <details markdown='1'><summary>Start Jupyter</summary>
-```jupyter notebook  --NotebookApp.allow\_origin='https://colab.research.google.com'   --port=8888 --NotebookApp.port\_retries=0```
+jupyter notebook  --NotebookApp.allow\_origin='https://colab.research.google.com'   --port=8888 --NotebookApp.port\_retries=0
