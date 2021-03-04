@@ -198,19 +198,19 @@ to get a right-side note block
   --font-size-folder-and-file:               10px;/*左侧边栏文件字体大小*/
   --font-size-edit-normal:                   10px;/*编辑正文字体大小*/
   --font-size-preview-normal:                10px;/*预览正文字体大小*/
-  --font-size-h1:                            22px;
-  --font-size-h2:                            20px;
-  --font-size-h3:                            21px;
-  --font-size-h4:                            19px;
-  --font-size-h5:                            17px;
-  --font-size-h6:                            15px;
-  --font-size-tag:                           16px;
-  --font-size-preview-blockquote:            16px;
-  --font-size-edit-blockquote:               16px;
-  --font-size-code:                          15px;
-  --font-size-edit-code:                     16px;
-  --font-size-latex:                         20px;
-  --text-size-cloze:                         15px;
+  --font-size-h1:                            20px;
+  --font-size-h2:                            19px;
+  --font-size-h3:                            18px;
+  --font-size-h4:                            17px;
+  --font-size-h5:                            16px;
+  --font-size-h6:                            14px;
+  --font-size-tag:                           12px;
+  --font-size-preview-blockquote:            12px;
+  --font-size-edit-blockquote:               12px;
+  --font-size-code:                          12px;
+  --font-size-edit-code:                     12px;
+  --font-size-latex:                         13px;
+  --text-size-cloze:                         13px;
 
   /*font family*/
   --font-family-list:                                                    ;/*列表字体*/
