@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/20210304.md",
+            "file": "Prog/Machine Learning/FreeCodeCamp.md",
             "mode": "source"
           }
         }
@@ -77,12 +77,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/20210304.md",
+                "file": "Prog/Machine Learning/FreeCodeCamp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -105,8 +105,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "5a82fc337c517164",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/20210304.md"
+                "file": "Prog/Machine Learning/FreeCodeCamp.md"
               }
             }
           }
@@ -142,9 +141,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261
+    "width": 227
   },
   "lastOpenFiles": [
+    "Prog/Machine Learning/FreeCodeCamp.md",
     "Day Planners/20210304.md",
     "Investopedia/Investopedia5/Behind Trademarks.md",
     "Dict/inherent.md",
@@ -153,7 +153,6 @@
     "PC - Google Colab.md",
     "Dict/underlie 1.md",
     "README.md",
-    "dual mandate.md",
-    "aliases.md"
+    "dual mandate.md"
   ]
 }
