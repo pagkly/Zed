@@ -46,4 +46,4 @@ To move forward to the next video, you must **mark this video complete**. To mar
 
 ![[Calculating-Project-Costs.xlsx]]
 
-<iframe src="https://d30b7srod7pe7m.cloudfront.net/uploads/2020/08/Figure\_Managing-acute-asthma-in-adults\_web.pdf"></iframe>
+<iframe src="file://C\Users\user\Desktop\11th Talks - E.07.pdf"></iframe>
