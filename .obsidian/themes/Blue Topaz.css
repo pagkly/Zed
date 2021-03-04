@@ -204,13 +204,13 @@ to get a right-side note block
   --font-size-h4:                            17px;
   --font-size-h5:                            16px;
   --font-size-h6:                            14px;
-  --font-size-tag:                           12px;
-  --font-size-preview-blockquote:            12px;
-  --font-size-edit-blockquote:               12px;
-  --font-size-code:                          12px;
-  --font-size-edit-code:                     12px;
-  --font-size-latex:                         13px;
-  --text-size-cloze:                         13px;
+  --font-size-tag:                           11px;
+  --font-size-preview-blockquote:            11px;
+  --font-size-edit-blockquote:               11px;
+  --font-size-code:                          11px;
+  --font-size-edit-code:                     11px;
+  --font-size-latex:                         11px;
+  --text-size-cloze:                         10px;
 
   /*font family*/
   --font-family-list:                                                    ;/*列表字体*/
@@ -2897,6 +2897,48 @@ pre.language-note-cloze::before {
 }
 
 
+spoiler {
+  &.censor {
+    background-color: #000;
+    color: #000;
+    text-decoration:none;
+      
+    &:hover, &:focus {
+      color: inherit;
+      background: inherit;
+      text-decoration: inherit;
+    }
+        
+    &:before {
+      content: "SPOILER ";
+      color: #fff;
+    }
+
+    &:hover:before, &:focus:before {
+      color: inherit;
+    }
+  }
+  &.blur {
+    color: transparent;
+    text-shadow: 0 0 20px black;
+    transition: 0.1s all;
+      
+    img {
+      transition: 0.1s all;
+      -webkit-filter: blur(20px) grayscale(.5);
+    }
+        
+    &:hover, &:focus {
+      color: inherit;
+      text-shadow: none;
+        
+      img {
+        -webkit-filter: blur(0px) grayscale(0);
+      }
+    }
+  }
+}
+
 
 
 /*===============================================*/
@@ -4551,44 +4593,3 @@ aside > h2 {
 
 
 
-spoiler {
-  &.censor {
-    background-color: #000;
-    color: #000;
-    text-decoration:none;
-      
-    &:hover, &:focus {
-      color: inherit;
-      background: inherit;
-      text-decoration: inherit;
-    }
-        
-    &:before {
-      content: "SPOILER ";
-      color: #fff;
-    }
-
-    &:hover:before, &:focus:before {
-      color: inherit;
-    }
-  }
-  &.blur {
-    color: transparent;
-    text-shadow: 0 0 20px black;
-    transition: 0.1s all;
-      
-    img {
-      transition: 0.1s all;
-      -webkit-filter: blur(20px) grayscale(.5);
-    }
-        
-    &:hover, &:focus {
-      color: inherit;
-      text-shadow: none;
-        
-      img {
-        -webkit-filter: blur(0px) grayscale(0);
-      }
-    }
-  }
-}
