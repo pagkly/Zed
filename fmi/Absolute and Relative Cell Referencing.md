@@ -47,3 +47,7 @@ To move forward to the next video, you must **mark this video complete**. To mar
 ![[Calculating-Project-Costs.xlsx]]
 
 <iframe src="file:///C:/users/user/Desktop/FM/End.pdf"></iframe>
+```pdf
+
+```
+![[11th Talks - E.07 1.pdf]]
