@@ -87,14 +87,6 @@
             }
           },
           {
-            "id": "d10dd224f7eee54b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "b0985eed90f570e3",
             "type": "leaf",
             "state": {
@@ -131,12 +123,21 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
-        "id": "a1fb626c92c37734",
+        "id": "5a82fc337c517164",
         "type": "tabs",
         "children": [
+          {
+            "id": "d10dd224f7eee54b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
           {
             "id": "80160c00133e716c",
             "type": "leaf",
@@ -148,12 +149,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
     "Untitled 3.md",
