@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00Prog/PC - Google Colab.md",
+            "file": "Dict/underlie 1.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00Prog/PC - Google Colab.md",
+                "file": "Dict/underlie 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00Prog/PC - Google Colab.md"
+                "file": "Dict/underlie 1.md"
               }
             }
           }
@@ -145,15 +145,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Dict/underlie 1.md",
+    "00Edu/FMI L1/FMI.md",
+    "00Edu/🎮.md",
+    "Dict/underlie.md",
+    "Dict/inherent.md",
+    "Dict/endowment.md",
     "PC - Google Colab.md",
     "Inbox/Untitled 2.md",
     "Inbox/Untitled.md",
-    "Inbox/Latex.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "README.md",
-    "Untitled.md",
-    "Todo.md"
+    "Inbox/Latex.md"
   ]
 }
