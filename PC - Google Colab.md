@@ -4,12 +4,11 @@ tag: [install jupyter]
 ---
 
 #### how to add to the PATH variable
-<details markdown='1'><summary>how to add to the PATH variable</summary>
+
+###### hide tag
+	<details markdown='1'><summary>how to add to the PATH variable</summary>
 
 ###### [[Powershell]]
-```
-setx /M PATH "$env:PATH;C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.9\_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python39\\Scripts"
-```
 
 ```
 setx /M PATH "$env:PATH;C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.9\_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python39\\Scripts"
