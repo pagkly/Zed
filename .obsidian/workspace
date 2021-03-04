@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "00Prog/PC - Google Colab.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "00Prog/PC - Google Colab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "00Prog/PC - Google Colab.md"
               }
             }
           }
@@ -145,15 +145,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "README.md",
-    "Todo.md",
-    "dual mandate.md",
     "PC - Google Colab.md",
-    "aliases.md",
-    "Day Planners/20210304.md",
-    "Prog/Untitled.md",
-    "Prog/Machine Learning/Tools.md",
-    "Prog/Machine Learning/FreeCodeCamp.md"
+    "Inbox/Untitled 2.md",
+    "Inbox/Untitled.md",
+    "Inbox/Latex.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "README.md",
+    "Untitled.md",
+    "Todo.md"
   ]
 }
