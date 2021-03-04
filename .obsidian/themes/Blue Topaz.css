@@ -189,17 +189,17 @@ to get a right-side note block
 */
 
 :root{
-  --font-size-obsidian-titlebar:             12px;
-  --font-size-vault-name:                    14px;/*左侧库名字体大小*/
-  --font-size-file-header-title:             15px;/*文件抬头标题，只在非Andy mode plugin时生效*/
-  --font-size-file-header-title-andy-plugin: 16px;/*文件抬头标题for Andy mode plugin*/
-  --font-size-embed-title-size:              18px;
-  --font-size-embed-file:                    20px;
-  --font-size-folder-and-file:               13px;/*左侧边栏文件字体大小*/
-  --font-size-edit-normal:                   16px;/*编辑正文字体大小*/
-  --font-size-preview-normal:                16px;/*预览正文字体大小*/
-  --font-size-h1:                            25px;
-  --font-size-h2:                            23px;
+  --font-size-obsidian-titlebar:             10px;
+  --font-size-vault-name:                    12px;/*左侧库名字体大小*/
+  --font-size-file-header-title:             12px;/*文件抬头标题，只在非Andy mode plugin时生效*/
+  --font-size-file-header-title-andy-plugin: 12px;/*文件抬头标题for Andy mode plugin*/
+  --font-size-embed-title-size:              12px;
+  --font-size-embed-file:                    12px;
+  --font-size-folder-and-file:               10px;/*左侧边栏文件字体大小*/
+  --font-size-edit-normal:                   10px;/*编辑正文字体大小*/
+  --font-size-preview-normal:                10px;/*预览正文字体大小*/
+  --font-size-h1:                            22px;
+  --font-size-h2:                            20px;
   --font-size-h3:                            21px;
   --font-size-h4:                            19px;
   --font-size-h5:                            17px;

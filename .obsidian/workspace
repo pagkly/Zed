@@ -98,33 +98,15 @@
             }
           },
           {
-            "id": "f86235045c26b48a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Day Planners/20210304.md"
-              }
-            }
-          },
-          {
             "id": "e9f63eac1096b5f5",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "96d226ef418cbf09",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "5a82fc337c517164",
@@ -148,12 +130,30 @@
                 "mode": "preview"
               }
             }
+          },
+          {
+            "id": "96d226ef418cbf09",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "f86235045c26b48a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day Planners/20210304.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 261
   },
   "lastOpenFiles": [
     "Day Planners/20210304.md",
