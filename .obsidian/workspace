@@ -121,17 +121,6 @@
             }
           },
           {
-            "id": "80160c00133e716c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GTD/Done.md",
-                "mode": "preview"
-              }
-            }
-          },
-          {
             "id": "96d226ef418cbf09",
             "type": "leaf",
             "state": {
@@ -157,6 +146,7 @@
   },
   "lastOpenFiles": [
     "Day Planners/20210304.md",
+    "Investopedia/Investopedia5/Behind Trademarks.md",
     "Dict/inherent.md",
     "Dict/underlie.md",
     "Untitled 3.md",
@@ -164,7 +154,6 @@
     "Dict/underlie 1.md",
     "README.md",
     "dual mandate.md",
-    "aliases.md",
-    "Dict/endowment.md"
+    "aliases.md"
   ]
 }
