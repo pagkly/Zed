@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9c548a5bd1031b69",
+        "id": "1891666da3d6432e",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "FMI/Absolute and Relative Cell Referencing.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FMI/Absolute and Relative Cell Referencing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "FMI/Absolute and Relative Cell Referencing.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,6 +139,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Day Planners/20210304.md",
     "FMI/Absolute and Relative Cell Referencing.md",
     "00Prog/PC - Google Colab.md",
     "00Prog/How it works - Learn.md",
@@ -153,7 +148,6 @@
     "Dict/endowment.md",
     "Dict/underlie 1.md",
     "00Edu/FMI L1/FMI.md",
-    "00Edu/🎮.md",
-    "Dict/underlie.md"
+    "00Edu/🎮.md"
   ]
 }

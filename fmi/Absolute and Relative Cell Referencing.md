@@ -27,7 +27,7 @@ _Video length: 3 min 40 sec_
 [Download the Excel template for this video](https://plumsolutions.com.au/wp-content/uploads/2017/12/Absolute-Relative-Cell-Referencing.xlsx). Follow along with the video demonstration, and save your model.  Note that the models in this module are not required uploads for this course, however, you are welcome to submit them if you’d like us to check you’re on the right track.
 
 ### Additional Resources
-![[11th Talks - E.07 2.pdf]]
+
 -   See the section on “Cell Referencing Best Practices” in Chapter 5, **page 104** of [Using Excel for Business and Financial Modelling](https://plumsolutions.com.au/using-excel-for-business-and-financial-modelling/)
 -   See the section on “Referencing Cells” in Chapter 6, **page 91** of [Financial Modeling in Excel for Dummies](https://www.amazon.com/gp/product/1119357543/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1119357543&linkCode=as2&tag=plumsolufinam-20&linkId=38a7416cc3fe1691dafdb1cf4e549e4e)
 
@@ -47,7 +47,5 @@ To move forward to the next video, you must **mark this video complete**. To mar
 ![[Calculating-Project-Costs.xlsx]]
 
 <iframe src="file:///C:/users/user/Desktop/FM/End.pdf"></iframe>
-```pdf
 
-```
 ![[11th Talks - E.07 1.pdf]]
