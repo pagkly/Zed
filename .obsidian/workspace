@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "PC - Google Colab.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -141,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227
+    "width": 227,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "PC - Google Colab.md",
