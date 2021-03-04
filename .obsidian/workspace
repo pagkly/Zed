@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PC - Google Colab.md",
-            "mode": "preview"
+            "file": "Dict/endowment.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC - Google Colab.md",
+                "file": "Dict/endowment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC - Google Colab.md"
+                "file": "Dict/endowment.md"
               }
             }
           },
@@ -156,6 +156,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Dict/endowment.md",
     "Untitled 3.md",
     "Todo.md",
     "README.md",
@@ -164,7 +165,6 @@
     "GTD/Doing.md",
     "GTD/Done.md",
     "GTD/Todo.md",
-    "GTD/Untitled 4.md",
-    "476654632.mp4"
+    "GTD/Untitled 4.md"
   ]
 }
