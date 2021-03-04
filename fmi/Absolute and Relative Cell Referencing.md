@@ -42,3 +42,6 @@ To move forward to the next video, you must **mark this video complete**. To mar
 [← Previous Topic](https://plumsolutions.com.au/topic/linking-for-best-practice-2/) [Next Topic →](https://plumsolutions.com.au/topic/calculating-project-costs-2/)
 
 [![468](Absolute%20and%20Relative%20Cell%20Referencing/7-day-post-promo-689.jpg)](https://plumsolutions.com.au/elearning/7-days-financial-modelling/)
+
+
+![[Calculating-Project-Costs.xlsx]]
