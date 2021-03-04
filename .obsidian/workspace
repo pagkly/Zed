@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "caabc338b8e40d73",
+        "id": "ff5ca796fbc2f10c",
         "type": "leaf",
         "active": true,
         "state": {
@@ -157,14 +157,14 @@
   },
   "lastOpenFiles": [
     "PC - Google Colab.md",
+    "Dict/underlie 1.md",
+    "Dict/underlie.md",
     "README.md",
     "dual mandate.md",
     "aliases.md",
     "Dict/endowment.md",
     "Untitled 3.md",
     "Todo.md",
-    "GTD/Doing.md",
-    "GTD/Done.md",
-    "GTD/Todo.md"
+    "GTD/Doing.md"
   ]
 }
