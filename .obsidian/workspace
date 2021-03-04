@@ -6,10 +6,23 @@
       {
         "id": "1891666da3d6432e",
         "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "11th Talks - E.07.pdf"
+          }
+        }
+      },
+      {
+        "id": "da97183f190db70d",
+        "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "11th Talks - E.07.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -74,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "11th Talks - E.07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "11th Talks - E.07.md"
+              }
             }
           }
         ]
@@ -139,15 +155,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "11th Talks - E.07.md",
+    "11th Talks - E.07.pdf",
+    "Highlights for 11th Talks - E.07.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "Day Planners/20210304.md",
     "FMI/Absolute and Relative Cell Referencing.md",
     "00Prog/PC - Google Colab.md",
     "00Prog/How it works - Learn.md",
-    "00Prog/🐚Unix.md",
-    "Dict/inherent.md",
-    "Dict/endowment.md",
-    "Dict/underlie 1.md",
-    "00Edu/FMI L1/FMI.md",
-    "00Edu/🎮.md"
+    "00Prog/🐚Unix.md"
   ]
 }
