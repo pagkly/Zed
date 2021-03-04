@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PC - Google Colab.md",
+            "file": "Untitled.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC - Google Colab.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC - Google Colab.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -145,15 +145,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "PC - Google Colab.md",
+    "Untitled.md",
+    "README.md",
+    "Todo.md",
     "dual mandate.md",
+    "PC - Google Colab.md",
     "aliases.md",
     "Day Planners/20210304.md",
     "Prog/Untitled.md",
     "Prog/Machine Learning/Tools.md",
-    "Prog/Machine Learning/FreeCodeCamp.md",
-    "Investopedia/Investopedia5/Behind Trademarks.md",
-    "Dict/inherent.md",
-    "Dict/underlie.md"
+    "Prog/Machine Learning/FreeCodeCamp.md"
   ]
 }
