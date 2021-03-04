@@ -4,16 +4,6 @@ aliases:
   - 
 cssclass: 
 ---
-
-- `Title:` [[{{title}}]]
-- `Type:` [[+]]
-- `Tags:` 
-- `URL:` 
-- `Channel/Host:` 
-- `Reference:` 
-- `Publish Date:` 
-- `Reviewed Date:` [[{{date}}]]
-
 ---
 
 <center>
@@ -42,8 +32,20 @@ https://www.youtube.com/watch?v=zOjov-2OZ0E
 ⌨️ ([55:22](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=3322s)​) How do we Debug Code? 
 ⌨️ ([1:00:25](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=3625s)​) What are Functions? 
 ⌨️ ([1:09:52](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=4192s)​) How can we Import Functions? 
-⌨️ ([1:13:45](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=4425s)​) How do we make our own Functions? ⌨️ ([1:21:56](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=4916s)​) What are ArrayLists and Dictionaries? ⌨️ ([1:27:38](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=5258s)​) How can we use Data Structures? 
+⌨️ ([1:13:45](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=4425s)​) How do we make our own Functions? 
+⌨️ ([1:21:56](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=4916s)​) What are ArrayLists and Dictionaries? 
+⌨️ ([1:27:38](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=5258s)​) How can we use Data Structures? 
 ⌨️ ([1:36:27](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=5787s)​) What is Recursion? 
 ⌨️ ([1:43:42](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=6222s)​) What is Pseudocode? 
 ⌨️ ([1:50:40](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=6640s)​) Choosing the Right Language? 
 ⌨️ ([1:55:34](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=6934s)​) Applications of Programming
+
+
+- `Title:` [[{{title}}]]
+- `Type:` [[+]]
+- `Tags:` 
+- `URL:` 
+- `Channel/Host:` 
+- `Reference:` 
+- `Publish Date:` 
+- `Reviewed Date:` [[{{date}}]]
